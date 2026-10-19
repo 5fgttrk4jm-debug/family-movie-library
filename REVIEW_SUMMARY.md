@@ -72,9 +72,9 @@ Some of these may be set contents; none is counted as a separate photographed pa
 
 ## Validation and local handoff
 
-The offline builder, provenance checks, generated links, and client behavior tests are provided in this folder. Real Chromium browser QA passed seven checks: initial collection, mobile widths of 390px and 320px, accent-normalized search, combined filters, inventory views, and keyboard/dialog behavior. No console errors, image failures, external requests, or uncached poster entries were recorded. Desktop and mobile screenshots are retained in `qa/`.
+The offline builder, provenance checks, generated links, and client behavior tests are provided in this folder. The catalog version passed seven real Chromium checks: initial collection, mobile widths of 390px and 320px, accent-normalized search, combined filters, inventory views, and keyboard/dialog behavior. No console errors, image failures, external requests, or uncached poster entries were recorded. Desktop and mobile screenshots are retained in `qa/`. The expanded My picks browser check also passed: edition selection, persistence, removal focus, clipboard fallback, print layout and mobile dialog. 
 
-GitHub has not been modified. The `publish/` directory and `family-movie-site-final.zip` are local deployment candidates. Deployment still requires your explicit approval.
+The original catalog site was deployed with user approval. This updated `publish/` directory and `family-movie-site-final.zip` add My picks; these files are prepared locally for the next deployment.
 
 ## Source records
 
