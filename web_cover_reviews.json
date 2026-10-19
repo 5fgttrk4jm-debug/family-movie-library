@@ -1,0 +1,237 @@
+{
+  "note": "Representative web artwork does not verify the owned pressing, disc contents, ratings, or TMDB identity. Only downloaded and decoded images are included in the site.",
+  "reviews": [
+    {
+      "catalog_id": 230,
+      "image_url": "https://i5.walmartimages.com/asr/816c140d-93ee-4ee6-a308-75e2d1d74509.67d5c3cdb877698fbfcb69601c5dd4a2.jpeg",
+      "source_page": "https://www.walmart.com/ip/547463818",
+      "scope": "collection",
+      "evidence": "Exact 25th Anniversary 10-Movie Collection; publisher page independently identifies the same collection.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 245,
+      "image_url": "https://i5.walmartimages.com/seo/Balto-Balto-2-Wolf-Quest_f4582710-4adb-40ea-ac75-b98e6acfc10d.13bafec1b952e83eddd318a0dfff196e.jpeg",
+      "source_page": "https://www.walmart.com/ip/715786449",
+      "scope": "collection",
+      "evidence": "Exact Balto / Balto II: Wolf Quest double-feature retail artwork. Alternate source replaces the GRUV image that returned an HTTP error.",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "catalog_id": 268,
+      "image_url": "https://images-bucket.bonanzastatic.com/afu/images/6db7/ffed/91ce_14424537191/s-l960.jpg",
+      "source_page": "https://www.bonanza.com/listings/Gigi-God-s-Little-PRINCESS-THE-Legend-Of-The-Three-Trees-Dvd-New/1670705778",
+      "scope": "collection",
+      "evidence": "Retail image identifies the photographed Gigi / Legend of the Three Trees double feature, rather than either standalone title. Front-cover half of the retailer front/back photograph; visually inspected locally.",
+      "checked_at": "2026-10-19",
+      "crop": "left_half",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 336,
+      "image_url": "https://imgs.dvdempire.com/product/500/1475266/super-why-jack-and-the-beanstalk-other-fairytale-adventures-cover-art.jpg",
+      "source_page": "https://www.dvdempire.com/1475266/super-why-jack-and-the-beanstalk-other-fairytale-adventures-movie.html",
+      "scope": "compilation",
+      "evidence": "Retail cover explicitly identifies Jack and the Beanstalk and Other Fairytale Adventures.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 322,
+      "image_url": "https://c1.neweggimages.com/productimage/nb640/786936157017-02.jpg",
+      "source_page": "https://www.newegg.com/recess-christmas-miracle-on-third-street/p/N82E168786936157017",
+      "scope": "compilation",
+      "evidence": "Exact Recess Christmas: Miracle on Third Street DVD release.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 110,
+      "image_url": "https://i5.walmartimages.com/seo/Harry-Potter-The-Complete-8-Film-Collection-Blu-ray_f4f60e66-b25f-43bb-a3d5-e0c1e83cd586.05b3b606ae84db885fe560545e08a98e.jpeg",
+      "source_page": "https://www.walmart.com/ip/17753373",
+      "scope": "collection",
+      "evidence": "Complete 8-film Blu-ray collection; representative packaging, not a claim of a particular pressing.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 93,
+      "image_url": "https://i.ebayimg.com/images/g/HacAAeSw7kpp7~mC/s-l1200.jpg",
+      "source_page": "https://www.ebay.com/p/97933273",
+      "scope": "collection",
+      "evidence": "2011 prequel trilogy Blu-ray collection, Episodes I\u2013III; green box spine in IMG_5587.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 94,
+      "image_url": "https://i.ebayimg.com/images/g/LmwAAOSw~axl~DOT/s-l1200.jpg",
+      "source_page": "https://www.ebay.com/itm/285776578427",
+      "scope": "collection",
+      "evidence": "2011 original trilogy Blu-ray collection, Episodes IV\u2013VI; blue box spine in IMG_5587.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 136,
+      "image_url": "https://i5.walmartimages.com/seo/Sesame-Street-Old-School-Volume-1-1969-1974-DVD-Sesame-Street-Kids-Family_408a1919-2813-4bbc-8f90-9b08e6d0975d.7e58b3d0c8d98e9762431b60e78a4936.jpeg",
+      "source_page": "https://www.walmart.com/ip/815454829",
+      "scope": "compilation",
+      "evidence": "Exact Old School Volume 1, 1969\u20131974. Reissue cover represents the same volume, not verified owned pressing.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 326,
+      "image_url": "https://imgs.dvdempire.com/product/500/1384247/my-friends-tigger-and-pooh-friendly-tails-cover-art.jpg",
+      "source_page": "https://www.dvdempire.com/1384247/my-friends-tigger-and-pooh-friendly-tails-movie.html",
+      "scope": "compilation",
+      "evidence": "Exact Friendly Tails DVD title; matches photographed spine.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 47,
+      "image_url": "https://i5.walmartimages.com/seo/The-Karate-Kid-Collection-DVD-Special-Edition-1984_9c47a527-0738-4f38-bcba-1a33c5470262.4c86359c867d7a843c3edf24021f45e5.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+      "source_page": "https://www.walmart.com/ip/The-Karate-Kid-Collection-DVD-Special-Edition-1984/3520602",
+      "scope": "collection",
+      "evidence": "Original four-film collection including The Next Karate Kid, not the alternate four-film set containing the 2010 remake.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 215,
+      "image_url": "https://cdn.cdon.com/media-dynamic/images/product/cloud/store/Unknon/000/218/919/317/218919317-392308774-11453-org.jpg?cache=134132203859377696&imWidth=600",
+      "source_page": "https://cdon.se/produkt/lego-star-wars-padawan-mance-the-empire-strikes-out-the-dvd-brand-new-2711b6f970595f74/",
+      "scope": "collection",
+      "evidence": "Cover lists the three photographed LEGO Star Wars specials together, not unrelated standalone or complete-series artwork.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 350,
+      "image_url": "https://images.squarespace-cdn.com/content/v1/54e55f53e4b0a35656e35411/1605133062892-ZJ2Y0HCYY0W4DPJLJECJ/x-men%2Bcollection%2Bdvd.jpg?format=1000w",
+      "source_page": "https://ratpacentertainment.com/store/3d6i7g98ewnnx1y6iyjf3mbikyb86c",
+      "scope": "collection",
+      "evidence": "X-Men Collection DVD packaging; original dark blue and silver box style matches IMG_5588. No contents metadata is expanded.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 121,
+      "image_url": "https://i5.walmartimages.com/seo/Baby-Genius-A-Trip-To-the-San-Diego-Zoo-DVD_fed77d74-7d1c-4851-a481-da94be9571b2.75d202129ba61a692ed21249b7138bc2.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+      "source_page": "https://www.walmart.com/ip/Baby-Genius-A-Trip-To-the-San-Diego-Zoo-DVD/37296836",
+      "scope": "work",
+      "evidence": "Baby Genius title and publisher confirmed on IMG_5574. Representative reissue cover; bonus music CD is not inferred.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 123,
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTg1OGRjY2EtODgyMC00MTYyLTk0OGUtNDQwYTY4OGNiZjA1XkEyXkFqcGc%40._V1_.jpg",
+      "source_page": "https://www.imdb.com/title/tt1079968/mediaviewer/rm1268205825/",
+      "scope": "work",
+      "evidence": "Exact A Tale With a Twist subtitle and live-action spine portrait in IMG_5574. Artwork only; year and metadata remain unchanged.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 142,
+      "image_url": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/bltecf8f4e0e84da6f9/6927c1e7f8653ae35ab129a0/VeggieTalesDukeandtheGreatPieWar_Poster.jpg?width=600",
+      "source_page": "https://www.universalpicturesathome.com/movies/veggietales-duke-and-the-great-pie-war",
+      "scope": "work",
+      "evidence": "Official Universal poster for the exact work. Does not assign an ambiguous TMDB ID.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 147,
+      "image_url": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blta5d23c7bf1eab49b/690ec0775f4e8f7174d8afaa/VeggieTalesHeroesOfTheBibleStandUp_Poster.jpg?width=600",
+      "source_page": "https://www.universalpicturesathome.com/movies/veggietales-heroes-of-the-bible-stand-up-stand-tall-stand-strong",
+      "scope": "compilation",
+      "evidence": "Official Universal artwork names the complete Stand Up, Stand Tall, Stand Strong compilation.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 131,
+      "image_url": "https://www.fishflix.com/cdn/shop/products/Christian-movies-sugar-creek-gang-series-5-dvd-set_grande.jpg?v=1532362665",
+      "source_page": "https://www.fishflix.com/products/sugar-creek-gang-series-5-dvd-set-christian-movies",
+      "scope": "collection",
+      "evidence": "Retail cover for The Sugar Creek Gang Complete Collection. Does not infer photographed set contents or pressing.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 157,
+      "image_url": "https://i.ebayimg.com/images/g/LowAAOSw8g9lwsFP/s-l1600.jpg",
+      "source_page": "https://www.ebay.com/p/54588784",
+      "scope": "work",
+      "evidence": "2006 Let's Make Music DVD retail cover; not the similarly named 2004 TV episode or Making Music with Barney.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 337,
+      "image_url": "https://i5.walmartimages.com/asr/6da09a77-1bff-4fbf-8d05-d85347cc29be.feb0458918ee9ac33765c8121c8ae6ec.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+      "source_page": "https://www.walmart.com/ip/Super-Singing-Circus-DVD/1074585",
+      "scope": "work",
+      "evidence": "Exact Super Singing Circus DVD release, not an unrelated Barney special.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 338,
+      "image_url": "https://www.canaanlandinc.com/cdn/shop/files/820413112394VeggieTalesHolidayPackDVDfront.jpg?v=1700265193",
+      "source_page": "https://www.canaanlandinc.com/products/big-idea%E2%84%A2-veggietales%C2%AE-holiday-pack-the-star-of-christmas-dvd-the-toy-that-saved-christmas-dvd-the-incredible-singing-christmas-tree-cd-a-very-veggie-christmas-cd-4-pack-box",
+      "scope": "collection",
+      "evidence": "Exact Holiday Pack containing DVD and CD media; yellow Holiday Pack spine matches IMG_5576. No additional copies or contents are invented.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 92,
+      "image_url": "https://idshop.ca/cdn/shop/products/61P2ZodUBdL_800x.jpg?v=1695082934",
+      "source_page": "https://idshop.ca/en/products/star-wars-the-clone-wars-a-galaxy-divided-tv-series-season-1-vol-1",
+      "scope": "compilation",
+      "evidence": "Exact A Galaxy Divided DVD compilation, not the 2008 Clone Wars feature film or an entire season.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 248,
+      "image_url": "https://shop.umbrellaent.com.au/cdn/shop/products/4666_WrongPlace_Packshot_DVD_SLICK.png?v=1657519920&width=1000",
+      "source_page": "https://shop.umbrellaent.com.au/products/wrong-place-the-2022",
+      "scope": "work",
+      "evidence": "Publisher artwork for the verified 2022 Mike Burns / Bruce Willis film. Australian packaging is representative artwork only; no foreign rating, format, or metadata is imported.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 257,
+      "image_url": "https://i5.walmartimages.com/seo/Looney-Tunes-Center-Stage-Vol-1-DVD_f6eefc15-7ae4-43bc-9396-60cb0b7ffa7a.fe24c4ab4f4e83cab7d8b4b7babd55ea.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+      "source_page": "https://www.walmart.com/ip/46287959",
+      "scope": "compilation",
+      "evidence": "Orange starburst front with Bugs, Road Runner, Wile E. Coyote, Elmer and Marvin matches IMG_5568. Not the orange Marvin-only Triple Feature. No contents are inferred.",
+      "checked_at": "2026-10-19",
+      "visual_review": "Downloaded artwork visually inspected, 2026-10-19; representative packaging only."
+    },
+    {
+      "catalog_id": 275,
+      "image_url": "https://b905658.smushcdn.com/905658/wp-content/uploads/2016/05/intelligent-design-versus-the-id-movement-dvd-242x350.jpg?lossy=0&strip=1&webp=1",
+      "source_page": "https://davidrivesministries.org/intelligent-design-vs-the-id-movement-with-david-rives-and-dr-terry-mortenson-on-tbn/",
+      "scope": "work",
+      "evidence": "Named DVD image on Terry Mortenson interview page, with product link explicitly identifying the Answers in Genesis DVD. Title and author match IMG_5570; not a cover for the broadcast episode.",
+      "checked_at": "2026-10-19"
+    },
+    {
+      "catalog_id": 276,
+      "image_url": "https://i.ebayimg.com/images/g/58kAAOSwJ~xgbJN0/s-l1600.webp",
+      "source_page": "https://www.ebay.com/itm/284251353362",
+      "scope": "work",
+      "evidence": "Product page and image explicitly identify The Wild Brothers Adventure 8: Deep Sea Canoe, Answers in Genesis; title, subtitle and episode number match IMG_5570.",
+      "checked_at": "2026-10-19"
+    }
+  ]
+}

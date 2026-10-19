@@ -1,0 +1,345 @@
+{
+  "original_poster_gaps": 37,
+  "web_cover_references": 26,
+  "web_covers_cached": 26,
+  "web_covers_pending": 0,
+  "entries_with_cached_artwork": 325,
+  "entries_without_cached_artwork": 11,
+  "entries_without_artwork_reference": 11,
+  "entries": [
+    {
+      "id": 23,
+      "title": "The Inheritance",
+      "source_photo": "IMG_5582.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 31,
+      "title": "American Outlaws / Young Guns II \u2014 Double Feature",
+      "source_photo": "IMG_5582.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 47,
+      "title": "The Karate Kid Collection",
+      "source_photo": "IMG_5584.jpeg",
+      "cover_source": "https://www.walmart.com/ip/The-Karate-Kid-Collection-DVD-Special-Edition-1984/3520602",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/28a16bfc438f9089e3adb095.jpg"
+    },
+    {
+      "id": 92,
+      "title": "Star Wars: The Clone Wars: A Galaxy Divided",
+      "source_photo": "IMG_5587.jpeg",
+      "cover_source": "https://idshop.ca/en/products/star-wars-the-clone-wars-a-galaxy-divided-tv-series-season-1-vol-1",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/2c2f7e3a983976c1341b12bf.jpg"
+    },
+    {
+      "id": 93,
+      "title": "Star Wars Episodes I\u2013III",
+      "source_photo": "IMG_5587.jpeg",
+      "cover_source": "https://www.ebay.com/p/97933273",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/343043722863a015cb1b06a0.jpg"
+    },
+    {
+      "id": 94,
+      "title": "Star Wars Episodes IV\u2013VI",
+      "source_photo": "IMG_5587.jpeg",
+      "cover_source": "https://www.ebay.com/itm/285776578427",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/cfca3e780d8280542751619c.jpg"
+    },
+    {
+      "id": 106,
+      "title": "Pig Tales Vol. 3: Puffed Up Piglets / Time for a Change",
+      "source_photo": "IMG_5589.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 110,
+      "title": "Harry Potter: Complete 8-Film Collection",
+      "source_photo": "IMG_5591.jpeg",
+      "cover_source": "https://www.walmart.com/ip/17753373",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/df8b7521da89ffd73470e40a.jpg"
+    },
+    {
+      "id": 121,
+      "title": "A Trip to the San Diego Zoo",
+      "source_photo": "IMG_5574.jpeg",
+      "cover_source": "https://www.walmart.com/ip/Baby-Genius-A-Trip-To-the-San-Diego-Zoo-DVD/37296836",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/a08048a054c9b60f55bc3e2f.jpg"
+    },
+    {
+      "id": 123,
+      "title": "Jack and the Beanstalk: A Tale with a Twist",
+      "source_photo": "IMG_5574.jpeg",
+      "cover_source": "https://www.imdb.com/title/tt1079968/mediaviewer/rm1268205825/",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/a76f09ce40bd84ab9dee66af.jpg"
+    },
+    {
+      "id": 131,
+      "title": "The Sugar Creek Gang: Complete Collection",
+      "source_photo": "IMG_5578.jpeg",
+      "cover_source": "https://www.fishflix.com/products/sugar-creek-gang-series-5-dvd-set-christian-movies",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/42f12ba52e629d6b363ee988.jpg"
+    },
+    {
+      "id": 133,
+      "title": "Where the Red Fern Grows",
+      "source_photo": "IMG_5578.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 136,
+      "title": "Sesame Street: Old School \u2014 Volume 1 (1969\u20131974)",
+      "source_photo": "IMG_5578.jpeg",
+      "cover_source": "https://www.walmart.com/ip/815454829",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/a2468c212794b84c3890a4da.jpg"
+    },
+    {
+      "id": 142,
+      "title": "VeggieTales: Duke and the Great Pie War",
+      "source_photo": "IMG_5576.jpeg",
+      "cover_source": "https://www.universalpicturesathome.com/movies/veggietales-duke-and-the-great-pie-war",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/31a78a6e87b57028ec294b10.jpg"
+    },
+    {
+      "id": 147,
+      "title": "VeggieTales: Heroes of the Bible \u2014 Stand Up, Stand Tall, Stand Strong!",
+      "source_photo": "IMG_5577.jpeg",
+      "cover_source": "https://www.universalpicturesathome.com/movies/veggietales-heroes-of-the-bible-stand-up-stand-tall-stand-strong",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/eb43c93cdbb0943fe2cff94e.jpg"
+    },
+    {
+      "id": 157,
+      "title": "Barney: Let\u2019s Make Music",
+      "source_photo": "IMG_5577.jpeg",
+      "cover_source": "https://www.ebay.com/p/54588784",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/b0df4f873d160d1e87eb9ef9.jpg"
+    },
+    {
+      "id": 177,
+      "title": "Sheila Walsh: Gigi God\u2019s Little Princess First Day of School",
+      "source_photo": "IMG_5577.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 215,
+      "title": "LEGO Star Wars: The Padawan Menace / The Empire Strikes Out / The Yoda Chronicles",
+      "source_photo": "IMG_5564.jpeg",
+      "cover_source": "https://cdon.se/produkt/lego-star-wars-padawan-mance-the-empire-strikes-out-the-dvd-brand-new-2711b6f970595f74/",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/8e469391d29e555933df8138.jpg"
+    },
+    {
+      "id": 230,
+      "title": "VeggieTales: 25th Anniversary 10-Movie Collection",
+      "source_photo": "IMG_5565.jpeg",
+      "cover_source": "https://www.walmart.com/ip/547463818",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/aee881e7d06baff2ee470bdc.jpg"
+    },
+    {
+      "id": 245,
+      "title": "Balto / Balto II: Wolf Quest",
+      "source_photo": "IMG_5566.jpeg",
+      "cover_source": "https://www.walmart.com/ip/715786449",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/99c1f7cd1c18c1fbea490e3c.jpg"
+    },
+    {
+      "id": 248,
+      "title": "Wrong Place",
+      "source_photo": "IMG_5566.jpeg",
+      "cover_source": "https://shop.umbrellaent.com.au/products/wrong-place-the-2022",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/fac68c52f1961831305d9832.jpg"
+    },
+    {
+      "id": 257,
+      "title": "Looney Tunes: Center Stage Collection",
+      "source_photo": "IMG_5568.jpeg",
+      "cover_source": "https://www.walmart.com/ip/46287959",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/2a5cc8207976b9bc9978bfbb.jpg"
+    },
+    {
+      "id": 268,
+      "title": "Gigi: God\u2019s Little Princess / The Legend of the Three Trees",
+      "source_photo": "IMG_5569.jpeg",
+      "cover_source": "https://www.bonanza.com/listings/Gigi-God-s-Little-PRINCESS-THE-Legend-Of-The-Three-Trees-Dvd-New/1670705778",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/02635477258553669085616d.jpg"
+    },
+    {
+      "id": 272,
+      "title": "Geronimo",
+      "source_photo": "IMG_5570.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 275,
+      "title": "Intelligent Design vs. the Intelligent Design Movement",
+      "source_photo": "IMG_5570.jpeg",
+      "cover_source": "https://davidrivesministries.org/intelligent-design-vs-the-id-movement-with-david-rives-and-dr-terry-mortenson-on-tbn/",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/f95168ba8de883ba92f41a36.jpg"
+    },
+    {
+      "id": 276,
+      "title": "The Wild Brothers: Adventure 8 \u2014 Deep-Sea Canoe",
+      "source_photo": "IMG_5570.jpeg",
+      "cover_source": "https://www.ebay.com/itm/284251353362",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/2a0e30b77e549bfd407b0b3a.jpg"
+    },
+    {
+      "id": 281,
+      "title": "Ribbits!: The Complete DVD Collection",
+      "source_photo": "IMG_5570.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 322,
+      "title": "Recess Christmas: Miracle on Third Street",
+      "source_photo": "IMG_5569.jpeg",
+      "cover_source": "https://www.newegg.com/recess-christmas-miracle-on-third-street/p/N82E168786936157017",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/74a529c2c658218144c6a1f6.jpg"
+    },
+    {
+      "id": 326,
+      "title": "My Friends Tigger & Pooh: Friendly Tails",
+      "source_photo": "IMG_5574.jpeg",
+      "cover_source": "https://www.dvdempire.com/1384247/my-friends-tigger-and-pooh-friendly-tails-movie.html",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/c32050b1451e9fa394171b5c.jpg"
+    },
+    {
+      "id": 328,
+      "title": "Jed & Roy McCoy: A Christmas Story \u2014 Storytelling Kit",
+      "source_photo": "IMG_5574.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 332,
+      "title": "Gromit\u2019s Tail-Waggin\u2019 DVD",
+      "source_photo": "IMG_5575.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 333,
+      "title": "Wars of Humanity: Combo Edition",
+      "source_photo": "IMG_5575.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 335,
+      "title": "The Girl with the Dragon Tattoo",
+      "source_photo": "IMG_5575.jpeg",
+      "cover_source": null,
+      "cover_scope": null,
+      "cover_cache_status": null,
+      "cover_local_url": null
+    },
+    {
+      "id": 336,
+      "title": "Super WHY!: Jack and the Beanstalk and Other Fairytale Adventures",
+      "source_photo": "IMG_5576.jpeg",
+      "cover_source": "https://www.dvdempire.com/1475266/super-why-jack-and-the-beanstalk-other-fairytale-adventures-movie.html",
+      "cover_scope": "compilation",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/a9871f5b3b6408118145ce8d.jpg"
+    },
+    {
+      "id": 337,
+      "title": "Barney: Super Singing Circus",
+      "source_photo": "IMG_5576.jpeg",
+      "cover_source": "https://www.walmart.com/ip/Super-Singing-Circus-DVD/1074585",
+      "cover_scope": "work",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/92a798b42792a417db3bcfa4.jpg"
+    },
+    {
+      "id": 338,
+      "title": "VeggieTales: Holiday Pack",
+      "source_photo": "IMG_5576.jpeg",
+      "cover_source": "https://www.canaanlandinc.com/products/big-idea%E2%84%A2-veggietales%C2%AE-holiday-pack-the-star-of-christmas-dvd-the-toy-that-saved-christmas-dvd-the-incredible-singing-christmas-tree-cd-a-very-veggie-christmas-cd-4-pack-box",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/a710cd919f942f9cfa78b7d6.jpg"
+    },
+    {
+      "id": 350,
+      "title": "X-Men Collection",
+      "source_photo": "IMG_5588.jpeg",
+      "cover_source": "https://ratpacentertainment.com/store/3d6i7g98ewnnx1y6iyjf3mbikyb86c",
+      "cover_scope": "collection",
+      "cover_cache_status": "cached",
+      "cover_local_url": "covers/61bcd042afbec51da560c47d.jpg"
+    }
+  ],
+  "note": "Artwork only. Inventory, metadata, ratings, disc contents and TMDB identities are unchanged."
+}

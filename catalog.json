@@ -65,7 +65,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/sa9UQfzagl6VjSwkoknZcqfeWQE.jpg",
     "poster_display_url": "posters/sa9UQfzagl6VjSwkoknZcqfeWQE.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 2,
@@ -134,7 +135,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/cfv2EQI9Q6evmsDDondEg3FOmL2.jpg",
     "poster_display_url": "posters/cfv2EQI9Q6evmsDDondEg3FOmL2.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 3,
@@ -202,7 +204,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/bHAo59ct1wVlrAI6qrNQAMz8vqs.jpg",
     "poster_display_url": "posters/bHAo59ct1wVlrAI6qrNQAMz8vqs.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 4,
@@ -274,7 +277,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
     "poster_display_url": "posters/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 5,
@@ -341,7 +345,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/nMPm9TNoW8zwNibTFJAePryXUgT.jpg",
     "poster_display_url": "posters/nMPm9TNoW8zwNibTFJAePryXUgT.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 6,
@@ -409,7 +414,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
     "poster_display_url": "posters/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 7,
@@ -477,7 +483,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/aDhpo5lqDK0zEGEENdGdABY3Xzq.jpg",
     "poster_display_url": "posters/aDhpo5lqDK0zEGEENdGdABY3Xzq.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 8,
@@ -546,7 +553,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
     "poster_display_url": "posters/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 9,
@@ -609,7 +617,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
     "poster_display_url": "posters/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 10,
@@ -672,7 +681,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/74xTEgt7R36Fpooo50r9T25onhq.jpg",
     "poster_display_url": "posters/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 11,
@@ -736,7 +746,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/osd9fjrZQQ3PKygH4kSJHbFkgpu.jpg",
     "poster_display_url": "posters/osd9fjrZQQ3PKygH4kSJHbFkgpu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 12,
@@ -805,7 +816,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/aBypDLCtqCuKOcg9EZ7cigDQobu.jpg",
     "poster_display_url": "posters/aBypDLCtqCuKOcg9EZ7cigDQobu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 13,
@@ -869,7 +881,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/5WjZNMsBDB9FjPfIQDTT34yVSgO.jpg",
     "poster_display_url": "posters/5WjZNMsBDB9FjPfIQDTT34yVSgO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 14,
@@ -931,7 +944,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
     "poster_display_url": "posters/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 15,
@@ -996,7 +1010,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
     "poster_display_url": "posters/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 16,
@@ -1061,7 +1076,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_display_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 17,
@@ -1126,7 +1142,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_display_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 18,
@@ -1192,7 +1209,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 19,
@@ -1255,7 +1273,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
     "poster_display_url": "posters/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 20,
@@ -1320,7 +1339,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg",
     "poster_display_url": "posters/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 21,
@@ -1383,7 +1403,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
     "poster_display_url": "posters/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 22,
@@ -1450,7 +1471,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
     "poster_display_url": "posters/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 23,
@@ -1508,7 +1530,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 24,
@@ -1575,7 +1598,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_display_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 25,
@@ -1638,7 +1662,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/40ud17T4tDbILNjcVSAbj8F4Z2E.jpg",
     "poster_display_url": "posters/40ud17T4tDbILNjcVSAbj8F4Z2E.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 26,
@@ -1705,7 +1730,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_display_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 27,
@@ -1771,7 +1797,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/qK4iseZGf0YhYx53ecawSGhL0sl.jpg",
     "poster_display_url": "posters/qK4iseZGf0YhYx53ecawSGhL0sl.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 28,
@@ -1837,7 +1864,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/uuCU3QJqtCXVfd1okAptVOU221.jpg",
     "poster_display_url": "posters/uuCU3QJqtCXVfd1okAptVOU221.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 29,
@@ -1900,7 +1928,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
     "poster_display_url": "posters/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 30,
@@ -1962,7 +1991,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
     "poster_display_url": "posters/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 31,
@@ -2042,7 +2072,8 @@
     "rating_label": "Films: PG-13",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 32,
@@ -2108,7 +2139,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/jTXJFP9E9jo5SsGbhFs5L3WWUNX.jpg",
     "poster_display_url": "posters/jTXJFP9E9jo5SsGbhFs5L3WWUNX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 33,
@@ -2174,7 +2206,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/wQtGQnr5RPnmzSfV9zUcgh8R9NX.jpg",
     "poster_display_url": "posters/wQtGQnr5RPnmzSfV9zUcgh8R9NX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 34,
@@ -2236,7 +2269,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
     "poster_display_url": "posters/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 35,
@@ -2299,7 +2333,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/2WehPFFTcwaoZbOD8lgOb120ssb.jpg",
     "poster_display_url": "posters/2WehPFFTcwaoZbOD8lgOb120ssb.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 36,
@@ -2366,7 +2401,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
     "poster_display_url": "posters/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 37,
@@ -2429,7 +2465,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
     "poster_display_url": "posters/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 38,
@@ -2493,7 +2530,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
     "poster_display_url": "posters/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 39,
@@ -2558,7 +2596,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
     "poster_display_url": "posters/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 40,
@@ -2619,7 +2658,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": "posters/uIQvG3oc6ZM3g3hBBObUxIAcs1p.jpg",
     "poster_display_url": "posters/uIQvG3oc6ZM3g3hBBObUxIAcs1p.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 41,
@@ -2682,7 +2722,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
     "poster_display_url": "posters/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 42,
@@ -2745,7 +2786,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6vcDalR50RWa309vBH1NLmG2rjQ.jpg",
     "poster_display_url": "posters/6vcDalR50RWa309vBH1NLmG2rjQ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 43,
@@ -2811,7 +2853,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
     "poster_display_url": "posters/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 44,
@@ -2874,7 +2917,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
     "poster_display_url": "posters/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 45,
@@ -2937,7 +2981,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
     "poster_display_url": "posters/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 47,
@@ -3007,7 +3052,13 @@
     "rating_label": "Collection rating: PG",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/The-Karate-Kid-Collection-DVD-Special-Edition-1984/3520602",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://i5.walmartimages.com/seo/The-Karate-Kid-Collection-DVD-Special-Edition-1984_9c47a527-0738-4f38-bcba-1a33c5470262.4c86359c867d7a843c3edf24021f45e5.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+    "cover_local_url": "covers/28a16bfc438f9089e3adb095.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/28a16bfc438f9089e3adb095.jpg"
   },
   {
     "id": 48,
@@ -3074,7 +3125,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
     "poster_display_url": "posters/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 49,
@@ -3137,7 +3189,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
     "poster_display_url": "posters/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 50,
@@ -3199,7 +3252,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
     "poster_display_url": "posters/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 52,
@@ -3264,7 +3318,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
     "poster_display_url": "posters/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 53,
@@ -3332,7 +3387,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 54,
@@ -3400,7 +3456,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 55,
@@ -3468,7 +3525,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 56,
@@ -3536,7 +3594,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 57,
@@ -3604,7 +3663,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 58,
@@ -3672,7 +3732,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 59,
@@ -3740,7 +3801,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 60,
@@ -3806,7 +3868,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/v1jwfL6vVh5XgD2BgRNQvr6S7p6.jpg",
     "poster_display_url": "posters/v1jwfL6vVh5XgD2BgRNQvr6S7p6.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 61,
@@ -3873,7 +3936,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_display_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 62,
@@ -3940,7 +4004,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_display_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 63,
@@ -4007,7 +4072,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_display_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 67,
@@ -4069,7 +4135,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
     "poster_display_url": "posters/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 68,
@@ -4131,7 +4198,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg",
     "poster_display_url": "posters/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 69,
@@ -4193,7 +4261,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg",
     "poster_display_url": "posters/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 70,
@@ -4255,7 +4324,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/1rdb6Cr5VuLzW9ha2INswhpgmln.jpg",
     "poster_display_url": "posters/1rdb6Cr5VuLzW9ha2INswhpgmln.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 71,
@@ -4318,7 +4388,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
     "poster_display_url": "posters/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 72,
@@ -4380,7 +4451,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
     "poster_display_url": "posters/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 73,
@@ -4442,7 +4514,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
     "poster_display_url": "posters/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 74,
@@ -4505,7 +4578,8 @@
     "rating_label": "Rating: TV-PG",
     "poster_local_url": "posters/cNzx2XeOM0lxrK0G80WJJhJoPWn.jpg",
     "poster_display_url": "posters/cNzx2XeOM0lxrK0G80WJJhJoPWn.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 75,
@@ -4568,7 +4642,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
     "poster_display_url": "posters/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 76,
@@ -4631,7 +4706,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
     "poster_display_url": "posters/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 77,
@@ -4698,7 +4774,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
     "poster_display_url": "posters/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 78,
@@ -4765,7 +4842,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
     "poster_display_url": "posters/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 79,
@@ -4827,7 +4905,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
     "poster_display_url": "posters/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 81,
@@ -4890,7 +4969,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
     "poster_display_url": "posters/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 82,
@@ -4953,7 +5033,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
     "poster_display_url": "posters/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 83,
@@ -5015,7 +5096,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/juRFEbyx5JlNuYrZM50vcZmtN78.jpg",
     "poster_display_url": "posters/juRFEbyx5JlNuYrZM50vcZmtN78.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 84,
@@ -5077,7 +5159,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/iMY7yFn4gMvGaQYMGWnyX2QgvHZ.jpg",
     "poster_display_url": "posters/iMY7yFn4gMvGaQYMGWnyX2QgvHZ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 85,
@@ -5140,7 +5223,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/lImKHDfExAulp16grYm8zD5eONE.jpg",
     "poster_display_url": "posters/lImKHDfExAulp16grYm8zD5eONE.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 86,
@@ -5203,7 +5287,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
     "poster_display_url": "posters/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 87,
@@ -5270,7 +5355,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
     "poster_display_url": "posters/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 88,
@@ -5335,7 +5421,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/bfmpeRr9LTXzBC2dpC89FE5uavK.jpg",
     "poster_display_url": "posters/bfmpeRr9LTXzBC2dpC89FE5uavK.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 89,
@@ -5398,7 +5485,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
     "poster_display_url": "posters/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 90,
@@ -5462,7 +5550,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
     "poster_display_url": "posters/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 91,
@@ -5529,7 +5618,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 92,
@@ -5592,7 +5682,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://idshop.ca/en/products/star-wars-the-clone-wars-a-galaxy-divided-tv-series-season-1-vol-1",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://idshop.ca/cdn/shop/products/61P2ZodUBdL_800x.jpg?v=1695082934",
+    "cover_local_url": "covers/2c2f7e3a983976c1341b12bf.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/2c2f7e3a983976c1341b12bf.jpg"
   },
   {
     "id": 93,
@@ -5678,7 +5774,13 @@
     "rating_label": "Films: PG / PG-13",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.ebay.com/p/97933273",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://i.ebayimg.com/images/g/HacAAeSw7kpp7~mC/s-l1200.jpg",
+    "cover_local_url": "covers/343043722863a015cb1b06a0.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/343043722863a015cb1b06a0.jpg"
   },
   {
     "id": 94,
@@ -5747,7 +5849,13 @@
     "rating_label": "Collection rating: PG",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.ebay.com/itm/285776578427",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://i.ebayimg.com/images/g/LmwAAOSw~axl~DOT/s-l1200.jpg",
+    "cover_local_url": "covers/cfca3e780d8280542751619c.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/cfca3e780d8280542751619c.jpg"
   },
   {
     "id": 95,
@@ -5811,7 +5919,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
     "poster_display_url": "posters/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 96,
@@ -5877,7 +5986,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
     "poster_display_url": "posters/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 97,
@@ -5943,7 +6053,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg",
     "poster_display_url": "posters/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 98,
@@ -6005,7 +6116,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
     "poster_display_url": "posters/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 99,
@@ -6072,7 +6184,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "poster_display_url": "posters/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 100,
@@ -6139,7 +6252,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
     "poster_display_url": "posters/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 101,
@@ -6204,7 +6318,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/fIs7LLODtiowheV17UXycFM7DSV.jpg",
     "poster_display_url": "posters/fIs7LLODtiowheV17UXycFM7DSV.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 102,
@@ -6267,7 +6382,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/AcWnGaOG7UMeWIdDBY6prkrgRZC.jpg",
     "poster_display_url": "posters/AcWnGaOG7UMeWIdDBY6prkrgRZC.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 103,
@@ -6328,7 +6444,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
     "poster_display_url": "posters/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 104,
@@ -6392,7 +6509,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
     "poster_display_url": "posters/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 105,
@@ -6459,7 +6577,8 @@
     "rating_label": "Series rating: TV-G",
     "poster_local_url": "posters/2kJHUrNUwWaQCRcUjLLfbMWEqvx.jpg",
     "poster_display_url": "posters/2kJHUrNUwWaQCRcUjLLfbMWEqvx.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 106,
@@ -6517,7 +6636,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 107,
@@ -6580,7 +6700,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/1KCgtq413cBz1qgMT0gkPX67xzZ.jpg",
     "poster_display_url": "posters/1KCgtq413cBz1qgMT0gkPX67xzZ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 108,
@@ -6644,7 +6765,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/u9i4frT1XPaTqJxRYLJ8j2r8LYO.jpg",
     "poster_display_url": "posters/u9i4frT1XPaTqJxRYLJ8j2r8LYO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 109,
@@ -6710,7 +6832,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 110,
@@ -6774,7 +6897,13 @@
     "rating_label": "Collection rating: PG-13",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/17753373",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://i5.walmartimages.com/seo/Harry-Potter-The-Complete-8-Film-Collection-Blu-ray_f4f60e66-b25f-43bb-a3d5-e0c1e83cd586.05b3b606ae84db885fe560545e08a98e.jpeg",
+    "cover_local_url": "covers/df8b7521da89ffd73470e40a.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/df8b7521da89ffd73470e40a.jpg"
   },
   {
     "id": 111,
@@ -6842,7 +6971,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
     "poster_display_url": "posters/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 112,
@@ -6905,7 +7035,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/21GanxizOIL1CN0HLx7j3je8k87.jpg",
     "poster_display_url": "posters/21GanxizOIL1CN0HLx7j3je8k87.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 113,
@@ -6968,7 +7099,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
     "poster_display_url": "posters/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 114,
@@ -7033,7 +7165,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/77dmCJelVTBPBwbTppiisQx0e82.jpg",
     "poster_display_url": "posters/77dmCJelVTBPBwbTppiisQx0e82.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 115,
@@ -7097,7 +7230,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
     "poster_display_url": "posters/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 116,
@@ -7169,7 +7303,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/agRbLOHgN46TQO4YdKR462iR7To.jpg",
     "poster_display_url": "posters/agRbLOHgN46TQO4YdKR462iR7To.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 117,
@@ -7233,7 +7368,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg",
     "poster_display_url": "posters/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 118,
@@ -7296,7 +7432,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
     "poster_display_url": "posters/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 119,
@@ -7360,7 +7497,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
     "poster_display_url": "posters/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 120,
@@ -7426,7 +7564,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
     "poster_display_url": "posters/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 121,
@@ -7484,7 +7623,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/Baby-Genius-A-Trip-To-the-San-Diego-Zoo-DVD/37296836",
+    "cover_scope": "work",
+    "cover_reference_url": "https://i5.walmartimages.com/seo/Baby-Genius-A-Trip-To-the-San-Diego-Zoo-DVD_fed77d74-7d1c-4851-a481-da94be9571b2.75d202129ba61a692ed21249b7138bc2.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+    "cover_local_url": "covers/a08048a054c9b60f55bc3e2f.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/a08048a054c9b60f55bc3e2f.jpg"
   },
   {
     "id": 122,
@@ -7548,7 +7693,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/ac6Lv4cqW9es1RLO2XfZ0duFxPz.jpg",
     "poster_display_url": "posters/ac6Lv4cqW9es1RLO2XfZ0duFxPz.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 123,
@@ -7606,7 +7752,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.imdb.com/title/tt1079968/mediaviewer/rm1268205825/",
+    "cover_scope": "work",
+    "cover_reference_url": "https://m.media-amazon.com/images/M/MV5BZTg1OGRjY2EtODgyMC00MTYyLTk0OGUtNDQwYTY4OGNiZjA1XkEyXkFqcGc%40._V1_.jpg",
+    "cover_local_url": "covers/a76f09ce40bd84ab9dee66af.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/a76f09ce40bd84ab9dee66af.jpg"
   },
   {
     "id": 124,
@@ -7669,7 +7821,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/gA3cFzskzZdIqP2Xdq6OsfpM0q5.jpg",
     "poster_display_url": "posters/gA3cFzskzZdIqP2Xdq6OsfpM0q5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 125,
@@ -7733,7 +7886,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/2GjGPtgBQucPl57z6N27jxA1ivr.jpg",
     "poster_display_url": "posters/2GjGPtgBQucPl57z6N27jxA1ivr.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 126,
@@ -7796,7 +7950,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/9HWUhtFd2QBvFNmI8nbWcv1apgs.jpg",
     "poster_display_url": "posters/9HWUhtFd2QBvFNmI8nbWcv1apgs.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 127,
@@ -7861,7 +8016,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
     "poster_display_url": "posters/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 128,
@@ -7924,7 +8080,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/1vdPKC35IOjEAJEr9Y2rjEeyCcW.jpg",
     "poster_display_url": "posters/1vdPKC35IOjEAJEr9Y2rjEeyCcW.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 129,
@@ -7991,7 +8148,8 @@
     "rating_label": "Series rating: TV-Y7",
     "poster_local_url": "posters/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
     "poster_display_url": "posters/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 130,
@@ -8055,7 +8213,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/rSOnWm8ahvgThYp8TKGRUTcvsyw.jpg",
     "poster_display_url": "posters/rSOnWm8ahvgThYp8TKGRUTcvsyw.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 131,
@@ -8119,7 +8278,13 @@
     "rating_label": "Collection rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.fishflix.com/products/sugar-creek-gang-series-5-dvd-set-christian-movies",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://www.fishflix.com/cdn/shop/products/Christian-movies-sugar-creek-gang-series-5-dvd-set_grande.jpg?v=1532362665",
+    "cover_local_url": "covers/42f12ba52e629d6b363ee988.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/42f12ba52e629d6b363ee988.jpg"
   },
   {
     "id": 132,
@@ -8182,7 +8347,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
     "poster_display_url": "posters/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 133,
@@ -8240,7 +8406,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 134,
@@ -8302,7 +8469,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/40FelVlshxnsbmNhjqEubWkqgim.jpg",
     "poster_display_url": "posters/40FelVlshxnsbmNhjqEubWkqgim.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 135,
@@ -8368,7 +8536,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/vJj2zCjIg3R8BwuzuOYCKuLjC36.jpg",
     "poster_display_url": "posters/vJj2zCjIg3R8BwuzuOYCKuLjC36.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 136,
@@ -8431,7 +8600,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/815454829",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://i5.walmartimages.com/seo/Sesame-Street-Old-School-Volume-1-1969-1974-DVD-Sesame-Street-Kids-Family_408a1919-2813-4bbc-8f90-9b08e6d0975d.7e58b3d0c8d98e9762431b60e78a4936.jpeg",
+    "cover_local_url": "covers/a2468c212794b84c3890a4da.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/a2468c212794b84c3890a4da.jpg"
   },
   {
     "id": 137,
@@ -8494,7 +8669,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/ipHGQClHjFe3cJMglRMY8xUh4LC.jpg",
     "poster_display_url": "posters/ipHGQClHjFe3cJMglRMY8xUh4LC.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 138,
@@ -8556,7 +8732,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
     "poster_display_url": "posters/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 140,
@@ -8626,7 +8803,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
     "poster_display_url": "posters/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 141,
@@ -8689,7 +8867,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/zfRkTbBMpGzV5Lf0nmBBAcsC40h.jpg",
     "poster_display_url": "posters/zfRkTbBMpGzV5Lf0nmBBAcsC40h.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 142,
@@ -8752,7 +8931,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.universalpicturesathome.com/movies/veggietales-duke-and-the-great-pie-war",
+    "cover_scope": "work",
+    "cover_reference_url": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/bltecf8f4e0e84da6f9/6927c1e7f8653ae35ab129a0/VeggieTalesDukeandtheGreatPieWar_Poster.jpg?width=600",
+    "cover_local_url": "covers/31a78a6e87b57028ec294b10.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/31a78a6e87b57028ec294b10.jpg"
   },
   {
     "id": 143,
@@ -8815,7 +9000,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/BVctSCoczR9lvTxo0bPMlwSEOf.jpg",
     "poster_display_url": "posters/BVctSCoczR9lvTxo0bPMlwSEOf.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 144,
@@ -8878,7 +9064,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/4uygKXC8lw9SqNQR8hmQUKC153I.jpg",
     "poster_display_url": "posters/4uygKXC8lw9SqNQR8hmQUKC153I.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 145,
@@ -8941,7 +9128,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/5AneV37UHOcn8HQrJY6P4KQNlKc.jpg",
     "poster_display_url": "posters/5AneV37UHOcn8HQrJY6P4KQNlKc.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 146,
@@ -9004,7 +9192,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/n7Rw4hmof3F42FyhB0OJwvVY9nk.jpg",
     "poster_display_url": "posters/n7Rw4hmof3F42FyhB0OJwvVY9nk.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 147,
@@ -9067,7 +9256,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.universalpicturesathome.com/movies/veggietales-heroes-of-the-bible-stand-up-stand-tall-stand-strong",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blta5d23c7bf1eab49b/690ec0775f4e8f7174d8afaa/VeggieTalesHeroesOfTheBibleStandUp_Poster.jpg?width=600",
+    "cover_local_url": "covers/eb43c93cdbb0943fe2cff94e.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/eb43c93cdbb0943fe2cff94e.jpg"
   },
   {
     "id": 148,
@@ -9129,7 +9324,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/nfM9GgvQ8q51VgMgsGigCCSRZCm.jpg",
     "poster_display_url": "posters/nfM9GgvQ8q51VgMgsGigCCSRZCm.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 149,
@@ -9196,7 +9392,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/hwawxSwOkjeld4eQLSkIyyYNnqO.jpg",
     "poster_display_url": "posters/hwawxSwOkjeld4eQLSkIyyYNnqO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 153,
@@ -9260,7 +9457,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/xjToa1pDDAHPKUrgTRFIYUV2EJL.jpg",
     "poster_display_url": "posters/xjToa1pDDAHPKUrgTRFIYUV2EJL.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 154,
@@ -9326,7 +9524,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/vJj2zCjIg3R8BwuzuOYCKuLjC36.jpg",
     "poster_display_url": "posters/vJj2zCjIg3R8BwuzuOYCKuLjC36.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 155,
@@ -9391,7 +9590,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
     "poster_display_url": "posters/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 156,
@@ -9454,7 +9654,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/zbVRPwWYwdNjtEuLVy3LmgAtn2Q.jpg",
     "poster_display_url": "posters/zbVRPwWYwdNjtEuLVy3LmgAtn2Q.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 157,
@@ -9517,7 +9718,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.ebay.com/p/54588784",
+    "cover_scope": "work",
+    "cover_reference_url": "https://i.ebayimg.com/images/g/LowAAOSw8g9lwsFP/s-l1600.jpg",
+    "cover_local_url": "covers/b0df4f873d160d1e87eb9ef9.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/b0df4f873d160d1e87eb9ef9.jpg"
   },
   {
     "id": 159,
@@ -9581,7 +9788,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
     "poster_display_url": "posters/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 160,
@@ -9645,7 +9853,8 @@
     "rating_source": "https://www.themoviedb.org/movie/211672-minions?language=en-US",
     "poster_local_url": "posters/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
     "poster_display_url": "posters/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 161,
@@ -9708,7 +9917,8 @@
     "rating_source": "https://www.themoviedb.org/movie/20352-despicable-me?language=en-US",
     "poster_local_url": "posters/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
     "poster_display_url": "posters/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 162,
@@ -9772,7 +9982,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
     "poster_display_url": "posters/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 163,
@@ -9835,7 +10046,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "poster_display_url": "posters/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 164,
@@ -9903,7 +10115,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "poster_display_url": "posters/j91LJmcWo16CArFOoapsz84bwxb.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 165,
@@ -9968,7 +10181,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
     "poster_display_url": "posters/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 166,
@@ -10030,7 +10244,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/aPg6iZjnBUlsmnCSGHX85T82AJ4.jpg",
     "poster_display_url": "posters/aPg6iZjnBUlsmnCSGHX85T82AJ4.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 167,
@@ -10097,7 +10312,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
     "poster_display_url": "posters/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 168,
@@ -10162,7 +10378,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/2NaFdWy9hkM35vZB1hkqsnTcms8.jpg",
     "poster_display_url": "posters/2NaFdWy9hkM35vZB1hkqsnTcms8.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 169,
@@ -10229,7 +10446,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
     "poster_display_url": "posters/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 170,
@@ -10292,7 +10510,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
     "poster_display_url": "posters/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 171,
@@ -10357,7 +10576,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "poster_display_url": "posters/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 172,
@@ -10423,7 +10643,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/dC1rjdwynUgeZIexSqOUGM3kNpX.jpg",
     "poster_display_url": "posters/dC1rjdwynUgeZIexSqOUGM3kNpX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 173,
@@ -10486,7 +10707,8 @@
     "rating_label": "Series rating: TV-Y7",
     "poster_local_url": "posters/132XkjtQfF32hf8MxM8P055g1gW.jpg",
     "poster_display_url": "posters/132XkjtQfF32hf8MxM8P055g1gW.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 175,
@@ -10550,7 +10772,8 @@
     "rating_label": "Series rating: TV-Y",
     "poster_local_url": "posters/6mDN8OiljV7SjLo5MtvRwJn7DzR.jpg",
     "poster_display_url": "posters/6mDN8OiljV7SjLo5MtvRwJn7DzR.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 176,
@@ -10613,7 +10836,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/e3r8EooYspHj0nuSteKJ0nn8ZM9.jpg",
     "poster_display_url": "posters/e3r8EooYspHj0nuSteKJ0nn8ZM9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 177,
@@ -10676,7 +10900,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 178,
@@ -10739,7 +10964,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/nkAtswILDSLqdcgTaokgLx2SWn6.jpg",
     "poster_display_url": "posters/nkAtswILDSLqdcgTaokgLx2SWn6.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 179,
@@ -10802,7 +11028,8 @@
     "rating_label": "Series rating: TV-Y7",
     "poster_local_url": "posters/sZHzsxAqNejSKleOsS8zGFApvCS.jpg",
     "poster_display_url": "posters/sZHzsxAqNejSKleOsS8zGFApvCS.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 183,
@@ -10869,7 +11096,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
     "poster_display_url": "posters/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 184,
@@ -10931,7 +11159,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
     "poster_display_url": "posters/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 185,
@@ -10995,7 +11224,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/5koTDBmMAkJOgAe4PL4163UKjvG.jpg",
     "poster_display_url": "posters/5koTDBmMAkJOgAe4PL4163UKjvG.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 186,
@@ -11060,7 +11290,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
     "poster_display_url": "posters/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 187,
@@ -11123,7 +11354,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/fbTpSiqGn6ImqSAyawHlLf7goat.jpg",
     "poster_display_url": "posters/fbTpSiqGn6ImqSAyawHlLf7goat.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 188,
@@ -11186,7 +11418,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
     "poster_display_url": "posters/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 189,
@@ -11254,7 +11487,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
     "poster_display_url": "posters/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 190,
@@ -11317,7 +11551,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
     "poster_display_url": "posters/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 191,
@@ -11380,7 +11615,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
     "poster_display_url": "posters/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 192,
@@ -11447,7 +11683,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
     "poster_display_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 193,
@@ -11509,7 +11746,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
     "poster_display_url": "posters/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 194,
@@ -11575,7 +11813,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 195,
@@ -11641,7 +11880,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 196,
@@ -11706,7 +11946,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
     "poster_display_url": "posters/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 197,
@@ -11771,7 +12012,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
     "poster_display_url": "posters/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 198,
@@ -11833,7 +12075,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
     "poster_display_url": "posters/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 199,
@@ -11900,7 +12143,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
     "poster_display_url": "posters/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 200,
@@ -11964,7 +12208,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
     "poster_display_url": "posters/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 201,
@@ -12028,7 +12273,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg",
     "poster_display_url": "posters/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 202,
@@ -12091,7 +12337,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg",
     "poster_display_url": "posters/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 203,
@@ -12155,7 +12402,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
     "poster_display_url": "posters/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 204,
@@ -12217,7 +12465,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/yk8xDUbvnJIElgnkW3YZ3eAwiLO.jpg",
     "poster_display_url": "posters/yk8xDUbvnJIElgnkW3YZ3eAwiLO.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 205,
@@ -12282,7 +12531,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
     "poster_display_url": "posters/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 206,
@@ -12345,7 +12595,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
     "poster_display_url": "posters/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 207,
@@ -12409,7 +12660,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg",
     "poster_display_url": "posters/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 208,
@@ -12472,7 +12724,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg",
     "poster_display_url": "posters/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 209,
@@ -12535,7 +12788,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
     "poster_display_url": "posters/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 210,
@@ -12599,7 +12853,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
     "poster_display_url": "posters/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 212,
@@ -12666,7 +12921,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
     "poster_display_url": "posters/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 213,
@@ -12728,7 +12984,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
     "poster_display_url": "posters/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 214,
@@ -12791,7 +13048,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
     "poster_display_url": "posters/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 215,
@@ -12855,7 +13113,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://cdon.se/produkt/lego-star-wars-padawan-mance-the-empire-strikes-out-the-dvd-brand-new-2711b6f970595f74/",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://cdn.cdon.com/media-dynamic/images/product/cloud/store/Unknon/000/218/919/317/218919317-392308774-11453-org.jpg?cache=134132203859377696&imWidth=600",
+    "cover_local_url": "covers/8e469391d29e555933df8138.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/8e469391d29e555933df8138.jpg"
   },
   {
     "id": 216,
@@ -12921,7 +13185,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/xD2AssTeySNCamlGueai4yAZZfX.jpg",
     "poster_display_url": "posters/xD2AssTeySNCamlGueai4yAZZfX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 218,
@@ -12984,7 +13249,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/q61qEyssk2ku3okWICKArlAdhBn.jpg",
     "poster_display_url": "posters/q61qEyssk2ku3okWICKArlAdhBn.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 219,
@@ -13052,7 +13318,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 220,
@@ -13120,7 +13387,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 221,
@@ -13188,7 +13456,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 222,
@@ -13256,7 +13525,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 223,
@@ -13324,7 +13594,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 224,
@@ -13392,7 +13663,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 225,
@@ -13455,7 +13727,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/9TspO5dThMBioF0DFrvy6YqrngH.jpg",
     "poster_display_url": "posters/9TspO5dThMBioF0DFrvy6YqrngH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 226,
@@ -13520,7 +13793,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
     "poster_display_url": "posters/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 227,
@@ -13585,7 +13859,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
     "poster_display_url": "posters/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 228,
@@ -13648,7 +13923,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
     "poster_display_url": "posters/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 229,
@@ -13716,7 +13992,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
     "poster_display_url": "posters/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 230,
@@ -13780,7 +14057,13 @@
     "rating_label": "Collection rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/547463818",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://i5.walmartimages.com/asr/816c140d-93ee-4ee6-a308-75e2d1d74509.67d5c3cdb877698fbfcb69601c5dd4a2.jpeg",
+    "cover_local_url": "covers/aee881e7d06baff2ee470bdc.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/aee881e7d06baff2ee470bdc.jpg"
   },
   {
     "id": 231,
@@ -13845,7 +14128,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/xJ6ImpQIqZxBh4eE2813ljQ0TQ3.jpg",
     "poster_display_url": "posters/xJ6ImpQIqZxBh4eE2813ljQ0TQ3.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 232,
@@ -13909,7 +14193,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
     "poster_display_url": "posters/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 233,
@@ -13975,7 +14260,8 @@
     "rating_source": "https://www.themoviedb.org/movie/9477-king-arthur?language=en-US",
     "poster_local_url": "posters/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
     "poster_display_url": "posters/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 234,
@@ -14038,7 +14324,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
     "poster_display_url": "posters/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 235,
@@ -14101,7 +14388,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg",
     "poster_display_url": "posters/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 236,
@@ -14165,7 +14453,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
     "poster_display_url": "posters/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 237,
@@ -14232,7 +14521,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
     "poster_display_url": "posters/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 238,
@@ -14295,7 +14585,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
     "poster_display_url": "posters/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 239,
@@ -14357,7 +14648,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/qKvVUHdiwqkXdlRsW4fHO7SAZef.jpg",
     "poster_display_url": "posters/qKvVUHdiwqkXdlRsW4fHO7SAZef.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 240,
@@ -14420,7 +14712,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg",
     "poster_display_url": "posters/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 241,
@@ -14487,7 +14780,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg",
     "poster_display_url": "posters/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 242,
@@ -14554,7 +14848,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
     "poster_display_url": "posters/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 243,
@@ -14618,7 +14913,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/362lcwTJlNyAhitTlp2UraECISR.jpg",
     "poster_display_url": "posters/362lcwTJlNyAhitTlp2UraECISR.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 244,
@@ -14682,7 +14978,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/nIRHCWdvhcYrAVC4T7UNdZChIIg.jpg",
     "poster_display_url": "posters/nIRHCWdvhcYrAVC4T7UNdZChIIg.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 245,
@@ -14750,7 +15047,13 @@
     "rating_label": "Collection rating: G",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/715786449",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://i5.walmartimages.com/seo/Balto-Balto-2-Wolf-Quest_f4582710-4adb-40ea-ac75-b98e6acfc10d.13bafec1b952e83eddd318a0dfff196e.jpeg",
+    "cover_local_url": "covers/99c1f7cd1c18c1fbea490e3c.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/99c1f7cd1c18c1fbea490e3c.jpg"
   },
   {
     "id": 246,
@@ -14813,7 +15116,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
     "poster_display_url": "posters/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 247,
@@ -14880,7 +15184,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
     "poster_display_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 248,
@@ -14943,7 +15248,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://shop.umbrellaent.com.au/products/wrong-place-the-2022",
+    "cover_scope": "work",
+    "cover_reference_url": "https://shop.umbrellaent.com.au/cdn/shop/products/4666_WrongPlace_Packshot_DVD_SLICK.png?v=1657519920&width=1000",
+    "cover_local_url": "covers/fac68c52f1961831305d9832.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/fac68c52f1961831305d9832.jpg"
   },
   {
     "id": 249,
@@ -15006,7 +15317,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
     "poster_display_url": "posters/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 250,
@@ -15070,7 +15382,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
     "poster_display_url": "posters/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 251,
@@ -15133,7 +15446,8 @@
     "rating_source": "https://www.themoviedb.org/movie/93456-despicable-me-2?language=en-US",
     "poster_local_url": "posters/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
     "poster_display_url": "posters/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 252,
@@ -15196,7 +15510,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
     "poster_display_url": "posters/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 253,
@@ -15259,7 +15574,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
     "poster_display_url": "posters/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 254,
@@ -15326,7 +15642,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
     "poster_display_url": "posters/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 255,
@@ -15393,7 +15710,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_display_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 256,
@@ -15459,7 +15777,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/nyvNej9aHC2wydFflPMrASS6MF7.jpg",
     "poster_display_url": "posters/nyvNej9aHC2wydFflPMrASS6MF7.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 257,
@@ -15518,7 +15837,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/46287959",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://i5.walmartimages.com/seo/Looney-Tunes-Center-Stage-Vol-1-DVD_f6eefc15-7ae4-43bc-9396-60cb0b7ffa7a.fe24c4ab4f4e83cab7d8b4b7babd55ea.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+    "cover_local_url": "covers/2a5cc8207976b9bc9978bfbb.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/2a5cc8207976b9bc9978bfbb.jpg"
   },
   {
     "id": 258,
@@ -15581,7 +15906,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
     "poster_display_url": "posters/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 259,
@@ -15644,7 +15970,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
     "poster_display_url": "posters/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 260,
@@ -15707,7 +16034,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
     "poster_display_url": "posters/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 261,
@@ -15769,7 +16097,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
     "poster_display_url": "posters/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 262,
@@ -15835,7 +16164,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/gpPaN0kRKDVX9Vj8VgxsJyvxe8T.jpg",
     "poster_display_url": "posters/gpPaN0kRKDVX9Vj8VgxsJyvxe8T.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 263,
@@ -15898,7 +16228,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/izQKo4EAdAZCH8Sp3pmbmtCpJI3.jpg",
     "poster_display_url": "posters/izQKo4EAdAZCH8Sp3pmbmtCpJI3.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 264,
@@ -15961,7 +16292,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/poFWX5f0yWn92Zc4W4J3WQQZOw0.jpg",
     "poster_display_url": "posters/poFWX5f0yWn92Zc4W4J3WQQZOw0.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 265,
@@ -16025,7 +16357,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
     "poster_display_url": "posters/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 266,
@@ -16089,7 +16422,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
     "poster_display_url": "posters/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 267,
@@ -16153,7 +16487,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/hOuEgnB9jfVneEsulMcqEJE4kSL.jpg",
     "poster_display_url": "posters/hOuEgnB9jfVneEsulMcqEJE4kSL.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 268,
@@ -16211,7 +16546,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.bonanza.com/listings/Gigi-God-s-Little-PRINCESS-THE-Legend-Of-The-Three-Trees-Dvd-New/1670705778",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://images-bucket.bonanzastatic.com/afu/images/6db7/ffed/91ce_14424537191/s-l960.jpg",
+    "cover_local_url": "covers/02635477258553669085616d.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/02635477258553669085616d.jpg"
   },
   {
     "id": 270,
@@ -16279,7 +16620,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
     "poster_display_url": "posters/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 271,
@@ -16343,7 +16685,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg",
     "poster_display_url": "posters/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 272,
@@ -16401,7 +16744,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 273,
@@ -16467,7 +16811,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
     "poster_display_url": "posters/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 274,
@@ -16534,7 +16879,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
     "poster_display_url": "posters/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 275,
@@ -16592,7 +16938,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://davidrivesministries.org/intelligent-design-vs-the-id-movement-with-david-rives-and-dr-terry-mortenson-on-tbn/",
+    "cover_scope": "work",
+    "cover_reference_url": "https://b905658.smushcdn.com/905658/wp-content/uploads/2016/05/intelligent-design-versus-the-id-movement-dvd-242x350.jpg?lossy=0&strip=1&webp=1",
+    "cover_local_url": "covers/f95168ba8de883ba92f41a36.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/f95168ba8de883ba92f41a36.jpg"
   },
   {
     "id": 276,
@@ -16655,7 +17007,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.ebay.com/itm/284251353362",
+    "cover_scope": "work",
+    "cover_reference_url": "https://i.ebayimg.com/images/g/58kAAOSwJ~xgbJN0/s-l1600.webp",
+    "cover_local_url": "covers/2a0e30b77e549bfd407b0b3a.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/2a0e30b77e549bfd407b0b3a.jpg"
   },
   {
     "id": 277,
@@ -16718,7 +17076,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
     "poster_display_url": "posters/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 278,
@@ -16781,7 +17140,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/22YxmH8FHZGEVyBgKBNorVF4cqi.jpg",
     "poster_display_url": "posters/22YxmH8FHZGEVyBgKBNorVF4cqi.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 279,
@@ -16844,7 +17204,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/srD54CdOctl9WWQHgmeWyRU7C0l.jpg",
     "poster_display_url": "posters/srD54CdOctl9WWQHgmeWyRU7C0l.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 280,
@@ -16908,7 +17269,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
     "poster_display_url": "posters/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 281,
@@ -16967,7 +17329,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 282,
@@ -17036,7 +17399,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
     "poster_display_url": "posters/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 283,
@@ -17104,7 +17468,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
     "poster_display_url": "posters/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 284,
@@ -17173,7 +17538,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
     "poster_display_url": "posters/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 285,
@@ -17239,7 +17605,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
     "poster_display_url": "posters/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 286,
@@ -17308,7 +17675,8 @@
     "rating_label": "Rating: R",
     "poster_local_url": "posters/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
     "poster_display_url": "posters/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 287,
@@ -17375,7 +17743,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
     "poster_display_url": "posters/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 288,
@@ -17442,7 +17811,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
     "poster_display_url": "posters/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 289,
@@ -17514,7 +17884,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
     "poster_display_url": "posters/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 290,
@@ -17587,7 +17958,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
     "poster_display_url": "posters/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 291,
@@ -17654,7 +18026,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
     "poster_display_url": "posters/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 292,
@@ -17722,7 +18095,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
     "poster_display_url": "posters/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 293,
@@ -17787,7 +18161,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/iglKvmA7sq6Pnd6KWFnT6WW9Vpn.jpg",
     "poster_display_url": "posters/iglKvmA7sq6Pnd6KWFnT6WW9Vpn.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 294,
@@ -17859,7 +18234,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg",
     "poster_display_url": "posters/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 295,
@@ -17929,7 +18305,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
     "poster_display_url": "posters/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 296,
@@ -17996,7 +18373,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/ym7Kst6a4uodryxqbGOxmewF235.jpg",
     "poster_display_url": "posters/ym7Kst6a4uodryxqbGOxmewF235.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 297,
@@ -18063,7 +18441,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/plcZXvI310FkbwIptvd6rqk63LP.jpg",
     "poster_display_url": "posters/plcZXvI310FkbwIptvd6rqk63LP.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 298,
@@ -18132,7 +18511,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
     "poster_display_url": "posters/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 299,
@@ -18198,7 +18578,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
     "poster_display_url": "posters/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 300,
@@ -18265,7 +18646,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
     "poster_display_url": "posters/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 301,
@@ -18330,7 +18712,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/tFzUkdhPOForVrEfvxydXfPLrZR.jpg",
     "poster_display_url": "posters/tFzUkdhPOForVrEfvxydXfPLrZR.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 302,
@@ -18393,7 +18776,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
     "poster_display_url": "posters/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 303,
@@ -18455,7 +18839,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/8912AsVuS7Sj915apArUFbv6F9L.jpg",
     "poster_display_url": "posters/8912AsVuS7Sj915apArUFbv6F9L.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 304,
@@ -18521,7 +18906,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "poster_display_url": "posters/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 305,
@@ -18587,7 +18973,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
     "poster_display_url": "posters/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 306,
@@ -18650,7 +19037,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
     "poster_display_url": "posters/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 307,
@@ -18713,7 +19101,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
     "poster_display_url": "posters/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 308,
@@ -18776,7 +19165,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
     "poster_display_url": "posters/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 309,
@@ -18839,7 +19229,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
     "poster_display_url": "posters/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 310,
@@ -18901,7 +19292,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
     "poster_display_url": "posters/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 311,
@@ -18968,7 +19360,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
     "poster_display_url": "posters/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 312,
@@ -19031,7 +19424,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
     "poster_display_url": "posters/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 313,
@@ -19094,7 +19488,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
     "poster_display_url": "posters/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 314,
@@ -19156,7 +19551,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
     "poster_display_url": "posters/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 315,
@@ -19219,7 +19615,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
     "poster_display_url": "posters/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 316,
@@ -19280,7 +19677,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/PhpAdRopu0sOWf0BY7vVtxrRD3.jpg",
     "poster_display_url": "posters/PhpAdRopu0sOWf0BY7vVtxrRD3.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 317,
@@ -19344,7 +19742,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
     "poster_display_url": "posters/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 318,
@@ -19407,7 +19806,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg",
     "poster_display_url": "posters/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 319,
@@ -19471,7 +19871,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
     "poster_display_url": "posters/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 320,
@@ -19535,7 +19936,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/rwftGIvZb3llWLSrX6FG2lruBqz.jpg",
     "poster_display_url": "posters/rwftGIvZb3llWLSrX6FG2lruBqz.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 321,
@@ -19587,7 +19989,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
     "poster_display_url": "posters/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 322,
@@ -19638,7 +20041,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.newegg.com/recess-christmas-miracle-on-third-street/p/N82E168786936157017",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://c1.neweggimages.com/productimage/nb640/786936157017-02.jpg",
+    "cover_local_url": "covers/74a529c2c658218144c6a1f6.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/74a529c2c658218144c6a1f6.jpg"
   },
   {
     "id": 323,
@@ -19689,7 +20098,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
     "poster_display_url": "posters/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 324,
@@ -19743,7 +20153,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
     "poster_display_url": "posters/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 325,
@@ -19797,7 +20208,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
     "poster_display_url": "posters/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 326,
@@ -19848,7 +20260,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.dvdempire.com/1384247/my-friends-tigger-and-pooh-friendly-tails-movie.html",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://imgs.dvdempire.com/product/500/1384247/my-friends-tigger-and-pooh-friendly-tails-cover-art.jpg",
+    "cover_local_url": "covers/c32050b1451e9fa394171b5c.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/c32050b1451e9fa394171b5c.jpg"
   },
   {
     "id": 327,
@@ -19901,7 +20319,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/jDInObzAHYGsde02gTxL8B56HGT.jpg",
     "poster_display_url": "posters/jDInObzAHYGsde02gTxL8B56HGT.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 328,
@@ -19947,7 +20366,8 @@
     "rating_scope": "not_applicable",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 329,
@@ -20000,7 +20420,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/9p0BHe1kbrFX5OjUp01DtsZDB4p.jpg",
     "poster_display_url": "posters/9p0BHe1kbrFX5OjUp01DtsZDB4p.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 330,
@@ -20052,7 +20473,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
     "poster_display_url": "posters/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 331,
@@ -20104,7 +20526,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/1kznZuiS6dIVhZkRhwuf3gkG9oo.jpg",
     "poster_display_url": "posters/1kznZuiS6dIVhZkRhwuf3gkG9oo.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 332,
@@ -20155,7 +20578,8 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 333,
@@ -20201,7 +20625,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 334,
@@ -20255,7 +20680,8 @@
     "rating_label": "Series rating: TV-MA",
     "poster_local_url": "posters/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
     "poster_display_url": "posters/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 335,
@@ -20301,7 +20727,8 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "artwork_display_url": null
   },
   {
     "id": 336,
@@ -20352,7 +20779,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.dvdempire.com/1475266/super-why-jack-and-the-beanstalk-other-fairytale-adventures-movie.html",
+    "cover_scope": "compilation",
+    "cover_reference_url": "https://imgs.dvdempire.com/product/500/1475266/super-why-jack-and-the-beanstalk-other-fairytale-adventures-cover-art.jpg",
+    "cover_local_url": "covers/a9871f5b3b6408118145ce8d.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/a9871f5b3b6408118145ce8d.jpg"
   },
   {
     "id": 337,
@@ -20403,7 +20836,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.walmart.com/ip/Super-Singing-Circus-DVD/1074585",
+    "cover_scope": "work",
+    "cover_reference_url": "https://i5.walmartimages.com/asr/6da09a77-1bff-4fbf-8d05-d85347cc29be.feb0458918ee9ac33765c8121c8ae6ec.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+    "cover_local_url": "covers/92a798b42792a417db3bcfa4.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/92a798b42792a417db3bcfa4.jpg"
   },
   {
     "id": 338,
@@ -20455,7 +20894,13 @@
     "rating_label": "Collection rating: G",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://www.canaanlandinc.com/products/big-idea%E2%84%A2-veggietales%C2%AE-holiday-pack-the-star-of-christmas-dvd-the-toy-that-saved-christmas-dvd-the-incredible-singing-christmas-tree-cd-a-very-veggie-christmas-cd-4-pack-box",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://www.canaanlandinc.com/cdn/shop/files/820413112394VeggieTalesHolidayPackDVDfront.jpg?v=1700265193",
+    "cover_local_url": "covers/a710cd919f942f9cfa78b7d6.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/a710cd919f942f9cfa78b7d6.jpg"
   },
   {
     "id": 339,
@@ -20505,7 +20950,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
     "poster_display_url": "posters/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 340,
@@ -20560,7 +21006,8 @@
     "rating_label": "Rating: PG",
     "poster_local_url": "posters/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg",
     "poster_display_url": "posters/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 341,
@@ -20615,7 +21062,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
     "poster_display_url": "posters/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 342,
@@ -20665,7 +21113,8 @@
     "rating_scope": "work",
     "poster_local_url": "posters/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
     "poster_display_url": "posters/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 343,
@@ -20718,7 +21167,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_display_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 344,
@@ -20771,7 +21221,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
     "poster_display_url": "posters/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 345,
@@ -20826,7 +21277,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 346,
@@ -20881,7 +21333,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 347,
@@ -20936,7 +21389,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 348,
@@ -20991,7 +21445,8 @@
     "rating_label": "Series rating: TV-PG",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 349,
@@ -21042,7 +21497,8 @@
     "rating_label": "Series rating: TV-14",
     "poster_local_url": "posters/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
     "poster_display_url": "posters/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 350,
@@ -21089,7 +21545,13 @@
     "rating_scope": "unresolved",
     "poster_local_url": null,
     "poster_display_url": null,
-    "poster_cache_status": "no_reference"
+    "poster_cache_status": "no_reference",
+    "cover_source": "https://ratpacentertainment.com/store/3d6i7g98ewnnx1y6iyjf3mbikyb86c",
+    "cover_scope": "collection",
+    "cover_reference_url": "https://images.squarespace-cdn.com/content/v1/54e55f53e4b0a35656e35411/1605133062892-ZJ2Y0HCYY0W4DPJLJECJ/x-men%2Bcollection%2Bdvd.jpg?format=1000w",
+    "cover_local_url": "covers/61bcd042afbec51da560c47d.jpg",
+    "cover_cache_status": "cached",
+    "artwork_display_url": "covers/61bcd042afbec51da560c47d.jpg"
   },
   {
     "id": 351,
@@ -21145,7 +21607,8 @@
     "rating_label": "Rating: G",
     "poster_local_url": "posters/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
     "poster_display_url": "posters/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 352,
@@ -21203,7 +21666,8 @@
     "rating_label": "Series rating: TV-Y7",
     "poster_local_url": "posters/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
     "poster_display_url": "posters/1fRG81M83HgwupmndtgZQOBHh8o.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 353,
@@ -21258,7 +21722,8 @@
     "rating_label": "Rating: PG-13",
     "poster_local_url": "posters/lV5OpzAss1z06YNagOVap1I35mH.jpg",
     "poster_display_url": "posters/lV5OpzAss1z06YNagOVap1I35mH.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   },
   {
     "id": 354,
@@ -21310,6 +21775,7 @@
     "rating_label": "Rating: Not rated (NR)",
     "poster_local_url": "posters/4ltMbJcnnQa0fao6EgWKQuxTkna.jpg",
     "poster_display_url": "posters/4ltMbJcnnQa0fao6EgWKQuxTkna.jpg",
-    "poster_cache_status": "cached"
+    "poster_cache_status": "cached",
+    "artwork_display_url": null
   }
 ]
