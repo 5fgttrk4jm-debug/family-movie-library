@@ -1,0 +1,65 @@
+[
+  {
+    "catalog_ids": [
+      272
+    ],
+    "tmdb_id": 35588,
+    "tmdb_type": "movie",
+    "work_title": "Geronimo: An American Legend",
+    "year": 1993,
+    "genres": [
+      "Western",
+      "History",
+      "Action",
+      "Drama"
+    ],
+    "reference_rating": "PG-13",
+    "rating_region": "US",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9FNuwnhHngkblD6eVRXnmJN8kQq.jpg",
+    "source": "https://www.themoviedb.org/movie/35588-geronimo-an-american-legend?language=en-US",
+    "approved": true,
+    "method": "Owner-confirmed edition + public TMDB verification",
+    "reason": "Owner explicitly identified the film version in this session; exact TMDB work ID, release year, cast/directors and poster were verified on the public work page. Inventory and format retained."
+  },
+  {
+    "catalog_ids": [
+      335
+    ],
+    "tmdb_id": 65754,
+    "tmdb_type": "movie",
+    "work_title": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "reference_rating": "R",
+    "rating_region": "US",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+    "source": "https://www.themoviedb.org/movie/65754-the-girl-with-the-dragon-tattoo?language=en-US",
+    "approved": true,
+    "method": "Owner-confirmed edition + public TMDB verification",
+    "reason": "Owner explicitly identified the film version in this session; exact TMDB work ID, release year, cast/directors and poster were verified on the public work page. Inventory and format retained."
+  },
+  {
+    "catalog_ids": [
+      133
+    ],
+    "tmdb_id": 30071,
+    "tmdb_type": "movie",
+    "work_title": "Where the Red Fern Grows",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "reference_rating": "PG",
+    "rating_region": "US",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zUDxfnWLq73rQaa8YSHBDGx96ZS.jpg",
+    "source": "https://www.themoviedb.org/movie/30071-where-the-red-fern-grows?language=en-US",
+    "approved": true,
+    "method": "Owner-confirmed edition + public TMDB verification",
+    "reason": "Owner explicitly identified the film version in this session; exact TMDB work ID, release year, cast/directors and poster were verified on the public work page. Inventory and format retained."
+  }
+]

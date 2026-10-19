@@ -1,20 +1,19 @@
 # Family Movie Library — photo reconciliation
 
-All **30 original photographs** were visually reviewed. They contain **366 identified appearances**, representing **336 confirmed catalog entries** after repeated views are combined. This includes **335 video entries and 1 CD-ROM storytelling kit**. **The estimated 360-title inventory is not verified.** This is not a count of individual films inside every box set or a count of tested discs.
+All **30 original photographs** were visually reviewed. They contain **366 identified appearances**, representing **336 original photo-confirmed catalog entries** after repeated views are combined. The supplementary ZIP adds **9 physical records from 6 photos**. An additional **1 owner-confirmed entry** brings the current inventory to **346 entries**. This includes **345 video entries and 1 CD-ROM storytelling kit**. **The estimated 360-title inventory is not verified.** This is not a count of individual films inside every box set or a count of tested discs.
 
-**34 entries were added**. **18 original entries were not located** and remain available under the website’s “Not located in photos” view and in `inventory_unconfirmed.csv`. Not located does not mean not owned.
+**43 entries were added from the photos**. **18 original entries were not located** and remain in the audit and `inventory_unconfirmed.csv`. Not located does not mean not owned.
 
 ## Metadata and posters
 
 | Status | Confirmed entries |
 | --- | ---: |
-| Verified work metadata | 246 |
+| Verified work metadata | 259 |
 | Exact API match | 27 |
 | Saved TMDB match | 26 |
-| Needs metadata | 35 |
-| Version unresolved | 2 |
+| Needs metadata | 34 |
 
-**299 confirmed entries have sourced poster references.** Saved results were retained; limited API searches of 43 eligible gaps added 27 exact matches. No credential was saved or embedded. Public TMDB work pages supplied additional sourced corrections. 299 confirmed entries have validated local poster files; 0 references are not cached, and 37 entries have no reliable poster reference. All 281 unique referenced images, including unconfirmed records, were downloaded and validated. Work posters can differ from disc packaging; TV artwork is labeled as series art. Entries without artwork use their source photograph.
+**312 confirmed entries have sourced poster references.** Saved results were retained; limited API searches of 43 eligible gaps added 27 exact matches. No credential was saved or embedded. Public TMDB work pages supplied additional sourced corrections. 312 confirmed entries have validated local poster files; 0 references are not cached, and 34 entries have no reliable poster reference. 292 unique local poster images, including unconfirmed records, have been validated. Work posters can differ from disc packaging; TV artwork is labeled as series art. Entries without artwork use their source photograph.
 
 The rating pass revisited all 182 original gaps. Cards now include sourced film certifications, explicitly labeled TV series guidance and verified Not Rated release labels. Main-feature, theatrical and constituent-film references state their scope. UK labels are not converted to US ratings. See `RATING_REVIEW.md` and `rating_review.csv` for every outcome and source.
 
@@ -22,6 +21,7 @@ The rating pass revisited all 182 original gaps. Cards now include sourced film 
 
 - IMG_5571 and IMG_5572 show the same 21-title stack. Flyboys appears additionally in IMG_5572.
 - IMG_5579 and IMG_5580 show the same nine packages. These groups account for 30 repeated appearances.
+- **Jurassic World: Fallen Kingdom**: Original Blu-ray + DVD package plus supplementary Blu-ray disc in IMG_5608.
 - **Pokémon Detective Pikachu**: DVD case in IMG_5568 and Blu-ray in IMG_5569.
 - **Monsters, Inc.**: Blu-ray in IMG_5567; DVD in repeated IMG_5579/5580 group.
 - **The Expanse: Season 1**: DVD in IMG_5588; Blu-ray in IMG_5562.

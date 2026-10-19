@@ -1,49 +1,55 @@
 {
-  "photos_reviewed": 30,
-  "identified_photo_appearances": 366,
-  "confirmed_catalog_entries": 336,
-  "confirmed_video_entries": 335,
+  "original_photos_reviewed": 30,
+  "original_photo_appearances": 366,
+  "supplementary_photos_reviewed": 6,
+  "supplementary_photo_entries": 9,
+  "photos_reviewed": 36,
+  "identified_photo_appearances": 375,
+  "confirmed_catalog_entries": 346,
+  "confirmed_video_entries": 345,
+  "photo_confirmed_catalog_entries": 345,
+  "owner_confirmed_catalog_entries": 1,
   "other_media_entries": 1,
-  "added_from_photos": 34,
+  "added_from_photos": 43,
   "original_entries_not_located": 18,
-  "all_records_including_unconfirmed": 354,
+  "all_records_including_unconfirmed": 364,
   "estimated_titles_pre_review": 360,
   "verified_360_title_inventory": false,
-  "poster_metadata_present": 299,
-  "posters_cached_locally": 299,
+  "poster_metadata_present": 312,
+  "posters_cached_locally": 312,
   "poster_references_not_cached": 0,
-  "poster_reference_gaps": 37,
+  "poster_reference_gaps": 34,
   "poster_availability_status_counts": {
-    "cached": 299,
-    "no_reference": 37
+    "cached": 312,
+    "no_reference": 34
   },
   "match_status_counts": {
-    "Verified work metadata": 246,
+    "Verified work metadata": 259,
     "Exact API match": 27,
     "Saved TMDB match": 26,
-    "Needs metadata": 35,
-    "Version unresolved": 2
+    "Needs metadata": 34
   },
   "format_counts": {
-    "DVD": 251,
+    "DVD": 254,
     "Blu-ray + DVD": 24,
-    "Blu-ray": 58,
+    "Blu-ray": 65,
     "4K UHD": 2,
     "CD-ROM": 1
   },
   "type_counts": {
-    "Movie": 254,
-    "TV": 63,
+    "Movie": 261,
+    "TV": 66,
     "Compilation": 16,
     "Documentary": 2,
     "Other": 1
   },
-  "us_reference_ratings_available": 314,
-  "metadata_genres_available": 273,
+  "us_reference_ratings_available": 327,
+  "metadata_genres_available": 286,
   "notes": "Counts are catalog entries: seasons and multi-film sets are not expanded into an invented unique-film total. Longmire has six inner season entries in one shared outer sleeve. Two repeated photo groups add 30 repeated appearances, not additional copies. Disc playback/contents are not tested.",
-  "ratings_unavailable_on_cards": 15,
+  "ratings_unavailable_on_cards": 12,
   "scoped_rating_references": 6,
   "web_covers_cached": 26,
-  "artwork_entries_cached": 325,
-  "artwork_entries_missing": 11
+  "enhanced_covers_cached": 8,
+  "artwork_entries_cached": 346,
+  "artwork_entries_missing": 0
 }

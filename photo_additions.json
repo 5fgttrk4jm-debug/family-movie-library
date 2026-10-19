@@ -1,0 +1,241 @@
+{
+  "source_archive": "new-movie-inventory-photos-originals.zip",
+  "entries": [
+    {
+      "id": 356,
+      "title": "Landman: Season 1",
+      "year": 2024,
+      "format": "DVD",
+      "type": "TV",
+      "tmdb_type": "tv",
+      "tmdb_id": 157741,
+      "metadata_source": "https://www.themoviedb.org/tv/157741-landman?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama"
+      ],
+      "source_photo": "IMG_5606.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5606.jpeg",
+          "position": 1
+        }
+      ],
+      "season": 1,
+      "rating_source": "https://www.paramountplus.com/shows/landman/",
+      "format_status": "Owner confirmed DVD; title photographed",
+      "identity_note": "Season One printed on cover; Billy Bob Thornton, Demi Moore and Jon Hamm."
+    },
+    {
+      "id": 357,
+      "title": "Gladiator II",
+      "year": 2024,
+      "format": "DVD",
+      "type": "Movie",
+      "tmdb_type": "movie",
+      "tmdb_id": 558449,
+      "metadata_source": "https://www.themoviedb.org/movie/558449-gladiator-ii?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "source_photo": "IMG_5606.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5606.jpeg",
+          "position": 2
+        }
+      ],
+      "season": null,
+      "rating_source": "https://www.themoviedb.org/movie/558449-gladiator-ii?language=en-US",
+      "format_status": "Owner confirmed DVD; title photographed",
+      "identity_note": "Gladiator II printed on cover."
+    },
+    {
+      "id": 358,
+      "title": "Billions: Season 1",
+      "year": 2016,
+      "format": "Blu-ray",
+      "type": "TV",
+      "tmdb_type": "tv",
+      "tmdb_id": 62852,
+      "metadata_source": "https://www.themoviedb.org/tv/62852-billions?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg",
+      "rating": "TV-MA",
+      "genres": [
+        "Drama"
+      ],
+      "source_photo": "IMG_5606.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5606.jpeg",
+          "position": 3
+        }
+      ],
+      "season": 1,
+      "rating_source": "https://www.themoviedb.org/tv/62852-billions?language=en-US",
+      "format_status": "Photo confirmed",
+      "identity_note": "Season One and Blu-ray printed on cover."
+    },
+    {
+      "id": 359,
+      "title": "The Magnificent Seven",
+      "year": 2016,
+      "format": "Blu-ray",
+      "type": "Movie",
+      "tmdb_type": "movie",
+      "tmdb_id": 333484,
+      "metadata_source": "https://www.themoviedb.org/movie/333484-the-magnificent-seven?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Western"
+      ],
+      "source_photo": "IMG_5606.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5606.jpeg",
+          "position": 4
+        }
+      ],
+      "season": null,
+      "rating_source": "https://www.themoviedb.org/movie/333484-the-magnificent-seven?language=en-US",
+      "format_status": "Photo confirmed",
+      "identity_note": "2016 remake: Denzel Washington, Chris Pratt and Ethan Hawke printed on cover."
+    },
+    {
+      "id": 360,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "format": "Blu-ray",
+      "type": "Movie",
+      "tmdb_type": "movie",
+      "tmdb_id": 339964,
+      "metadata_source": "https://www.themoviedb.org/movie/339964-valerian-and-the-city-of-a-thousand-planets?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "source_photo": "IMG_5607.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5607.jpeg",
+          "position": 1
+        }
+      ],
+      "season": null,
+      "rating_source": "https://www.themoviedb.org/movie/339964-valerian-and-the-city-of-a-thousand-planets?language=en-US",
+      "format_status": "Photo confirmed",
+      "identity_note": "Full title and Blu-ray printed on disc."
+    },
+    {
+      "id": 361,
+      "metadata_from_catalog_id": 95,
+      "title": "Jurassic World: Fallen Kingdom",
+      "format": "Blu-ray",
+      "source_photo": "IMG_5608.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5608.jpeg",
+          "position": 1
+        }
+      ],
+      "format_status": "Photo confirmed",
+      "identity_note": "Title and Blu-ray printed on disc. Additional copy of the existing work; original Blu-ray + DVD package retained."
+    },
+    {
+      "id": 362,
+      "title": "The Kid Who Would Be King",
+      "year": 2019,
+      "format": "Blu-ray",
+      "type": "Movie",
+      "tmdb_type": "movie",
+      "tmdb_id": 454294,
+      "metadata_source": "https://www.themoviedb.org/movie/454294-the-kid-who-would-be-king?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
+      "rating": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Family"
+      ],
+      "source_photo": "IMG_5609.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5609.jpeg",
+          "position": 1
+        }
+      ],
+      "season": null,
+      "rating_source": "https://www.themoviedb.org/movie/454294-the-kid-who-would-be-king?language=en-US",
+      "format_status": "Photo confirmed",
+      "identity_note": "Title and Blu-ray printed on disc."
+    },
+    {
+      "id": 363,
+      "title": "Dune",
+      "year": 2021,
+      "format": "Blu-ray",
+      "type": "Movie",
+      "tmdb_type": "movie",
+      "tmdb_id": 438631,
+      "metadata_source": "https://www.themoviedb.org/movie/438631-dune?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "rating": "PG-13",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "source_photo": "IMG_5610.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5610.jpeg",
+          "position": 1
+        }
+      ],
+      "season": null,
+      "rating_source": "https://www.themoviedb.org/movie/438631-dune?language=en-US",
+      "format_status": "Photo confirmed",
+      "identity_note": "Dune disc with Warner/Legendary marks identifies the 2021 film, not the 1984 Universal film or Part Two."
+    },
+    {
+      "id": 364,
+      "title": "Abominable",
+      "year": 2019,
+      "format": "Blu-ray",
+      "type": "Movie",
+      "tmdb_type": "movie",
+      "tmdb_id": 431580,
+      "metadata_source": "https://www.themoviedb.org/movie/431580-abominable?language=en-US",
+      "poster_url": "https://image.tmdb.org/t/p/w500/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg",
+      "rating": "PG",
+      "genres": [
+        "Family",
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source_photo": "IMG_5611.jpeg",
+      "photo_evidence": [
+        {
+          "photo": "IMG_5611.jpeg",
+          "position": 1
+        }
+      ],
+      "season": null,
+      "rating_source": "https://www.themoviedb.org/movie/431580-abominable?language=en-US",
+      "format_status": "Photo confirmed",
+      "identity_note": "DreamWorks/Pearl Abominable disc with Blu-ray logo."
+    }
+  ]
+}

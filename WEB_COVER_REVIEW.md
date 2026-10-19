@@ -16,7 +16,7 @@ No API key is needed. This does not publish to GitHub. Rerunning retries failure
 
 All valid artwork is copied into `publish/covers/` and the final ZIP. Failed downloads retain the existing source-photo fallback. The builder preserves the original 299 cached poster-bearing entries and keeps web covers separate from TMDB metadata. Cards show the complete artwork with its original proportions.
 
-## Entries still held
+## Entries held at the end of the initial web pass (superseded)
 
 | ID | Title | Reason |
 |---|---|---|
@@ -39,3 +39,5 @@ Publisher and retail sources include Universal Pictures at Home, Universal's GRU
 No deployment was performed for this cover-art batch.
 
 Downloaded 23 initial images and visually reviewed their artwork. Gigi front/back image was trimmed to its front half. Balto/Balto II now uses an alternate retail image after the first source returned an HTTP error. Two additional references for the exact Mortenson lecture and Wild Brothers Adventure 8 were located and await downloading and visual inspection.
+
+The owner subsequently resolved three movie versions and supplied eight enhanced covers. See FINAL_ARTWORK_REVIEW.md and web_cover_summary.json for current availability; the historical held list above is superseded.
