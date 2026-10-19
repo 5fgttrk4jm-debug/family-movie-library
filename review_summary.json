@@ -46,6 +46,8 @@
   "us_reference_ratings_available": 327,
   "metadata_genres_available": 286,
   "notes": "Counts are catalog entries: seasons and multi-film sets are not expanded into an invented unique-film total. Longmire has six inner season entries in one shared outer sleeve. Two repeated photo groups add 30 repeated appearances, not additional copies. Disc playback/contents are not tested.",
+  "runtime_entries_available": 298,
+  "runtime_entries_missing": 48,
   "ratings_unavailable_on_cards": 12,
   "scoped_rating_references": 6,
   "web_covers_cached": 26,

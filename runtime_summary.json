@@ -1,0 +1,248 @@
+{
+  "confirmed_records": 346,
+  "with_sourced_runtime": 298,
+  "missing_runtime": 48,
+  "missing": [
+    {
+      "id": 23,
+      "title": "The Inheritance",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 27,
+      "title": "Lonesome Dove",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 28,
+      "title": "Return to Lonesome Dove",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 60,
+      "title": "The Young Riders: Season 1",
+      "edition_kind": "TV season"
+    },
+    {
+      "id": 92,
+      "title": "Star Wars: The Clone Wars: A Galaxy Divided",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 105,
+      "title": "Jane and the Dragon",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 106,
+      "title": "Pig Tales Vol. 3: Puffed Up Piglets / Time for a Change",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 110,
+      "title": "Harry Potter: Complete 8-Film Collection",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 121,
+      "title": "A Trip to the San Diego Zoo",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 123,
+      "title": "Jack and the Beanstalk: A Tale with a Twist",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 125,
+      "title": "Chicka Chicka Boom Boom \u2026and Lots More Learning Fun!",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 129,
+      "title": "The Penguins of Madagascar",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 131,
+      "title": "The Sugar Creek Gang: Complete Collection",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 135,
+      "title": "The Bellflower Bunnies Vol. 1",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 136,
+      "title": "Sesame Street: Old School \u2014 Volume 1 (1969\u20131974)",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 137,
+      "title": "Sesame Street: Elmo and Friends Tales of Adventure",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 142,
+      "title": "VeggieTales: Duke and the Great Pie War",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 147,
+      "title": "VeggieTales: Heroes of the Bible \u2014 Stand Up, Stand Tall, Stand Strong!",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 154,
+      "title": "The Bellflower Bunnies: Dandelion & the Silver Screen / At the Science Academy",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 157,
+      "title": "Barney: Let\u2019s Make Music",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 160,
+      "title": "Minions + 3 Mini-Movies",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 161,
+      "title": "Despicable Me + 3 Mini-Movies",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 169,
+      "title": "Firefly: The Complete Series",
+      "edition_kind": "Complete series"
+    },
+    {
+      "id": 175,
+      "title": "Little Robots: Big Adventures",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 177,
+      "title": "Sheila Walsh: Gigi God\u2019s Little Princess First Day of School",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 179,
+      "title": "3-2-1 Penguins!: Save the Planets!",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 195,
+      "title": "Alias: Season 3",
+      "edition_kind": "TV season"
+    },
+    {
+      "id": 215,
+      "title": "LEGO Star Wars: The Padawan Menace / The Empire Strikes Out / The Yoda Chronicles",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 230,
+      "title": "VeggieTales: 25th Anniversary 10-Movie Collection",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 248,
+      "title": "Wrong Place",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 251,
+      "title": "Despicable Me 2 + 3 Mini-Movies",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 256,
+      "title": "Fraggle Rock: Complete First Season",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 257,
+      "title": "Looney Tunes: Center Stage Collection",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 267,
+      "title": "Walt Disney Animation Collection Vol. 7: Mickey\u2019s Christmas Carol",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 268,
+      "title": "Gigi: God\u2019s Little Princess / The Legend of the Three Trees",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 275,
+      "title": "Intelligent Design vs. the Intelligent Design Movement",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 276,
+      "title": "The Wild Brothers: Adventure 8 \u2014 Deep-Sea Canoe",
+      "edition_kind": "Single title"
+    },
+    {
+      "id": 281,
+      "title": "Ribbits!: The Complete DVD Collection",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 322,
+      "title": "Recess Christmas: Miracle on Third Street",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 326,
+      "title": "My Friends Tigger & Pooh: Friendly Tails",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 328,
+      "title": "Jed & Roy McCoy: A Christmas Story \u2014 Storytelling Kit",
+      "edition_kind": "Other media"
+    },
+    {
+      "id": 332,
+      "title": "Gromit\u2019s Tail-Waggin\u2019 DVD",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 333,
+      "title": "Wars of Humanity: Combo Edition",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 336,
+      "title": "Super WHY!: Jack and the Beanstalk and Other Fairytale Adventures",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 337,
+      "title": "Barney: Super Singing Circus",
+      "edition_kind": "TV program"
+    },
+    {
+      "id": 338,
+      "title": "VeggieTales: Holiday Pack",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 350,
+      "title": "X-Men Collection",
+      "edition_kind": "Box set / compilation"
+    },
+    {
+      "id": 352,
+      "title": "The Penguins of Madagascar \u2014 Full Screen DVD",
+      "edition_kind": "TV program"
+    }
+  ],
+  "note": "Movies use minutes. Complete season and multi-feature totals use hours rounded to one decimal. Missing or incomplete totals are omitted. Disc extras are excluded."
+}

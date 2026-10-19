@@ -63,6 +63,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/33427-lego-the-adventures-of-clutch-powers?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 81,
+    "runtime_label": "81 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/33427-lego-the-adventures-of-clutch-powers?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/sa9UQfzagl6VjSwkoknZcqfeWQE.jpg",
     "poster_display_url": "posters/sa9UQfzagl6VjSwkoknZcqfeWQE.jpg",
     "poster_cache_status": "cached",
@@ -139,6 +146,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 99,
+    "runtime_label": "99 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/296881?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cfv2EQI9Q6evmsDDondEg3FOmL2.jpg",
     "poster_display_url": "posters/cfv2EQI9Q6evmsDDondEg3FOmL2.jpg",
     "poster_cache_status": "cached",
@@ -214,6 +228,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 49,
+    "runtime_label": "49 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/275600?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/bHAo59ct1wVlrAI6qrNQAMz8vqs.jpg",
     "poster_display_url": "posters/bHAo59ct1wVlrAI6qrNQAMz8vqs.jpg",
     "poster_cache_status": "cached",
@@ -293,6 +314,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 99,
+    "runtime_label": "99 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10874-muppet-treasure-island?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
     "poster_display_url": "posters/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
     "poster_cache_status": "cached",
@@ -367,6 +395,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 94,
+    "runtime_label": "94 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11899?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/nMPm9TNoW8zwNibTFJAePryXUgT.jpg",
     "poster_display_url": "posters/nMPm9TNoW8zwNibTFJAePryXUgT.jpg",
     "poster_cache_status": "cached",
@@ -442,6 +477,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/950-ice-age-the-meltdown?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 91,
+    "runtime_label": "91 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/950-ice-age-the-meltdown?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
     "poster_display_url": "posters/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
     "poster_cache_status": "cached",
@@ -517,6 +559,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/9975-curious-george?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 87,
+    "runtime_label": "87 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9975-curious-george?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aDhpo5lqDK0zEGEENdGdABY3Xzq.jpg",
     "poster_display_url": "posters/aDhpo5lqDK0zEGEENdGdABY3Xzq.jpg",
     "poster_cache_status": "cached",
@@ -593,6 +642,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/12230-one-hundred-and-one-dalmatians?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 79,
+    "runtime_label": "79 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/12230-one-hundred-and-one-dalmatians?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
     "poster_display_url": "posters/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
     "poster_cache_status": "cached",
@@ -663,6 +719,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/254-king-kong?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 200,
+    "runtime_label": "200 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/254-king-kong?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
     "poster_display_url": "posters/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
     "poster_cache_status": "cached",
@@ -734,6 +797,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 177,
+    "runtime_label": "177 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/414906?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/74xTEgt7R36Fpooo50r9T25onhq.jpg",
     "poster_display_url": "posters/74xTEgt7R36Fpooo50r9T25onhq.jpg",
     "poster_cache_status": "cached",
@@ -805,6 +875,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 75,
+    "runtime_label": "75 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/275035?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/osd9fjrZQQ3PKygH4kSJHbFkgpu.jpg",
     "poster_display_url": "posters/osd9fjrZQQ3PKygH4kSJHbFkgpu.jpg",
     "poster_cache_status": "cached",
@@ -881,6 +958,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 35,
+    "runtime_label": "35 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/273578?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aBypDLCtqCuKOcg9EZ7cigDQobu.jpg",
     "poster_display_url": "posters/aBypDLCtqCuKOcg9EZ7cigDQobu.jpg",
     "poster_cache_status": "cached",
@@ -952,6 +1036,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 45,
+    "runtime_label": "45 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/273203?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/5WjZNMsBDB9FjPfIQDTT34yVSgO.jpg",
     "poster_display_url": "posters/5WjZNMsBDB9FjPfIQDTT34yVSgO.jpg",
     "poster_cache_status": "cached",
@@ -1021,6 +1112,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/161-ocean-s-eleven",
     "rating_scope": "work",
+    "runtime_minutes": 116,
+    "runtime_label": "116 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/161-ocean-s-eleven?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
     "poster_display_url": "posters/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
     "poster_cache_status": "cached",
@@ -1093,6 +1191,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/379686-space-jam-a-new-legacy?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 115,
+    "runtime_label": "115 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/379686-space-jam-a-new-legacy?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
     "poster_display_url": "posters/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
     "poster_cache_status": "cached",
@@ -1165,6 +1270,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 1075,
+    "runtime_label": "17.9 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1416-grey-s-anatomy/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_display_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_cache_status": "cached",
@@ -1237,6 +1349,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 1161,
+    "runtime_label": "19.4 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1416-grey-s-anatomy/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_display_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_cache_status": "cached",
@@ -1310,6 +1429,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 1021,
+    "runtime_label": "17 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/2046-alias/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_cache_status": "cached",
@@ -1380,6 +1506,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/4614-the-sum-of-all-fears?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/4614-the-sum-of-all-fears?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
     "poster_display_url": "posters/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
     "poster_cache_status": "cached",
@@ -1452,6 +1585,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/9620-paycheck?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 119,
+    "runtime_label": "119 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9620-paycheck?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg",
     "poster_display_url": "posters/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg",
     "poster_cache_status": "cached",
@@ -1522,6 +1662,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/2502-the-bourne-supremacy?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2502-the-bourne-supremacy?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
     "poster_display_url": "posters/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
     "poster_cache_status": "cached",
@@ -1596,6 +1743,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 118,
+    "runtime_label": "118 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/32657-percy-jackson-the-olympians-the-lightning-thief?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
     "poster_display_url": "posters/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
     "poster_cache_status": "cached",
@@ -1742,6 +1896,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 410,
+    "runtime_label": "6.8 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/61599-the-librarians/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_display_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_cache_status": "cached",
@@ -1812,6 +1973,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/3573-emma?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 121,
+    "runtime_label": "121 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/3573-emma?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/40ud17T4tDbILNjcVSAbj8F4Z2E.jpg",
     "poster_display_url": "posters/40ud17T4tDbILNjcVSAbj8F4Z2E.jpg",
     "poster_cache_status": "cached",
@@ -1886,6 +2054,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 436,
+    "runtime_label": "7.3 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/61599-the-librarians/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_display_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_cache_status": "cached",
@@ -2102,6 +2277,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/44264-true-grit?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 110,
+    "runtime_label": "110 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/44264-true-grit?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
     "poster_display_url": "posters/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
     "poster_cache_status": "cached",
@@ -2171,6 +2353,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/4584-sense-and-sensibility?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 136,
+    "runtime_label": "136 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/4584-sense-and-sensibility?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
     "poster_display_url": "posters/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
     "poster_cache_status": "cached",
@@ -2258,6 +2447,14 @@
       }
     ],
     "rating_label": "Films: PG-13",
+    "runtime_minutes": 198,
+    "runtime_label": "3.3 h",
+    "runtime_scope": "collection",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/13496-american-outlaws?language=en-US",
+      "https://www.themoviedb.org/movie/9086-young-guns-ii?language=en-US"
+    ],
+    "runtime_basis": "Sum of listed feature runtimes; disc extras and alternate cuts excluded",
     "poster_local_url": null,
     "poster_display_url": null,
     "poster_cache_status": "no_reference",
@@ -2338,6 +2535,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 450,
+    "runtime_label": "7.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/42738-duck-dynasty/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/jTXJFP9E9jo5SsGbhFs5L3WWUNX.jpg",
     "poster_display_url": "posters/jTXJFP9E9jo5SsGbhFs5L3WWUNX.jpg",
     "poster_cache_status": "cached",
@@ -2411,6 +2615,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 102,
+    "runtime_label": "102 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1257-because-i-said-so?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/wQtGQnr5RPnmzSfV9zUcgh8R9NX.jpg",
     "poster_display_url": "posters/wQtGQnr5RPnmzSfV9zUcgh8R9NX.jpg",
     "poster_cache_status": "cached",
@@ -2480,6 +2691,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/8390-definitely-maybe?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 112,
+    "runtime_label": "112 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/8390-definitely-maybe?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
     "poster_display_url": "posters/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
     "poster_cache_status": "cached",
@@ -2550,6 +2768,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/392-chocolat?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 121,
+    "runtime_label": "121 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/392-chocolat?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2WehPFFTcwaoZbOD8lgOb120ssb.jpg",
     "poster_display_url": "posters/2WehPFFTcwaoZbOD8lgOb120ssb.jpg",
     "poster_cache_status": "cached",
@@ -2624,6 +2849,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 96,
+    "runtime_label": "96 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2698-evan-almighty?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
     "poster_display_url": "posters/blI1ioXbgJWOJ3PbcBuSV65Ebwu.jpg",
     "poster_cache_status": "cached",
@@ -2694,6 +2926,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/258230-a-monster-calls?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/258230-a-monster-calls?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
     "poster_display_url": "posters/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
     "poster_cache_status": "cached",
@@ -2765,6 +3004,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/1995-lara-croft-tomb-raider?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1995-lara-croft-tomb-raider?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
     "poster_display_url": "posters/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
     "poster_cache_status": "cached",
@@ -2837,6 +3083,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/500916-primal?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
     "poster_display_url": "posters/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
     "poster_cache_status": "cached",
@@ -2905,6 +3158,13 @@
     "photo_url": "photos/IMG_5586.jpg",
     "rating_label": "Rating unavailable",
     "rating_scope": "unresolved",
+    "runtime_minutes": 96,
+    "runtime_label": "96 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/108752?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/uIQvG3oc6ZM3g3hBBObUxIAcs1p.jpg",
     "poster_display_url": "posters/uIQvG3oc6ZM3g3hBBObUxIAcs1p.jpg",
     "poster_cache_status": "cached",
@@ -2975,6 +3235,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/76341-mad-max-fury-road?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 121,
+    "runtime_label": "121 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/76341-mad-max-fury-road?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
     "poster_display_url": "posters/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
     "poster_cache_status": "cached",
@@ -3045,6 +3312,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/634528-the-marksman?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/634528-the-marksman?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6vcDalR50RWa309vBH1NLmG2rjQ.jpg",
     "poster_display_url": "posters/6vcDalR50RWa309vBH1NLmG2rjQ.jpg",
     "poster_cache_status": "cached",
@@ -3119,6 +3393,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 107,
+    "runtime_label": "107 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/302699-central-intelligence?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
     "poster_display_url": "posters/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
     "poster_cache_status": "cached",
@@ -3189,6 +3470,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/10138-iron-man-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10138-iron-man-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
     "poster_display_url": "posters/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
     "poster_cache_status": "cached",
@@ -3259,6 +3547,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/9738-fantastic-four?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 106,
+    "runtime_label": "106 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9738-fantastic-four?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
     "poster_display_url": "posters/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
     "poster_cache_status": "cached",
@@ -3336,6 +3631,16 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "collection",
     "rating_label": "Collection rating: PG",
+    "runtime_minutes": 458,
+    "runtime_label": "7.6 h",
+    "runtime_scope": "collection",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1885-the-karate-kid?language=en-US",
+      "https://www.themoviedb.org/movie/8856-the-karate-kid-part-ii?language=en-US",
+      "https://www.themoviedb.org/movie/10495-the-karate-kid-part-iii?language=en-US",
+      "https://www.themoviedb.org/movie/11231-the-next-karate-kid?language=en-US"
+    ],
+    "runtime_basis": "Sum of listed feature runtimes; disc extras and alternate cuts excluded",
     "poster_local_url": null,
     "poster_display_url": null,
     "poster_cache_status": "no_reference",
@@ -3415,6 +3720,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 267,
+    "runtime_label": "4.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/19885-sherlock/season/4?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
     "poster_display_url": "posters/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
     "poster_cache_status": "cached",
@@ -3485,6 +3797,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/36557-casino-royale?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 144,
+    "runtime_label": "144 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/36557-casino-royale?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
     "poster_display_url": "posters/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
     "poster_cache_status": "cached",
@@ -3554,6 +3873,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/82695-les-miserables?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 158,
+    "runtime_label": "158 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/82695-les-miserables?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
     "poster_display_url": "posters/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
     "poster_cache_status": "cached",
@@ -3626,6 +3952,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/166424-fantastic-four?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
     "poster_display_url": "posters/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
     "poster_cache_status": "cached",
@@ -3701,6 +4034,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 571,
+    "runtime_label": "9.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -3776,6 +4116,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 708,
+    "runtime_label": "11.8 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -3851,6 +4198,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 689,
+    "runtime_label": "11.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -3926,6 +4280,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 688,
+    "runtime_label": "11.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/4?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -4001,6 +4362,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 696,
+    "runtime_label": "11.6 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/5?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -4076,6 +4444,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 692,
+    "runtime_label": "11.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/6?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -4151,6 +4526,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 682,
+    "runtime_label": "11.4 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1695-monk/season/8?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_display_url": "posters/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "poster_cache_status": "cached",
@@ -4298,6 +4680,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 690,
+    "runtime_label": "11.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1450-the-closer/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_display_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_cache_status": "cached",
@@ -4372,6 +4761,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 610,
+    "runtime_label": "10.2 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1450-the-closer/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_display_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_cache_status": "cached",
@@ -4446,6 +4842,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 690,
+    "runtime_label": "11.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1450-the-closer/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_display_url": "posters/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
     "poster_cache_status": "cached",
@@ -4515,6 +4918,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/4348-pride-prejudice?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 127,
+    "runtime_label": "127 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/4348-pride-prejudice?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
     "poster_display_url": "posters/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
     "poster_cache_status": "cached",
@@ -4584,6 +4994,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/38684-jane-eyre?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 120,
+    "runtime_label": "120 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/38684-jane-eyre?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg",
     "poster_display_url": "posters/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg",
     "poster_cache_status": "cached",
@@ -4653,6 +5070,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/6557-27-dresses?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 111,
+    "runtime_label": "111 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/6557-27-dresses?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg",
     "poster_display_url": "posters/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg",
     "poster_cache_status": "cached",
@@ -4722,6 +5146,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/11137-the-prince-me?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 111,
+    "runtime_label": "111 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11137-the-prince-me?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/1rdb6Cr5VuLzW9ha2INswhpgmln.jpg",
     "poster_display_url": "posters/1rdb6Cr5VuLzW9ha2INswhpgmln.jpg",
     "poster_cache_status": "cached",
@@ -4792,6 +5223,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/7303-maid-in-manhattan",
     "rating_scope": "work",
+    "runtime_minutes": 105,
+    "runtime_label": "105 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/7303-maid-in-manhattan?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
     "poster_display_url": "posters/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
     "poster_cache_status": "cached",
@@ -4861,6 +5299,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/11529-sweet-home-alabama?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11529-sweet-home-alabama?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
     "poster_display_url": "posters/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
     "poster_cache_status": "cached",
@@ -4930,6 +5375,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/2642-two-weeks-notice?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 101,
+    "runtime_label": "101 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2642-two-weeks-notice?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
     "poster_display_url": "posters/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
     "poster_cache_status": "cached",
@@ -5000,6 +5452,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: TV-PG",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/51505?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cNzx2XeOM0lxrK0G80WJJhJoPWn.jpg",
     "poster_display_url": "posters/cNzx2XeOM0lxrK0G80WJJhJoPWn.jpg",
     "poster_cache_status": "cached",
@@ -5070,6 +5529,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/18240-the-proposal?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/18240-the-proposal?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
     "poster_display_url": "posters/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
     "poster_cache_status": "cached",
@@ -5140,6 +5606,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/88-dirty-dancing?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/88-dirty-dancing?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
     "poster_display_url": "posters/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
     "poster_cache_status": "cached",
@@ -5214,6 +5687,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 129,
+    "runtime_label": "129 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1985-the-constant-gardener?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
     "poster_display_url": "posters/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
     "poster_cache_status": "cached",
@@ -5288,6 +5768,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 125,
+    "runtime_label": "125 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/788-mrs-doubtfire?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
     "poster_display_url": "posters/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
     "poster_cache_status": "cached",
@@ -5357,6 +5844,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/12-finding-nemo?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/12-finding-nemo?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
     "poster_display_url": "posters/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
     "poster_cache_status": "cached",
@@ -5427,6 +5921,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 169,
+    "runtime_label": "169 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/285?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
     "poster_display_url": "posters/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
     "poster_cache_status": "cached",
@@ -5497,6 +5998,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 143,
+    "runtime_label": "143 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
     "poster_display_url": "posters/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
     "poster_cache_status": "cached",
@@ -5566,6 +6074,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/9772-air-force-one?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9772-air-force-one?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/juRFEbyx5JlNuYrZM50vcZmtN78.jpg",
     "poster_display_url": "posters/juRFEbyx5JlNuYrZM50vcZmtN78.jpg",
     "poster_cache_status": "cached",
@@ -5635,6 +6150,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/11520-grumpy-old-men",
     "rating_scope": "work",
+    "runtime_minutes": 103,
+    "runtime_label": "103 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11520-grumpy-old-men?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/iMY7yFn4gMvGaQYMGWnyX2QgvHZ.jpg",
     "poster_display_url": "posters/iMY7yFn4gMvGaQYMGWnyX2QgvHZ.jpg",
     "poster_cache_status": "cached",
@@ -5705,6 +6227,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/131634-the-hunger-games-mockingjay-part-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 137,
+    "runtime_label": "137 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/131634-the-hunger-games-mockingjay-part-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/lImKHDfExAulp16grYm8zD5eONE.jpg",
     "poster_display_url": "posters/lImKHDfExAulp16grYm8zD5eONE.jpg",
     "poster_cache_status": "cached",
@@ -5775,6 +6304,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/116149-paddington?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 95,
+    "runtime_label": "95 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/116149-paddington?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
     "poster_display_url": "posters/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
     "poster_cache_status": "cached",
@@ -5853,6 +6389,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 449,
+    "runtime_label": "7.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/63639-the-expanse/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
     "poster_display_url": "posters/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
     "poster_cache_status": "cached",
@@ -5958,6 +6501,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/9093-the-four-feathers?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 132,
+    "runtime_label": "132 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9093-the-four-feathers?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/bfmpeRr9LTXzBC2dpC89FE5uavK.jpg",
     "poster_display_url": "posters/bfmpeRr9LTXzBC2dpC89FE5uavK.jpg",
     "poster_cache_status": "cached",
@@ -6028,6 +6578,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 133,
+    "runtime_label": "133 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9476?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
     "poster_display_url": "posters/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
     "poster_cache_status": "cached",
@@ -6099,6 +6656,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/2503-the-bourne-ultimatum?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 115,
+    "runtime_label": "115 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2503-the-bourne-ultimatum?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
     "poster_display_url": "posters/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
     "poster_cache_status": "cached",
@@ -6173,6 +6737,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 500,
+    "runtime_label": "8.3 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/4194-star-wars-the-clone-wars/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_cache_status": "cached",
@@ -6341,6 +6912,15 @@
       }
     ],
     "rating_label": "Films: PG / PG-13",
+    "runtime_minutes": 418,
+    "runtime_label": "7 h",
+    "runtime_scope": "collection",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1893-star-wars-episode-i-the-phantom-menace?language=en-US",
+      "https://www.themoviedb.org/movie/1894-star-wars-episode-ii-attack-of-the-clones?language=en-US",
+      "https://www.themoviedb.org/movie/1895-star-wars-episode-iii-revenge-of-the-sith?language=en-US"
+    ],
+    "runtime_basis": "Sum of listed feature runtimes; disc extras and alternate cuts excluded",
     "poster_local_url": null,
     "poster_display_url": null,
     "poster_cache_status": "no_reference",
@@ -6422,6 +7002,15 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "collection",
     "rating_label": "Collection rating: PG",
+    "runtime_minutes": 377,
+    "runtime_label": "6.3 h",
+    "runtime_scope": "collection",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11-star-wars?language=en-US",
+      "https://www.themoviedb.org/movie/1891-the-empire-strikes-back?language=en-US",
+      "https://www.themoviedb.org/movie/1892-return-of-the-jedi?language=en-US"
+    ],
+    "runtime_basis": "Sum of listed feature runtimes; disc extras and alternate cuts excluded",
     "poster_local_url": null,
     "poster_display_url": null,
     "poster_cache_status": "no_reference",
@@ -6502,6 +7091,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/351286-jurassic-world-fallen-kingdom?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 129,
+    "runtime_label": "129 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/351286-jurassic-world-fallen-kingdom?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
     "poster_display_url": "posters/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
     "poster_cache_status": "cached",
@@ -6608,6 +7204,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 130,
+    "runtime_label": "130 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/480530-creed-ii?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
     "poster_display_url": "posters/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
     "poster_cache_status": "cached",
@@ -6681,6 +7284,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 106,
+    "runtime_label": "106 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/419831-i-kill-giants?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg",
     "poster_display_url": "posters/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg",
     "poster_cache_status": "cached",
@@ -6750,6 +7360,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/77950-turbo?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 96,
+    "runtime_label": "96 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/77950-turbo?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
     "poster_display_url": "posters/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
     "poster_cache_status": "cached",
@@ -6824,6 +7441,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/38700-bad-boys-for-life?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "poster_display_url": "posters/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "poster_cache_status": "cached",
@@ -6898,6 +7522,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/5174-rush-hour-3?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
     "poster_display_url": "posters/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
     "poster_cache_status": "cached",
@@ -6970,6 +7601,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 253,
+    "runtime_label": "4.2 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/62999-the-jim-gaffigan-show/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/fIs7LLODtiowheV17UXycFM7DSV.jpg",
     "poster_display_url": "posters/fIs7LLODtiowheV17UXycFM7DSV.jpg",
     "poster_cache_status": "cached",
@@ -7040,6 +7678,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 91,
+    "runtime_label": "91 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/64094?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/AcWnGaOG7UMeWIdDBY6prkrgRZC.jpg",
     "poster_display_url": "posters/AcWnGaOG7UMeWIdDBY6prkrgRZC.jpg",
     "poster_cache_status": "cached",
@@ -7108,6 +7753,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/13751-akeelah-and-the-bee?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 112,
+    "runtime_label": "112 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/13751-akeelah-and-the-bee?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
     "poster_display_url": "posters/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
     "poster_cache_status": "cached",
@@ -7179,6 +7831,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/10315-fantastic-mr-fox?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 87,
+    "runtime_label": "87 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10315-fantastic-mr-fox?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
     "poster_display_url": "posters/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
     "poster_cache_status": "cached",
@@ -7395,6 +8054,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: G",
+    "runtime_minutes": 82,
+    "runtime_label": "82 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/15909?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/1KCgtq413cBz1qgMT0gkPX67xzZ.jpg",
     "poster_display_url": "posters/1KCgtq413cBz1qgMT0gkPX67xzZ.jpg",
     "poster_cache_status": "cached",
@@ -7466,6 +8132,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/16112-the-adventures-of-elmo-in-grouchland?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 73,
+    "runtime_label": "73 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/16112-the-adventures-of-elmo-in-grouchland?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/u9i4frT1XPaTqJxRYLJ8j2r8LYO.jpg",
     "poster_display_url": "posters/u9i4frT1XPaTqJxRYLJ8j2r8LYO.jpg",
     "poster_cache_status": "cached",
@@ -7539,6 +8212,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 946,
+    "runtime_label": "15.8 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/2046-alias/season/4?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_cache_status": "cached",
@@ -7694,6 +8374,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 95,
+    "runtime_label": "95 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11176-the-muppet-movie?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
     "poster_display_url": "posters/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
     "poster_cache_status": "cached",
@@ -7796,6 +8483,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/14873-the-jungle-book-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 72,
+    "runtime_label": "72 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/14873-the-jungle-book-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/21GanxizOIL1CN0HLx7j3je8k87.jpg",
     "poster_display_url": "posters/21GanxizOIL1CN0HLx7j3je8k87.jpg",
     "poster_cache_status": "cached",
@@ -7866,6 +8560,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/11886-robin-hood?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 83,
+    "runtime_label": "83 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11886-robin-hood?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
     "poster_display_url": "posters/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
     "poster_cache_status": "cached",
@@ -7938,6 +8639,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/10992-cats-dogs?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 87,
+    "runtime_label": "87 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10992-cats-dogs?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/77dmCJelVTBPBwbTppiisQx0e82.jpg",
     "poster_display_url": "posters/77dmCJelVTBPBwbTppiisQx0e82.jpg",
     "poster_cache_status": "cached",
@@ -8009,6 +8717,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/953-madagascar?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 86,
+    "runtime_label": "86 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/953-madagascar?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
     "poster_display_url": "posters/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
     "poster_cache_status": "cached",
@@ -8088,6 +8803,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 89,
+    "runtime_label": "89 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10527-madagascar-escape-2-africa?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/agRbLOHgN46TQO4YdKR462iR7To.jpg",
     "poster_display_url": "posters/agRbLOHgN46TQO4YdKR462iR7To.jpg",
     "poster_cache_status": "cached",
@@ -8159,6 +8881,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/91417-dragons-gift-of-the-night-fury?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 22,
+    "runtime_label": "22 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/91417-dragons-gift-of-the-night-fury?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg",
     "poster_display_url": "posters/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg",
     "poster_cache_status": "cached",
@@ -8229,6 +8958,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/9340-the-goonies?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 114,
+    "runtime_label": "114 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9340-the-goonies?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
     "poster_display_url": "posters/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
     "poster_cache_status": "cached",
@@ -8300,6 +9036,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/9806-the-incredibles?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 115,
+    "runtime_label": "115 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9806-the-incredibles?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
     "poster_display_url": "posters/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
     "poster_cache_status": "cached",
@@ -8373,6 +9116,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/6637-national-treasure-book-of-secrets?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
     "poster_display_url": "posters/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
     "poster_cache_status": "cached",
@@ -8514,6 +9264,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 41,
+    "runtime_label": "41 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/44274?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ac6Lv4cqW9es1RLO2XfZ0duFxPz.jpg",
     "poster_display_url": "posters/ac6Lv4cqW9es1RLO2XfZ0duFxPz.jpg",
     "poster_cache_status": "cached",
@@ -8654,6 +9411,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 36,
+    "runtime_label": "36 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/24743?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/gA3cFzskzZdIqP2Xdq6OsfpM0q5.jpg",
     "poster_display_url": "posters/gA3cFzskzZdIqP2Xdq6OsfpM0q5.jpg",
     "poster_cache_status": "cached",
@@ -8795,6 +9559,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 11,
+    "runtime_label": "11 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/24884?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9HWUhtFd2QBvFNmI8nbWcv1apgs.jpg",
     "poster_display_url": "posters/9HWUhtFd2QBvFNmI8nbWcv1apgs.jpg",
     "poster_cache_status": "cached",
@@ -8867,6 +9638,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/1497-teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 88,
+    "runtime_label": "88 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1497-teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
     "poster_display_url": "posters/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
     "poster_cache_status": "cached",
@@ -8937,6 +9715,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/10996-stuart-little-2",
     "rating_scope": "work",
+    "runtime_minutes": 78,
+    "runtime_label": "78 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10996-stuart-little-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/1vdPKC35IOjEAJEr9Y2rjEeyCcW.jpg",
     "poster_display_url": "posters/1vdPKC35IOjEAJEr9Y2rjEeyCcW.jpg",
     "poster_cache_status": "cached",
@@ -9126,6 +9911,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/10202-bedtime-stories?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 99,
+    "runtime_label": "99 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10202-bedtime-stories?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/rSOnWm8ahvgThYp8TKGRUTcvsyw.jpg",
     "poster_display_url": "posters/rSOnWm8ahvgThYp8TKGRUTcvsyw.jpg",
     "poster_cache_status": "cached",
@@ -9272,6 +10064,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/252-willy-wonka-the-chocolate-factory?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 99,
+    "runtime_label": "99 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/252-willy-wonka-the-chocolate-factory?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
     "poster_display_url": "posters/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
     "poster_cache_status": "cached",
@@ -9343,6 +10142,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/30071-where-the-red-fern-grows?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 86,
+    "runtime_label": "86 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/30071-where-the-red-fern-grows?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zUDxfnWLq73rQaa8YSHBDGx96ZS.jpg",
     "poster_display_url": "posters/zUDxfnWLq73rQaa8YSHBDGx96ZS.jpg",
     "poster_cache_status": "cached",
@@ -9412,6 +10218,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/23903-curious-george-2-follow-that-monkey",
     "rating_scope": "work",
+    "runtime_minutes": 81,
+    "runtime_label": "81 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/23903-curious-george-2-follow-that-monkey?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/40FelVlshxnsbmNhjqEubWkqgim.jpg",
     "poster_display_url": "posters/40FelVlshxnsbmNhjqEubWkqgim.jpg",
     "poster_cache_status": "cached",
@@ -9699,6 +10512,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/1581-the-holiday?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 136,
+    "runtime_label": "136 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1581-the-holiday?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
     "poster_display_url": "posters/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
     "poster_cache_status": "cached",
@@ -9776,6 +10596,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/417859-puss-in-boots?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
     "poster_display_url": "posters/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
     "poster_cache_status": "cached",
@@ -9846,6 +10673,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 50,
+    "runtime_label": "50 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/261411?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zfRkTbBMpGzV5Lf0nmBBAcsC40h.jpg",
     "poster_display_url": "posters/zfRkTbBMpGzV5Lf0nmBBAcsC40h.jpg",
     "poster_cache_status": "cached",
@@ -9991,6 +10825,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 52,
+    "runtime_label": "52 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/275133?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/BVctSCoczR9lvTxo0bPMlwSEOf.jpg",
     "poster_display_url": "posters/BVctSCoczR9lvTxo0bPMlwSEOf.jpg",
     "poster_cache_status": "cached",
@@ -10061,6 +10902,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 57,
+    "runtime_label": "57 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/295662?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/4uygKXC8lw9SqNQR8hmQUKC153I.jpg",
     "poster_display_url": "posters/4uygKXC8lw9SqNQR8hmQUKC153I.jpg",
     "poster_cache_status": "cached",
@@ -10131,6 +10979,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 49,
+    "runtime_label": "49 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/275070?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/5AneV37UHOcn8HQrJY6P4KQNlKc.jpg",
     "poster_display_url": "posters/5AneV37UHOcn8HQrJY6P4KQNlKc.jpg",
     "poster_cache_status": "cached",
@@ -10201,6 +11056,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 47,
+    "runtime_label": "47 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/275074?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/n7Rw4hmof3F42FyhB0OJwvVY9nk.jpg",
     "poster_display_url": "posters/n7Rw4hmof3F42FyhB0OJwvVY9nk.jpg",
     "poster_cache_status": "cached",
@@ -10345,6 +11207,13 @@
     "rating_label": "Rating: Not rated (NR)",
     "rating_source": "https://www.themoviedb.org/movie/273310-veggietales-lyle-the-kindly-viking",
     "rating_scope": "work",
+    "runtime_minutes": 36,
+    "runtime_label": "36 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/273310-veggietales-lyle-the-kindly-viking?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/nfM9GgvQ8q51VgMgsGigCCSRZCm.jpg",
     "poster_display_url": "posters/nfM9GgvQ8q51VgMgsGigCCSRZCm.jpg",
     "poster_cache_status": "cached",
@@ -10419,6 +11288,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 85,
+    "runtime_label": "85 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/15511?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/hwawxSwOkjeld4eQLSkIyyYNnqO.jpg",
     "poster_display_url": "posters/hwawxSwOkjeld4eQLSkIyyYNnqO.jpg",
     "poster_cache_status": "cached",
@@ -10490,6 +11366,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 42,
+    "runtime_label": "42 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/377652?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/xjToa1pDDAHPKUrgTRFIYUV2EJL.jpg",
     "poster_display_url": "posters/xjToa1pDDAHPKUrgTRFIYUV2EJL.jpg",
     "poster_cache_status": "cached",
@@ -10635,6 +11518,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/16866-planet-51?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 91,
+    "runtime_label": "91 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/16866-planet-51?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
     "poster_display_url": "posters/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
     "poster_cache_status": "cached",
@@ -10705,6 +11595,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 34,
+    "runtime_label": "34 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/58314?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zbVRPwWYwdNjtEuLVy3LmgAtn2Q.jpg",
     "poster_display_url": "posters/zbVRPwWYwdNjtEuLVy3LmgAtn2Q.jpg",
     "poster_cache_status": "cached",
@@ -10851,6 +11748,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/412117-the-secret-life-of-pets-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 86,
+    "runtime_label": "86 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/412117-the-secret-life-of-pets-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
     "poster_display_url": "posters/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
     "poster_cache_status": "cached",
@@ -11066,6 +11970,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/181533-night-at-the-museum-secret-of-the-tomb?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 98,
+    "runtime_label": "98 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/181533-night-at-the-museum-secret-of-the-tomb?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
     "poster_display_url": "posters/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
     "poster_cache_status": "cached",
@@ -11137,6 +12048,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/24428-the-avengers?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 143,
+    "runtime_label": "143 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/24428-the-avengers?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "poster_display_url": "posters/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "poster_cache_status": "cached",
@@ -11212,6 +12130,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 105,
+    "runtime_label": "105 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/150689-cinderella?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "poster_display_url": "posters/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "poster_cache_status": "cached",
@@ -11284,6 +12209,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/278927-the-jungle-book?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 106,
+    "runtime_label": "106 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/278927-the-jungle-book?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
     "poster_display_url": "posters/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
     "poster_cache_status": "cached",
@@ -11353,6 +12285,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/15159-the-pink-panther-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 92,
+    "runtime_label": "92 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/15159-the-pink-panther-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aPg6iZjnBUlsmnCSGHX85T82AJ4.jpg",
     "poster_display_url": "posters/aPg6iZjnBUlsmnCSGHX85T82AJ4.jpg",
     "poster_cache_status": "cached",
@@ -11427,6 +12366,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 137,
+    "runtime_label": "137 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
     "poster_display_url": "posters/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
     "poster_cache_status": "cached",
@@ -11499,6 +12445,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/1495-kingdom-of-heaven?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 144,
+    "runtime_label": "144 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1495-kingdom-of-heaven?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2NaFdWy9hkM35vZB1hkqsnTcms8.jpg",
     "poster_display_url": "posters/2NaFdWy9hkM35vZB1hkqsnTcms8.jpg",
     "poster_cache_status": "cached",
@@ -11643,6 +12596,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/54138-star-trek-into-darkness?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 132,
+    "runtime_label": "132 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/54138-star-trek-into-darkness?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
     "poster_display_url": "posters/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
     "poster_cache_status": "cached",
@@ -11716,6 +12676,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 119,
+    "runtime_label": "119 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/530915?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "poster_display_url": "posters/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
     "poster_cache_status": "cached",
@@ -11790,6 +12757,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 82,
+    "runtime_label": "82 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/366656?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/dC1rjdwynUgeZIexSqOUGM3kNpX.jpg",
     "poster_display_url": "posters/dC1rjdwynUgeZIexSqOUGM3kNpX.jpg",
     "poster_cache_status": "cached",
@@ -11860,6 +12834,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-Y7",
+    "runtime_minutes": 149,
+    "runtime_label": "2.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/6261/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/132XkjtQfF32hf8MxM8P055g1gW.jpg",
     "poster_display_url": "posters/132XkjtQfF32hf8MxM8P055g1gW.jpg",
     "poster_cache_status": "cached",
@@ -12001,6 +12982,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 50,
+    "runtime_label": "50 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/287025?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/e3r8EooYspHj0nuSteKJ0nn8ZM9.jpg",
     "poster_display_url": "posters/e3r8EooYspHj0nuSteKJ0nn8ZM9.jpg",
     "poster_cache_status": "cached",
@@ -12148,6 +13136,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/289928?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/nkAtswILDSLqdcgTaokgLx2SWn6.jpg",
     "poster_display_url": "posters/nkAtswILDSLqdcgTaokgLx2SWn6.jpg",
     "poster_cache_status": "cached",
@@ -12292,6 +13287,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 114,
+    "runtime_label": "114 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/399566-godzilla-vs-kong?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
     "poster_display_url": "posters/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
     "poster_cache_status": "cached",
@@ -12361,6 +13363,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/13156-secondhand-lions?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 111,
+    "runtime_label": "111 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/13156-secondhand-lions?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
     "poster_display_url": "posters/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
     "poster_cache_status": "cached",
@@ -12432,6 +13441,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/11135-the-rescuers-down-under?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 77,
+    "runtime_label": "77 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11135-the-rescuers-down-under?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/5koTDBmMAkJOgAe4PL4163UKjvG.jpg",
     "poster_display_url": "posters/5koTDBmMAkJOgAe4PL4163UKjvG.jpg",
     "poster_cache_status": "cached",
@@ -12504,6 +13520,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/44896-rango?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 112,
+    "runtime_label": "112 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/44896-rango?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
     "poster_display_url": "posters/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
     "poster_cache_status": "cached",
@@ -12574,6 +13597,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/354110-forsaken?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/354110-forsaken?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/fbTpSiqGn6ImqSAyawHlLf7goat.jpg",
     "poster_display_url": "posters/fbTpSiqGn6ImqSAyawHlLf7goat.jpg",
     "poster_cache_status": "cached",
@@ -12644,6 +13674,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/293167-kong-skull-island?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 118,
+    "runtime_label": "118 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/293167-kong-skull-island?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
     "poster_display_url": "posters/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
     "poster_cache_status": "cached",
@@ -12714,6 +13751,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/137094-jack-ryan-shadow-recruit?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 105,
+    "runtime_label": "105 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/137094-jack-ryan-shadow-recruit?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
     "poster_display_url": "posters/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
     "poster_cache_status": "cached",
@@ -12784,6 +13828,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/49047-gravity?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 91,
+    "runtime_label": "91 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/49047-gravity?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
     "poster_display_url": "posters/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
     "poster_cache_status": "cached",
@@ -12858,6 +13909,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 670,
+    "runtime_label": "11.2 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/67198-star-trek-discovery/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
     "poster_display_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
     "poster_cache_status": "cached",
@@ -12927,6 +13985,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/369972-first-man?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 141,
+    "runtime_label": "141 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/369972-first-man?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
     "poster_display_url": "posters/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
     "poster_cache_status": "cached",
@@ -13001,6 +14066,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 961,
+    "runtime_label": "16 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/2046-alias/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_display_url": "posters/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
     "poster_cache_status": "cached",
@@ -13146,6 +14218,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 454,
+    "runtime_label": "7.6 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/96580-resident-alien/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
     "poster_display_url": "posters/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
     "poster_cache_status": "cached",
@@ -13218,6 +14297,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 529,
+    "runtime_label": "8.8 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/103516-star-trek-strange-new-worlds/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
     "poster_display_url": "posters/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
     "poster_cache_status": "cached",
@@ -13287,6 +14373,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/363676-sully?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 96,
+    "runtime_label": "96 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/363676-sully?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
     "poster_display_url": "posters/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
     "poster_cache_status": "cached",
@@ -13361,6 +14454,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 78,
+    "runtime_label": "78 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9325-the-jungle-book?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
     "poster_display_url": "posters/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
     "poster_cache_status": "cached",
@@ -13432,6 +14532,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/16320-serenity?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 119,
+    "runtime_label": "119 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/16320-serenity?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
     "poster_display_url": "posters/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
     "poster_cache_status": "cached",
@@ -13503,6 +14610,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/59962-this-means-war?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 98,
+    "runtime_label": "98 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/59962-this-means-war?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg",
     "poster_display_url": "posters/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg",
     "poster_cache_status": "cached",
@@ -13574,6 +14688,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/81188-rise-of-the-guardians?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/81188-rise-of-the-guardians?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg",
     "poster_display_url": "posters/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg",
     "poster_cache_status": "cached",
@@ -13645,6 +14766,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/57800-ice-age-continental-drift?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 88,
+    "runtime_label": "88 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/57800-ice-age-continental-drift?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
     "poster_display_url": "posters/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
     "poster_cache_status": "cached",
@@ -13714,6 +14842,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/227859-the-book-of-daniel",
     "rating_scope": "work",
+    "runtime_minutes": 88,
+    "runtime_label": "88 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/227859-the-book-of-daniel?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/yk8xDUbvnJIElgnkW3YZ3eAwiLO.jpg",
     "poster_display_url": "posters/yk8xDUbvnJIElgnkW3YZ3eAwiLO.jpg",
     "poster_cache_status": "cached",
@@ -13786,6 +14921,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/7364-sahara?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/7364-sahara?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
     "poster_display_url": "posters/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
     "poster_cache_status": "cached",
@@ -13856,6 +14998,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 122,
+    "runtime_label": "122 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/298?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
     "poster_display_url": "posters/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
     "poster_cache_status": "cached",
@@ -13927,6 +15076,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/27190-a-muppets-christmas-letters-to-santa",
     "rating_scope": "work",
+    "runtime_minutes": 43,
+    "runtime_label": "43 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/27190-a-muppets-christmas-letters-to-santa?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg",
     "poster_display_url": "posters/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg",
     "poster_cache_status": "cached",
@@ -13997,6 +15153,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/9021-the-santa-clause-2",
     "rating_scope": "work",
+    "runtime_minutes": 104,
+    "runtime_label": "104 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9021-the-santa-clause-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg",
     "poster_display_url": "posters/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg",
     "poster_cache_status": "cached",
@@ -14067,6 +15230,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/5825?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
     "poster_display_url": "posters/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
     "poster_cache_status": "cached",
@@ -14138,6 +15308,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/11395-the-santa-clause",
     "rating_scope": "work",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11395-the-santa-clause?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
     "poster_display_url": "posters/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
     "poster_cache_status": "cached",
@@ -14212,6 +15389,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 120,
+    "runtime_label": "120 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/772-home-alone-2-lost-in-new-york?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
     "poster_display_url": "posters/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
     "poster_cache_status": "cached",
@@ -14281,6 +15465,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/771-home-alone?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 103,
+    "runtime_label": "103 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/771-home-alone?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
     "poster_display_url": "posters/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
     "poster_cache_status": "cached",
@@ -14351,6 +15542,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/13767-the-santa-clause-3-the-escape-clause?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/13767-the-santa-clause-3-the-escape-clause?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
     "poster_display_url": "posters/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
     "poster_cache_status": "cached",
@@ -14500,6 +15698,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/15189-hotel-for-dogs?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/xD2AssTeySNCamlGueai4yAZZfX.jpg",
     "poster_display_url": "posters/xD2AssTeySNCamlGueai4yAZZfX.jpg",
     "poster_cache_status": "cached",
@@ -14570,6 +15775,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/436969-the-suicide-squad?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 132,
+    "runtime_label": "132 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/436969-the-suicide-squad?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/q61qEyssk2ku3okWICKArlAdhBn.jpg",
     "poster_display_url": "posters/q61qEyssk2ku3okWICKArlAdhBn.jpg",
     "poster_cache_status": "cached",
@@ -14645,6 +15857,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 437,
+    "runtime_label": "7.3 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/43901-longmire/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_cache_status": "cached",
@@ -14720,6 +15939,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 555,
+    "runtime_label": "9.2 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/43901-longmire/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_cache_status": "cached",
@@ -14795,6 +16021,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 427,
+    "runtime_label": "7.1 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/43901-longmire/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_cache_status": "cached",
@@ -14870,6 +16103,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 598,
+    "runtime_label": "10 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/43901-longmire/season/4?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_cache_status": "cached",
@@ -14945,6 +16185,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 604,
+    "runtime_label": "10.1 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/43901-longmire/season/5?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_cache_status": "cached",
@@ -15020,6 +16267,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 617,
+    "runtime_label": "10.3 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/43901-longmire/season/6?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_display_url": "posters/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
     "poster_cache_status": "cached",
@@ -15090,6 +16344,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/9454-everafter?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 121,
+    "runtime_label": "121 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9454-everafter?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9TspO5dThMBioF0DFrvy6YqrngH.jpg",
     "poster_display_url": "posters/9TspO5dThMBioF0DFrvy6YqrngH.jpg",
     "poster_cache_status": "cached",
@@ -15162,6 +16423,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/12222-horton-hears-a-who?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 86,
+    "runtime_label": "86 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/12222-horton-hears-a-who?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
     "poster_display_url": "posters/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
     "poster_cache_status": "cached",
@@ -15234,6 +16502,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/38055-megamind?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 96,
+    "runtime_label": "96 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/38055-megamind?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
     "poster_display_url": "posters/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
     "poster_cache_status": "cached",
@@ -15304,6 +16579,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/9509-man-on-fire?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 146,
+    "runtime_label": "146 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9509-man-on-fire?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
     "poster_display_url": "posters/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
     "poster_cache_status": "cached",
@@ -15379,6 +16661,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 94,
+    "runtime_label": "94 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/8355-ice-age-dawn-of-the-dinosaurs?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
     "poster_display_url": "posters/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
     "poster_cache_status": "cached",
@@ -15527,6 +16816,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/15173-jonah-a-veggietales-movie?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 82,
+    "runtime_label": "82 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/15173-jonah-a-veggietales-movie?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/xJ6ImpQIqZxBh4eE2813ljQ0TQ3.jpg",
     "poster_display_url": "posters/xJ6ImpQIqZxBh4eE2813ljQ0TQ3.jpg",
     "poster_cache_status": "cached",
@@ -15598,6 +16894,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/49849-cowboys-aliens?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 119,
+    "runtime_label": "119 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/49849-cowboys-aliens?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
     "poster_display_url": "posters/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
     "poster_cache_status": "cached",
@@ -15672,6 +16975,13 @@
     "rating_label": "Theatrical rating: PG-13",
     "rating_scope": "theatrical_reference",
     "rating_source": "https://www.themoviedb.org/movie/9477-king-arthur?language=en-US",
+    "runtime_minutes": 126,
+    "runtime_label": "126 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9477-king-arthur?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
     "poster_display_url": "posters/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
     "poster_cache_status": "cached",
@@ -15742,6 +17052,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 121,
+    "runtime_label": "121 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
     "poster_display_url": "posters/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
     "poster_cache_status": "cached",
@@ -15812,6 +17129,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/245842-the-king-s-daughter?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 94,
+    "runtime_label": "94 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/245842-the-king-s-daughter?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg",
     "poster_display_url": "posters/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg",
     "poster_cache_status": "cached",
@@ -15883,6 +17207,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/739405-operation-fortune-ruse-de-guerre?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 113,
+    "runtime_label": "113 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/739405-operation-fortune-ruse-de-guerre?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
     "poster_display_url": "posters/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
     "poster_cache_status": "cached",
@@ -15957,6 +17288,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 133,
+    "runtime_label": "133 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/330459-rogue-one-a-star-wars-story?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
     "poster_display_url": "posters/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
     "poster_cache_status": "cached",
@@ -16027,6 +17365,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/299537-captain-marvel?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 124,
+    "runtime_label": "124 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/299537-captain-marvel?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
     "poster_display_url": "posters/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
     "poster_cache_status": "cached",
@@ -16096,6 +17441,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/323675-ride-along-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 102,
+    "runtime_label": "102 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/323675-ride-along-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/qKvVUHdiwqkXdlRsW4fHO7SAZef.jpg",
     "poster_display_url": "posters/qKvVUHdiwqkXdlRsW4fHO7SAZef.jpg",
     "poster_cache_status": "cached",
@@ -16167,6 +17519,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/376659?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg",
     "poster_display_url": "posters/u9q10ljhkLj0tNCjlVqe3DCjoU4.jpg",
     "poster_cache_status": "cached",
@@ -16242,6 +17601,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/427900-home-again?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg",
     "poster_display_url": "posters/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg",
     "poster_cache_status": "cached",
@@ -16317,6 +17683,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 1143,
+    "runtime_label": "19.1 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/314-star-trek-enterprise/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
     "poster_display_url": "posters/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
     "poster_cache_status": "cached",
@@ -16388,6 +17761,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/10137-stuart-little?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 84,
+    "runtime_label": "84 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10137-stuart-little?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/362lcwTJlNyAhitTlp2UraECISR.jpg",
     "poster_display_url": "posters/362lcwTJlNyAhitTlp2UraECISR.jpg",
     "poster_cache_status": "cached",
@@ -16459,6 +17839,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/53289-mandie-and-the-secret-tunnel",
     "rating_scope": "work",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/53289-mandie-and-the-secret-tunnel?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/nIRHCWdvhcYrAVC4T7UNdZChIIg.jpg",
     "poster_display_url": "posters/nIRHCWdvhcYrAVC4T7UNdZChIIg.jpg",
     "poster_cache_status": "cached",
@@ -16534,6 +17921,14 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "collection",
     "rating_label": "Collection rating: G",
+    "runtime_minutes": 152,
+    "runtime_label": "2.5 h",
+    "runtime_scope": "collection",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/21032-balto?language=en-US",
+      "https://www.themoviedb.org/movie/19164-balto-ii-wolf-quest?language=en-US"
+    ],
+    "runtime_basis": "Sum of listed feature runtimes; disc extras and alternate cuts excluded",
     "poster_local_url": null,
     "poster_display_url": null,
     "poster_cache_status": "no_reference",
@@ -16609,6 +18004,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/157350-divergent?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 139,
+    "runtime_label": "139 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/157350-divergent?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
     "poster_display_url": "posters/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
     "poster_cache_status": "cached",
@@ -16683,6 +18085,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 677,
+    "runtime_label": "11.3 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/67198-star-trek-discovery/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
     "poster_display_url": "posters/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
     "poster_cache_status": "cached",
@@ -16836,6 +18245,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/585-monsters-inc",
     "rating_scope": "work",
+    "runtime_minutes": 92,
+    "runtime_label": "92 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/585-monsters-inc?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
     "poster_display_url": "posters/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
     "poster_cache_status": "cached",
@@ -16944,6 +18360,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/260513-incredibles-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 118,
+    "runtime_label": "118 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/260513-incredibles-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
     "poster_display_url": "posters/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
     "poster_cache_status": "cached",
@@ -17085,6 +18508,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/956-mission-impossible-iii?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 126,
+    "runtime_label": "126 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/956-mission-impossible-iii?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
     "poster_display_url": "posters/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
     "poster_cache_status": "cached",
@@ -17155,6 +18585,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/2080-x-men-origins-wolverine?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 107,
+    "runtime_label": "107 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2080-x-men-origins-wolverine?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
     "poster_display_url": "posters/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
     "poster_cache_status": "cached",
@@ -17229,6 +18666,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/5175-rush-hour-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
     "poster_display_url": "posters/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
     "poster_cache_status": "cached",
@@ -17303,6 +18747,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 410,
+    "runtime_label": "6.8 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/61599-the-librarians/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_display_url": "posters/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
     "poster_cache_status": "cached",
@@ -17517,6 +18968,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/10193-toy-story-3?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 103,
+    "runtime_label": "103 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10193-toy-story-3?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
     "poster_display_url": "posters/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
     "poster_cache_status": "cached",
@@ -17591,6 +19049,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/447404-pokemon-detective-pikachu?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 105,
+    "runtime_label": "105 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/447404-pokemon-detective-pikachu?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
     "poster_display_url": "posters/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
     "poster_cache_status": "cached",
@@ -17694,6 +19159,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/378236-the-emoji-movie?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 86,
+    "runtime_label": "86 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/378236-the-emoji-movie?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
     "poster_display_url": "posters/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
     "poster_cache_status": "cached",
@@ -17763,6 +19235,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/425001-the-war-with-grandpa?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 98,
+    "runtime_label": "98 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/425001-the-war-with-grandpa?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
     "poster_display_url": "posters/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
     "poster_cache_status": "cached",
@@ -17836,6 +19315,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/20910-the-muppets-wizard-of-oz?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/20910-the-muppets-wizard-of-oz?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/gpPaN0kRKDVX9Vj8VgxsJyvxe8T.jpg",
     "poster_display_url": "posters/gpPaN0kRKDVX9Vj8VgxsJyvxe8T.jpg",
     "poster_cache_status": "cached",
@@ -17906,6 +19392,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 52,
+    "runtime_label": "52 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/275033?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/izQKo4EAdAZCH8Sp3pmbmtCpJI3.jpg",
     "poster_display_url": "posters/izQKo4EAdAZCH8Sp3pmbmtCpJI3.jpg",
     "poster_cache_status": "cached",
@@ -17976,6 +19469,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 46,
+    "runtime_label": "46 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/272811?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/poFWX5f0yWn92Zc4W4J3WQQZOw0.jpg",
     "poster_display_url": "posters/poFWX5f0yWn92Zc4W4J3WQQZOw0.jpg",
     "poster_cache_status": "cached",
@@ -18047,6 +19547,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/49013-cars-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 106,
+    "runtime_label": "106 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/49013-cars-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
     "poster_display_url": "posters/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
     "poster_cache_status": "cached",
@@ -18118,6 +19625,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/2062-ratatouille?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 111,
+    "runtime_label": "111 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2062-ratatouille?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
     "poster_display_url": "posters/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
     "poster_cache_status": "cached",
@@ -18334,6 +19848,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 109,
+    "runtime_label": "109 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/438695-sing-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
     "poster_display_url": "posters/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
     "poster_cache_status": "cached",
@@ -18406,6 +19927,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/5559-bee-movie?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 91,
+    "runtime_label": "91 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/5559-bee-movie?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg",
     "poster_display_url": "posters/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg",
     "poster_cache_status": "cached",
@@ -18479,6 +20007,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/35588-geronimo-an-american-legend?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 115,
+    "runtime_label": "115 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/35588-geronimo-an-american-legend?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9FNuwnhHngkblD6eVRXnmJN8kQq.jpg",
     "poster_display_url": "posters/9FNuwnhHngkblD6eVRXnmJN8kQq.jpg",
     "poster_cache_status": "cached",
@@ -18552,6 +20087,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 130,
+    "runtime_label": "130 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11969-tombstone?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
     "poster_display_url": "posters/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
     "poster_cache_status": "cached",
@@ -18626,6 +20168,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 127,
+    "runtime_label": "127 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/8536-superman-ii?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
     "poster_display_url": "posters/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
     "poster_cache_status": "cached",
@@ -18841,6 +20390,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/450465-glass",
     "rating_scope": "work",
+    "runtime_minutes": 129,
+    "runtime_label": "129 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/450465-glass?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
     "poster_display_url": "posters/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
     "poster_cache_status": "cached",
@@ -18911,6 +20467,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/6477-alvin-and-the-chipmunks?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 92,
+    "runtime_label": "92 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/6477-alvin-and-the-chipmunks?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/22YxmH8FHZGEVyBgKBNorVF4cqi.jpg",
     "poster_display_url": "posters/22YxmH8FHZGEVyBgKBNorVF4cqi.jpg",
     "poster_cache_status": "cached",
@@ -18981,6 +20544,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: G",
+    "runtime_minutes": 80,
+    "runtime_label": "80 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/18068?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/srD54CdOctl9WWQHgmeWyRU7C0l.jpg",
     "poster_display_url": "posters/srD54CdOctl9WWQHgmeWyRU7C0l.jpg",
     "poster_cache_status": "cached",
@@ -19052,6 +20622,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/533-wallace-gromit-the-curse-of-the-were-rabbit",
     "rating_scope": "work",
+    "runtime_minutes": 85,
+    "runtime_label": "85 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/533-wallace-gromit-the-curse-of-the-were-rabbit?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
     "poster_display_url": "posters/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
     "poster_cache_status": "cached",
@@ -19201,6 +20778,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/9502-kung-fu-panda?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9502-kung-fu-panda?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
     "poster_display_url": "posters/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
     "poster_cache_status": "cached",
@@ -19276,6 +20860,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/5994-the-family-man?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 125,
+    "runtime_label": "125 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/5994-the-family-man?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
     "poster_display_url": "posters/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
     "poster_cache_status": "cached",
@@ -19352,6 +20943,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 140,
+    "runtime_label": "140 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/20662-robin-hood?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
     "poster_display_url": "posters/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
     "poster_cache_status": "cached",
@@ -19425,6 +21023,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/9654-the-italian-job?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 110,
+    "runtime_label": "110 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9654-the-italian-job?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
     "poster_display_url": "posters/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
     "poster_cache_status": "cached",
@@ -19501,6 +21106,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: R",
+    "runtime_minutes": 122,
+    "runtime_label": "122 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/5176-3-10-to-yuma?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
     "poster_display_url": "posters/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
     "poster_cache_status": "cached",
@@ -19575,6 +21187,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/49444-kung-fu-panda-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 91,
+    "runtime_label": "91 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/49444-kung-fu-panda-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
     "poster_display_url": "posters/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
     "poster_cache_status": "cached",
@@ -19649,6 +21268,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 93,
+    "runtime_label": "93 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/80321?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
     "poster_display_url": "posters/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
     "poster_cache_status": "cached",
@@ -19728,6 +21354,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 101,
+    "runtime_label": "101 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/274862-the-lego-ninjago-movie?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
     "poster_display_url": "posters/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
     "poster_cache_status": "cached",
@@ -19808,6 +21441,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 108,
+    "runtime_label": "108 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1593-night-at-the-museum?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
     "poster_display_url": "posters/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
     "poster_cache_status": "cached",
@@ -19882,6 +21522,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/37724-skyfall?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 143,
+    "runtime_label": "143 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/37724-skyfall?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
     "poster_display_url": "posters/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
     "poster_cache_status": "cached",
@@ -19957,6 +21604,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/385103-scoob?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 93,
+    "runtime_label": "93 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/385103-scoob?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
     "poster_display_url": "posters/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
     "poster_cache_status": "cached",
@@ -20029,6 +21683,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/16279-the-great-buck-howard",
     "rating_scope": "work",
+    "runtime_minutes": 90,
+    "runtime_label": "90 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/16279-the-great-buck-howard?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/iglKvmA7sq6Pnd6KWFnT6WW9Vpn.jpg",
     "poster_display_url": "posters/iglKvmA7sq6Pnd6KWFnT6WW9Vpn.jpg",
     "poster_cache_status": "cached",
@@ -20108,6 +21769,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 107,
+    "runtime_label": "107 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/335797-sing?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg",
     "poster_display_url": "posters/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg",
     "poster_cache_status": "cached",
@@ -20186,6 +21854,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 989,
+    "runtime_label": "16.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/39272-once-upon-a-time/season/5?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
     "poster_display_url": "posters/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
     "poster_cache_status": "cached",
@@ -20260,6 +21935,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/38757-tangled?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/38757-tangled?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ym7Kst6a4uodryxqbGOxmewF235.jpg",
     "poster_display_url": "posters/ym7Kst6a4uodryxqbGOxmewF235.jpg",
     "poster_cache_status": "cached",
@@ -20334,6 +22016,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/10144-the-little-mermaid?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 83,
+    "runtime_label": "83 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10144-the-little-mermaid?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/plcZXvI310FkbwIptvd6rqk63LP.jpg",
     "poster_display_url": "posters/plcZXvI310FkbwIptvd6rqk63LP.jpg",
     "poster_cache_status": "cached",
@@ -20410,6 +22099,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/282035-the-mummy?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 110,
+    "runtime_label": "110 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/282035-the-mummy?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
     "poster_display_url": "posters/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
     "poster_cache_status": "cached",
@@ -20484,6 +22180,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/335984-blade-runner-2049?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 164,
+    "runtime_label": "164 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/335984-blade-runner-2049?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
     "poster_display_url": "posters/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
     "poster_cache_status": "cached",
@@ -20558,6 +22261,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/375366-the-girl-with-all-the-gifts?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 110,
+    "runtime_label": "110 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/375366-the-girl-with-all-the-gifts?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
     "poster_display_url": "posters/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg",
     "poster_cache_status": "cached",
@@ -20631,6 +22341,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/278154-ice-age-collision-course?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 95,
+    "runtime_label": "95 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/278154-ice-age-collision-course?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/tFzUkdhPOForVrEfvxydXfPLrZR.jpg",
     "poster_display_url": "posters/tFzUkdhPOForVrEfvxydXfPLrZR.jpg",
     "poster_cache_status": "cached",
@@ -20701,6 +22418,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/7445-brothers?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 105,
+    "runtime_label": "105 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/7445-brothers?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
     "poster_display_url": "posters/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
     "poster_cache_status": "cached",
@@ -20770,6 +22494,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/350-the-devil-wears-prada?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 109,
+    "runtime_label": "109 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/350-the-devil-wears-prada?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/8912AsVuS7Sj915apArUFbv6F9L.jpg",
     "poster_display_url": "posters/8912AsVuS7Sj915apArUFbv6F9L.jpg",
     "poster_cache_status": "cached",
@@ -20843,6 +22574,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/82702-how-to-train-your-dragon-2?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 102,
+    "runtime_label": "102 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/82702-how-to-train-your-dragon-2?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "poster_display_url": "posters/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "poster_cache_status": "cached",
@@ -20916,6 +22654,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/136799-trolls?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 92,
+    "runtime_label": "92 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/136799-trolls?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
     "poster_display_url": "posters/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
     "poster_cache_status": "cached",
@@ -20986,6 +22731,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 85,
+    "runtime_label": "85 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9408?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
     "poster_display_url": "posters/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
     "poster_cache_status": "cached",
@@ -21056,6 +22808,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/1724-the-incredible-hulk?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 114,
+    "runtime_label": "114 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/1724-the-incredible-hulk?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
     "poster_display_url": "posters/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
     "poster_cache_status": "cached",
@@ -21126,6 +22885,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 179,
+    "runtime_label": "179 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/121?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
     "poster_display_url": "posters/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
     "poster_cache_status": "cached",
@@ -21196,6 +22962,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/76170-the-wolverine?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 126,
+    "runtime_label": "126 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/76170-the-wolverine?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
     "poster_display_url": "posters/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
     "poster_cache_status": "cached",
@@ -21265,6 +23038,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/11528-the-sandlot?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 101,
+    "runtime_label": "101 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/11528-the-sandlot?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
     "poster_display_url": "posters/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
     "poster_cache_status": "cached",
@@ -21339,6 +23119,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 410,
+    "runtime_label": "6.8 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/60802-the-last-ship/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
     "poster_display_url": "posters/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
     "poster_cache_status": "cached",
@@ -21409,6 +23196,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/140607-star-wars-the-force-awakens?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 136,
+    "runtime_label": "136 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/140607-star-wars-the-force-awakens?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
     "poster_display_url": "posters/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
     "poster_cache_status": "cached",
@@ -21479,6 +23273,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/196867-annie?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 118,
+    "runtime_label": "118 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/196867-annie?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
     "poster_display_url": "posters/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
     "poster_cache_status": "cached",
@@ -21549,6 +23350,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/117263-olympus-has-fallen?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 120,
+    "runtime_label": "120 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/117263-olympus-has-fallen?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
     "poster_display_url": "posters/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
     "poster_cache_status": "cached",
@@ -21620,6 +23428,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/117251-white-house-down?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 131,
+    "runtime_label": "131 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/117251-white-house-down?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
     "poster_display_url": "posters/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
     "poster_cache_status": "cached",
@@ -21689,6 +23504,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/22881-the-blind-side?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 129,
+    "runtime_label": "129 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/22881-the-blind-side?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/PhpAdRopu0sOWf0BY7vVtxrRD3.jpg",
     "poster_display_url": "posters/PhpAdRopu0sOWf0BY7vVtxrRD3.jpg",
     "poster_cache_status": "cached",
@@ -21760,6 +23582,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/262504-allegiant?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 120,
+    "runtime_label": "120 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/262504-allegiant?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
     "poster_display_url": "posters/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
     "poster_cache_status": "cached",
@@ -21830,6 +23659,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/38408-life-as-we-know-it",
     "rating_scope": "work",
+    "runtime_minutes": 114,
+    "runtime_label": "114 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/38408-life-as-we-know-it?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg",
     "poster_display_url": "posters/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg",
     "poster_cache_status": "cached",
@@ -21901,6 +23737,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/10191-how-to-train-your-dragon?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 98,
+    "runtime_label": "98 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/10191-how-to-train-your-dragon?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
     "poster_display_url": "posters/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
     "poster_cache_status": "cached",
@@ -21972,6 +23815,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 100,
+    "runtime_label": "100 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/204582?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/rwftGIvZb3llWLSrX6FG2lruBqz.jpg",
     "poster_display_url": "posters/rwftGIvZb3llWLSrX6FG2lruBqz.jpg",
     "poster_cache_status": "cached",
@@ -22032,6 +23882,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/920-cars?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 117,
+    "runtime_label": "117 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/920-cars?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
     "poster_display_url": "posters/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
     "poster_cache_status": "cached",
@@ -22156,6 +24013,13 @@
     "rating_label": "Rating: PG-13",
     "rating_source": "https://www.themoviedb.org/movie/9664-flyboys?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 138,
+    "runtime_label": "138 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/9664-flyboys?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
     "poster_display_url": "posters/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
     "poster_cache_status": "cached",
@@ -22217,6 +24081,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/49519-the-croods?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 98,
+    "runtime_label": "98 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/49519-the-croods?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
     "poster_display_url": "posters/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
     "poster_cache_status": "cached",
@@ -22340,6 +24211,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/79379-book-of-dragons?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 18,
+    "runtime_label": "18 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/79379-book-of-dragons?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/jDInObzAHYGsde02gTxL8B56HGT.jpg",
     "poster_display_url": "posters/jDInObzAHYGsde02gTxL8B56HGT.jpg",
     "poster_cache_status": "cached",
@@ -22460,6 +24338,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 28,
+    "runtime_label": "28 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/290977?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/9p0BHe1kbrFX5OjUp01DtsZDB4p.jpg",
     "poster_display_url": "posters/9p0BHe1kbrFX5OjUp01DtsZDB4p.jpg",
     "poster_cache_status": "cached",
@@ -22519,6 +24404,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/14160-up?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 96,
+    "runtime_label": "96 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/14160-up?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
     "poster_display_url": "posters/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
     "poster_cache_status": "cached",
@@ -22578,6 +24470,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 49,
+    "runtime_label": "49 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/272070?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/1kznZuiS6dIVhZkRhwuf3gkG9oo.jpg",
     "poster_display_url": "posters/1kznZuiS6dIVhZkRhwuf3gkG9oo.jpg",
     "poster_cache_status": "cached",
@@ -22764,6 +24663,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-MA",
+    "runtime_minutes": 430,
+    "runtime_label": "7.2 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/62413-killjoys/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
     "poster_display_url": "posters/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
     "poster_cache_status": "cached",
@@ -22824,6 +24730,13 @@
     "rating_label": "Rating: R",
     "rating_source": "https://www.themoviedb.org/movie/65754-the-girl-with-the-dragon-tattoo?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 158,
+    "runtime_label": "158 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/65754-the-girl-with-the-dragon-tattoo?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
     "poster_display_url": "posters/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
     "poster_cache_status": "cached",
@@ -23071,6 +24984,13 @@
     "rating_label": "Rating: G",
     "rating_source": "https://www.themoviedb.org/movie/14059-snow-buddies?language=en-US",
     "rating_scope": "work",
+    "runtime_minutes": 87,
+    "runtime_label": "87 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/14059-snow-buddies?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
     "poster_display_url": "posters/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg",
     "poster_cache_status": "cached",
@@ -23133,6 +25053,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG",
+    "runtime_minutes": 95,
+    "runtime_label": "95 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/50359-hop?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg",
     "poster_display_url": "posters/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg",
     "poster_cache_status": "cached",
@@ -23190,6 +25117,13 @@
     "rating_label": "Rating: PG",
     "rating_source": "https://www.themoviedb.org/movie/2977-becoming-jane",
     "rating_scope": "work",
+    "runtime_minutes": 120,
+    "runtime_label": "120 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2977-becoming-jane?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
     "poster_display_url": "posters/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
     "poster_cache_status": "cached",
@@ -23250,6 +25184,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 387,
+    "runtime_label": "6.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/1416-grey-s-anatomy/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_display_url": "posters/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "poster_cache_status": "cached",
@@ -23310,6 +25251,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "edition",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 121,
+    "runtime_label": "121 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/2164-stargate?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
     "poster_display_url": "posters/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
     "poster_cache_status": "cached",
@@ -23372,6 +25320,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 487,
+    "runtime_label": "8.1 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/4194-star-wars-the-clone-wars/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_cache_status": "cached",
@@ -23434,6 +25389,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 486,
+    "runtime_label": "8.1 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/4194-star-wars-the-clone-wars/season/3?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_cache_status": "cached",
@@ -23496,6 +25458,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 486,
+    "runtime_label": "8.1 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/4194-star-wars-the-clone-wars/season/4?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_cache_status": "cached",
@@ -23558,6 +25527,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-PG",
+    "runtime_minutes": 440,
+    "runtime_label": "7.3 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/4194-star-wars-the-clone-wars/season/5?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_display_url": "posters/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
     "poster_cache_status": "cached",
@@ -23616,6 +25592,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "series",
     "rating_label": "Series rating: TV-14",
+    "runtime_minutes": 420,
+    "runtime_label": "7 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/18856/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
     "poster_display_url": "posters/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
     "poster_cache_status": "cached",
@@ -23737,6 +25720,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: PG-13",
+    "runtime_minutes": 127,
+    "runtime_label": "127 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/13475-star-trek?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/lV5OpzAss1z06YNagOVap1I35mH.jpg",
     "poster_display_url": "posters/lV5OpzAss1z06YNagOVap1I35mH.jpg",
     "poster_cache_status": "cached",
@@ -23796,6 +25786,13 @@
     "rating_checked_at": "2026-10-19",
     "rating_scope": "work",
     "rating_label": "Rating: Not rated (NR)",
+    "runtime_minutes": 83,
+    "runtime_label": "83 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/278932?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/4ltMbJcnnQa0fao6EgWKQuxTkna.jpg",
     "poster_display_url": "posters/4ltMbJcnnQa0fao6EgWKQuxTkna.jpg",
     "poster_cache_status": "cached",
@@ -23857,6 +25854,13 @@
     "season_year": 2015,
     "season_metadata_source": "https://www.themoviedb.org/tv/60802-the-last-ship/season/2",
     "verification_status": "Owner-confirmed season and format; public TMDB season verified",
+    "runtime_minutes": 533,
+    "runtime_label": "8.9 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/60802-the-last-ship/season/2?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
     "poster_display_url": "posters/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
     "poster_cache_status": "cached",
@@ -23918,6 +25922,13 @@
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
     "season_year": 2024,
+    "runtime_minutes": 553,
+    "runtime_label": "9.2 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/157741-landman/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
     "poster_display_url": "posters/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
     "poster_cache_status": "cached",
@@ -23980,6 +25991,13 @@
     "rating_status": "US work rating from public TMDB; disc edition not certified",
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
+    "runtime_minutes": 148,
+    "runtime_label": "148 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/558449-gladiator-ii?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
     "poster_display_url": "posters/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
     "poster_cache_status": "cached",
@@ -24041,6 +26059,13 @@
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
     "season_year": 2016,
+    "runtime_minutes": 688,
+    "runtime_label": "11.5 h",
+    "runtime_scope": "season",
+    "runtime_sources": [
+      "https://www.themoviedb.org/tv/62852-billions/season/1?language=en-US"
+    ],
+    "runtime_basis": "Sum of every aired episode in this season; disc extras excluded",
     "poster_local_url": "posters/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg",
     "poster_display_url": "posters/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg",
     "poster_cache_status": "cached",
@@ -24103,6 +26128,13 @@
     "rating_status": "US work rating from public TMDB; disc edition not certified",
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
+    "runtime_minutes": 132,
+    "runtime_label": "132 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/333484-the-magnificent-seven?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
     "poster_display_url": "posters/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
     "poster_cache_status": "cached",
@@ -24165,6 +26197,13 @@
     "rating_status": "US work rating from public TMDB; disc edition not certified",
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
+    "runtime_minutes": 137,
+    "runtime_label": "137 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/339964-valerian-and-the-city-of-a-thousand-planets?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
     "poster_display_url": "posters/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
     "poster_cache_status": "cached",
@@ -24228,6 +26267,13 @@
     "rating_status": "US work rating from public TMDB; disc edition not certified",
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
+    "runtime_minutes": 120,
+    "runtime_label": "120 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/454294-the-kid-who-would-be-king?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
     "poster_display_url": "posters/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
     "poster_cache_status": "cached",
@@ -24289,6 +26335,13 @@
     "rating_status": "US work rating from public TMDB; disc edition not certified",
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
+    "runtime_minutes": 155,
+    "runtime_label": "155 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/438631-dune?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
     "poster_display_url": "posters/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
     "poster_cache_status": "cached",
@@ -24352,6 +26405,13 @@
     "rating_status": "US work rating from public TMDB; disc edition not certified",
     "rating_evidence": "Public series or movie certification, distinct from audience score.",
     "rating_checked_at": "2026-10-19",
+    "runtime_minutes": 97,
+    "runtime_label": "97 min",
+    "runtime_scope": "work",
+    "runtime_sources": [
+      "https://www.themoviedb.org/movie/431580-abominable?language=en-US"
+    ],
+    "runtime_basis": "TMDB work runtime; disc cut and extras may differ",
     "poster_local_url": "posters/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg",
     "poster_display_url": "posters/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg",
     "poster_cache_status": "cached",
