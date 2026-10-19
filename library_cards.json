@@ -79,7 +79,12 @@
     ],
     "catalog_ids": [
       1
-    ]
+    ],
+    "available_copy_ids": [
+      1
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 2,
@@ -162,7 +167,12 @@
     ],
     "catalog_ids": [
       2
-    ]
+    ],
+    "available_copy_ids": [
+      2
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 3,
@@ -244,7 +254,12 @@
     ],
     "catalog_ids": [
       3
-    ]
+    ],
+    "available_copy_ids": [
+      3
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 4,
@@ -330,7 +345,12 @@
     ],
     "catalog_ids": [
       4
-    ]
+    ],
+    "available_copy_ids": [
+      4
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 5,
@@ -411,7 +431,12 @@
     ],
     "catalog_ids": [
       5
-    ]
+    ],
+    "available_copy_ids": [
+      5
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 6,
@@ -493,7 +518,12 @@
     ],
     "catalog_ids": [
       6
-    ]
+    ],
+    "available_copy_ids": [
+      6
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 7,
@@ -575,7 +605,12 @@
     ],
     "catalog_ids": [
       7
-    ]
+    ],
+    "available_copy_ids": [
+      7
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 8,
@@ -658,7 +693,12 @@
     ],
     "catalog_ids": [
       8
-    ]
+    ],
+    "available_copy_ids": [
+      8
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 9,
@@ -736,7 +776,12 @@
     ],
     "catalog_ids": [
       9
-    ]
+    ],
+    "available_copy_ids": [
+      9
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 10,
@@ -813,7 +858,12 @@
     ],
     "catalog_ids": [
       10
-    ]
+    ],
+    "available_copy_ids": [
+      10
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 11,
@@ -891,7 +941,12 @@
     ],
     "catalog_ids": [
       11
-    ]
+    ],
+    "available_copy_ids": [
+      11
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 12,
@@ -974,7 +1029,12 @@
     ],
     "catalog_ids": [
       12
-    ]
+    ],
+    "available_copy_ids": [
+      12
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 13,
@@ -1052,7 +1112,12 @@
     ],
     "catalog_ids": [
       13
-    ]
+    ],
+    "available_copy_ids": [
+      13
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 14,
@@ -1128,7 +1193,12 @@
     ],
     "catalog_ids": [
       14
-    ]
+    ],
+    "available_copy_ids": [
+      14
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 15,
@@ -1207,7 +1277,12 @@
     ],
     "catalog_ids": [
       15
-    ]
+    ],
+    "available_copy_ids": [
+      15
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 16,
@@ -1286,7 +1361,12 @@
     ],
     "catalog_ids": [
       16
-    ]
+    ],
+    "available_copy_ids": [
+      16
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 17,
@@ -1365,7 +1445,12 @@
     ],
     "catalog_ids": [
       17
-    ]
+    ],
+    "available_copy_ids": [
+      17
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 18,
@@ -1445,7 +1530,12 @@
     ],
     "catalog_ids": [
       18
-    ]
+    ],
+    "available_copy_ids": [
+      18
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 19,
@@ -1522,7 +1612,12 @@
     ],
     "catalog_ids": [
       19
-    ]
+    ],
+    "available_copy_ids": [
+      19
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 20,
@@ -1601,7 +1696,12 @@
     ],
     "catalog_ids": [
       20
-    ]
+    ],
+    "available_copy_ids": [
+      20
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 21,
@@ -1678,7 +1778,12 @@
     ],
     "catalog_ids": [
       21
-    ]
+    ],
+    "available_copy_ids": [
+      21
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 22,
@@ -1759,7 +1864,12 @@
     ],
     "catalog_ids": [
       22
-    ]
+    ],
+    "available_copy_ids": [
+      22
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 23,
@@ -1831,7 +1941,12 @@
     ],
     "catalog_ids": [
       23
-    ]
+    ],
+    "available_copy_ids": [
+      23
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 24,
@@ -1912,7 +2027,12 @@
     ],
     "catalog_ids": [
       24
-    ]
+    ],
+    "available_copy_ids": [
+      24
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 25,
@@ -1989,7 +2109,12 @@
     ],
     "catalog_ids": [
       25
-    ]
+    ],
+    "available_copy_ids": [
+      25
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 26,
@@ -2070,7 +2195,12 @@
     ],
     "catalog_ids": [
       26
-    ]
+    ],
+    "available_copy_ids": [
+      26
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 27,
@@ -2143,7 +2273,12 @@
     ],
     "catalog_ids": [
       27
-    ]
+    ],
+    "available_copy_ids": [
+      27
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 28,
@@ -2216,7 +2351,12 @@
     ],
     "catalog_ids": [
       28
-    ]
+    ],
+    "available_copy_ids": [
+      28
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 29,
@@ -2293,7 +2433,12 @@
     ],
     "catalog_ids": [
       29
-    ]
+    ],
+    "available_copy_ids": [
+      29
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 30,
@@ -2369,7 +2514,12 @@
     ],
     "catalog_ids": [
       30
-    ]
+    ],
+    "available_copy_ids": [
+      30
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 31,
@@ -2471,7 +2621,12 @@
     ],
     "catalog_ids": [
       31
-    ]
+    ],
+    "available_copy_ids": [
+      31
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 32,
@@ -2551,7 +2706,12 @@
     ],
     "catalog_ids": [
       32
-    ]
+    ],
+    "available_copy_ids": [
+      32
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 33,
@@ -2631,7 +2791,12 @@
     ],
     "catalog_ids": [
       33
-    ]
+    ],
+    "available_copy_ids": [
+      33
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 34,
@@ -2707,7 +2872,12 @@
     ],
     "catalog_ids": [
       34
-    ]
+    ],
+    "available_copy_ids": [
+      34
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 35,
@@ -2784,7 +2954,12 @@
     ],
     "catalog_ids": [
       35
-    ]
+    ],
+    "available_copy_ids": [
+      35
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 36,
@@ -2865,7 +3040,12 @@
     ],
     "catalog_ids": [
       36
-    ]
+    ],
+    "available_copy_ids": [
+      36
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 37,
@@ -2942,7 +3122,12 @@
     ],
     "catalog_ids": [
       37
-    ]
+    ],
+    "available_copy_ids": [
+      37
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 38,
@@ -3020,7 +3205,12 @@
     ],
     "catalog_ids": [
       38
-    ]
+    ],
+    "available_copy_ids": [
+      38
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 39,
@@ -3099,7 +3289,12 @@
     ],
     "catalog_ids": [
       39
-    ]
+    ],
+    "available_copy_ids": [
+      39
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 40,
@@ -3174,7 +3369,12 @@
     ],
     "catalog_ids": [
       40
-    ]
+    ],
+    "available_copy_ids": [
+      40
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 41,
@@ -3251,7 +3451,12 @@
     ],
     "catalog_ids": [
       41
-    ]
+    ],
+    "available_copy_ids": [
+      41
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 42,
@@ -3329,7 +3534,12 @@
     ],
     "catalog_ids": [
       42
-    ]
+    ],
+    "available_copy_ids": [
+      42
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 43,
@@ -3409,7 +3619,12 @@
     ],
     "catalog_ids": [
       43
-    ]
+    ],
+    "available_copy_ids": [
+      43
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 44,
@@ -3486,7 +3701,12 @@
     ],
     "catalog_ids": [
       44
-    ]
+    ],
+    "available_copy_ids": [
+      44
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 45,
@@ -3563,7 +3783,12 @@
     ],
     "catalog_ids": [
       45
-    ]
+    ],
+    "available_copy_ids": [
+      45
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 47,
@@ -3655,7 +3880,12 @@
     ],
     "catalog_ids": [
       47
-    ]
+    ],
+    "available_copy_ids": [
+      47
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 48,
@@ -3736,7 +3966,12 @@
     ],
     "catalog_ids": [
       48
-    ]
+    ],
+    "available_copy_ids": [
+      48
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 49,
@@ -3813,7 +4048,12 @@
     ],
     "catalog_ids": [
       49
-    ]
+    ],
+    "available_copy_ids": [
+      49
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 50,
@@ -3889,7 +4129,12 @@
     ],
     "catalog_ids": [
       50
-    ]
+    ],
+    "available_copy_ids": [
+      50
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 52,
@@ -3968,7 +4213,12 @@
     ],
     "catalog_ids": [
       52
-    ]
+    ],
+    "available_copy_ids": [
+      52
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 53,
@@ -4050,7 +4300,12 @@
     ],
     "catalog_ids": [
       53
-    ]
+    ],
+    "available_copy_ids": [
+      53
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 54,
@@ -4132,7 +4387,12 @@
     ],
     "catalog_ids": [
       54
-    ]
+    ],
+    "available_copy_ids": [
+      54
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 55,
@@ -4214,7 +4474,12 @@
     ],
     "catalog_ids": [
       55
-    ]
+    ],
+    "available_copy_ids": [
+      55
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 56,
@@ -4296,7 +4561,12 @@
     ],
     "catalog_ids": [
       56
-    ]
+    ],
+    "available_copy_ids": [
+      56
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 57,
@@ -4378,7 +4648,12 @@
     ],
     "catalog_ids": [
       57
-    ]
+    ],
+    "available_copy_ids": [
+      57
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 58,
@@ -4460,7 +4735,12 @@
     ],
     "catalog_ids": [
       58
-    ]
+    ],
+    "available_copy_ids": [
+      58
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 59,
@@ -4542,7 +4822,12 @@
     ],
     "catalog_ids": [
       59
-    ]
+    ],
+    "available_copy_ids": [
+      59
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 60,
@@ -4615,7 +4900,12 @@
     ],
     "catalog_ids": [
       60
-    ]
+    ],
+    "available_copy_ids": [
+      60
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 61,
@@ -4696,7 +4986,12 @@
     ],
     "catalog_ids": [
       61
-    ]
+    ],
+    "available_copy_ids": [
+      61
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 62,
@@ -4777,7 +5072,12 @@
     ],
     "catalog_ids": [
       62
-    ]
+    ],
+    "available_copy_ids": [
+      62
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 63,
@@ -4858,7 +5158,12 @@
     ],
     "catalog_ids": [
       63
-    ]
+    ],
+    "available_copy_ids": [
+      63
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 67,
@@ -4934,7 +5239,12 @@
     ],
     "catalog_ids": [
       67
-    ]
+    ],
+    "available_copy_ids": [
+      67
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 68,
@@ -5010,7 +5320,12 @@
     ],
     "catalog_ids": [
       68
-    ]
+    ],
+    "available_copy_ids": [
+      68
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 69,
@@ -5086,7 +5401,12 @@
     ],
     "catalog_ids": [
       69
-    ]
+    ],
+    "available_copy_ids": [
+      69
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 70,
@@ -5162,7 +5482,12 @@
     ],
     "catalog_ids": [
       70
-    ]
+    ],
+    "available_copy_ids": [
+      70
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 71,
@@ -5239,7 +5564,12 @@
     ],
     "catalog_ids": [
       71
-    ]
+    ],
+    "available_copy_ids": [
+      71
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 72,
@@ -5315,7 +5645,12 @@
     ],
     "catalog_ids": [
       72
-    ]
+    ],
+    "available_copy_ids": [
+      72
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 73,
@@ -5391,7 +5726,12 @@
     ],
     "catalog_ids": [
       73
-    ]
+    ],
+    "available_copy_ids": [
+      73
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 74,
@@ -5468,7 +5808,12 @@
     ],
     "catalog_ids": [
       74
-    ]
+    ],
+    "available_copy_ids": [
+      74
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 75,
@@ -5545,7 +5890,12 @@
     ],
     "catalog_ids": [
       75
-    ]
+    ],
+    "available_copy_ids": [
+      75
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 76,
@@ -5622,7 +5972,12 @@
     ],
     "catalog_ids": [
       76
-    ]
+    ],
+    "available_copy_ids": [
+      76
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 77,
@@ -5703,7 +6058,12 @@
     ],
     "catalog_ids": [
       77
-    ]
+    ],
+    "available_copy_ids": [
+      77
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 78,
@@ -5784,7 +6144,12 @@
     ],
     "catalog_ids": [
       78
-    ]
+    ],
+    "available_copy_ids": [
+      78
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 79,
@@ -5860,7 +6225,12 @@
     ],
     "catalog_ids": [
       79
-    ]
+    ],
+    "available_copy_ids": [
+      79
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 81,
@@ -5937,7 +6307,12 @@
     ],
     "catalog_ids": [
       81
-    ]
+    ],
+    "available_copy_ids": [
+      81
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 82,
@@ -6014,7 +6389,12 @@
     ],
     "catalog_ids": [
       82
-    ]
+    ],
+    "available_copy_ids": [
+      82
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 83,
@@ -6090,7 +6470,12 @@
     ],
     "catalog_ids": [
       83
-    ]
+    ],
+    "available_copy_ids": [
+      83
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 84,
@@ -6166,7 +6551,12 @@
     ],
     "catalog_ids": [
       84
-    ]
+    ],
+    "available_copy_ids": [
+      84
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 85,
@@ -6243,7 +6633,12 @@
     ],
     "catalog_ids": [
       85
-    ]
+    ],
+    "available_copy_ids": [
+      85
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 86,
@@ -6320,7 +6715,12 @@
     ],
     "catalog_ids": [
       86
-    ]
+    ],
+    "available_copy_ids": [
+      86
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 87,
@@ -6438,7 +6838,13 @@
     "available_formats": [
       "DVD",
       "Blu-ray"
-    ]
+    ],
+    "available_copy_ids": [
+      87,
+      189
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 88,
@@ -6517,7 +6923,12 @@
     ],
     "catalog_ids": [
       88
-    ]
+    ],
+    "available_copy_ids": [
+      88
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 89,
@@ -6594,7 +7005,12 @@
     ],
     "catalog_ids": [
       89
-    ]
+    ],
+    "available_copy_ids": [
+      89
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 90,
@@ -6672,7 +7088,12 @@
     ],
     "catalog_ids": [
       90
-    ]
+    ],
+    "available_copy_ids": [
+      90
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 91,
@@ -6753,7 +7174,12 @@
     ],
     "catalog_ids": [
       91
-    ]
+    ],
+    "available_copy_ids": [
+      91
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 92,
@@ -6828,7 +7254,12 @@
     ],
     "catalog_ids": [
       92
-    ]
+    ],
+    "available_copy_ids": [
+      92
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 93,
@@ -6935,7 +7366,12 @@
     ],
     "catalog_ids": [
       93
-    ]
+    ],
+    "available_copy_ids": [
+      93
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 94,
@@ -7025,7 +7461,12 @@
     ],
     "catalog_ids": [
       94
-    ]
+    ],
+    "available_copy_ids": [
+      94
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 95,
@@ -7140,7 +7581,13 @@
     "available_formats": [
       "DVD",
       "Blu-ray"
-    ]
+    ],
+    "available_copy_ids": [
+      95,
+      361
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 96,
@@ -7220,7 +7667,12 @@
     ],
     "catalog_ids": [
       96
-    ]
+    ],
+    "available_copy_ids": [
+      96
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 97,
@@ -7300,7 +7752,12 @@
     ],
     "catalog_ids": [
       97
-    ]
+    ],
+    "available_copy_ids": [
+      97
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 98,
@@ -7376,7 +7833,12 @@
     ],
     "catalog_ids": [
       98
-    ]
+    ],
+    "available_copy_ids": [
+      98
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 99,
@@ -7457,7 +7919,12 @@
     ],
     "catalog_ids": [
       99
-    ]
+    ],
+    "available_copy_ids": [
+      99
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 100,
@@ -7538,7 +8005,12 @@
     ],
     "catalog_ids": [
       100
-    ]
+    ],
+    "available_copy_ids": [
+      100
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 101,
@@ -7617,7 +8089,12 @@
     ],
     "catalog_ids": [
       101
-    ]
+    ],
+    "available_copy_ids": [
+      101
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 102,
@@ -7694,7 +8171,12 @@
     ],
     "catalog_ids": [
       102
-    ]
+    ],
+    "available_copy_ids": [
+      102
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 103,
@@ -7769,7 +8251,12 @@
     ],
     "catalog_ids": [
       103
-    ]
+    ],
+    "available_copy_ids": [
+      103
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 104,
@@ -7847,7 +8334,12 @@
     ],
     "catalog_ids": [
       104
-    ]
+    ],
+    "available_copy_ids": [
+      104
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 105,
@@ -7921,7 +8413,12 @@
     ],
     "catalog_ids": [
       105
-    ]
+    ],
+    "available_copy_ids": [
+      105
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 106,
@@ -7993,7 +8490,12 @@
     ],
     "catalog_ids": [
       106
-    ]
+    ],
+    "available_copy_ids": [
+      106
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 107,
@@ -8070,7 +8572,12 @@
     ],
     "catalog_ids": [
       107
-    ]
+    ],
+    "available_copy_ids": [
+      107
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 108,
@@ -8148,7 +8655,12 @@
     ],
     "catalog_ids": [
       108
-    ]
+    ],
+    "available_copy_ids": [
+      108
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 109,
@@ -8228,7 +8740,12 @@
     ],
     "catalog_ids": [
       109
-    ]
+    ],
+    "available_copy_ids": [
+      109
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 110,
@@ -8304,7 +8821,12 @@
     ],
     "catalog_ids": [
       110
-    ]
+    ],
+    "available_copy_ids": [
+      110
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 111,
@@ -8422,7 +8944,13 @@
     "consolidation_basis": "Owner requested one card for both photographed DVD editions.",
     "available_formats": [
       "DVD"
-    ]
+    ],
+    "available_copy_ids": [
+      111,
+      351
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 112,
@@ -8499,7 +9027,12 @@
     ],
     "catalog_ids": [
       112
-    ]
+    ],
+    "available_copy_ids": [
+      112
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 113,
@@ -8576,7 +9109,12 @@
     ],
     "catalog_ids": [
       113
-    ]
+    ],
+    "available_copy_ids": [
+      113
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 114,
@@ -8655,7 +9193,12 @@
     ],
     "catalog_ids": [
       114
-    ]
+    ],
+    "available_copy_ids": [
+      114
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 115,
@@ -8733,7 +9276,12 @@
     ],
     "catalog_ids": [
       115
-    ]
+    ],
+    "available_copy_ids": [
+      115
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 116,
@@ -8819,7 +9367,12 @@
     ],
     "catalog_ids": [
       116
-    ]
+    ],
+    "available_copy_ids": [
+      116
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 117,
@@ -8897,7 +9450,12 @@
     ],
     "catalog_ids": [
       117
-    ]
+    ],
+    "available_copy_ids": [
+      117
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 118,
@@ -8974,7 +9532,12 @@
     ],
     "catalog_ids": [
       118
-    ]
+    ],
+    "available_copy_ids": [
+      118
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 119,
@@ -9052,7 +9615,12 @@
     ],
     "catalog_ids": [
       119
-    ]
+    ],
+    "available_copy_ids": [
+      119
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 120,
@@ -9132,7 +9700,12 @@
     ],
     "catalog_ids": [
       120
-    ]
+    ],
+    "available_copy_ids": [
+      120
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 121,
@@ -9202,7 +9775,12 @@
     ],
     "catalog_ids": [
       121
-    ]
+    ],
+    "available_copy_ids": [
+      121
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 122,
@@ -9280,7 +9858,12 @@
     ],
     "catalog_ids": [
       122
-    ]
+    ],
+    "available_copy_ids": [
+      122
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 123,
@@ -9350,7 +9933,12 @@
     ],
     "catalog_ids": [
       123
-    ]
+    ],
+    "available_copy_ids": [
+      123
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 124,
@@ -9427,7 +10015,12 @@
     ],
     "catalog_ids": [
       124
-    ]
+    ],
+    "available_copy_ids": [
+      124
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 125,
@@ -9498,7 +10091,12 @@
     ],
     "catalog_ids": [
       125
-    ]
+    ],
+    "available_copy_ids": [
+      125
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 126,
@@ -9575,7 +10173,12 @@
     ],
     "catalog_ids": [
       126
-    ]
+    ],
+    "available_copy_ids": [
+      126
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 127,
@@ -9654,7 +10257,12 @@
     ],
     "catalog_ids": [
       127
-    ]
+    ],
+    "available_copy_ids": [
+      127
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 128,
@@ -9731,7 +10339,12 @@
     ],
     "catalog_ids": [
       128
-    ]
+    ],
+    "available_copy_ids": [
+      128
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 129,
@@ -9849,7 +10462,13 @@
     "consolidation_basis": "Owner requested one card for widescreen and full-screen DVDs; identical episode contents are not independently verified.",
     "available_formats": [
       "DVD"
-    ]
+    ],
+    "available_copy_ids": [
+      129,
+      352
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 130,
@@ -9927,7 +10546,12 @@
     ],
     "catalog_ids": [
       130
-    ]
+    ],
+    "available_copy_ids": [
+      130
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 131,
@@ -10003,7 +10627,12 @@
     ],
     "catalog_ids": [
       131
-    ]
+    ],
+    "available_copy_ids": [
+      131
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 132,
@@ -10080,7 +10709,12 @@
     ],
     "catalog_ids": [
       132
-    ]
+    ],
+    "available_copy_ids": [
+      132
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 133,
@@ -10158,7 +10792,12 @@
     ],
     "catalog_ids": [
       133
-    ]
+    ],
+    "available_copy_ids": [
+      133
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 134,
@@ -10234,7 +10873,12 @@
     ],
     "catalog_ids": [
       134
-    ]
+    ],
+    "available_copy_ids": [
+      134
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 135,
@@ -10307,7 +10951,12 @@
     ],
     "catalog_ids": [
       135
-    ]
+    ],
+    "available_copy_ids": [
+      135
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 136,
@@ -10382,7 +11031,12 @@
     ],
     "catalog_ids": [
       136
-    ]
+    ],
+    "available_copy_ids": [
+      136
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 137,
@@ -10452,7 +11106,12 @@
     ],
     "catalog_ids": [
       137
-    ]
+    ],
+    "available_copy_ids": [
+      137
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 138,
@@ -10528,7 +11187,12 @@
     ],
     "catalog_ids": [
       138
-    ]
+    ],
+    "available_copy_ids": [
+      138
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 140,
@@ -10612,7 +11276,12 @@
     ],
     "catalog_ids": [
       140
-    ]
+    ],
+    "available_copy_ids": [
+      140
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 141,
@@ -10689,7 +11358,12 @@
     ],
     "catalog_ids": [
       141
-    ]
+    ],
+    "available_copy_ids": [
+      141
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 142,
@@ -10764,7 +11438,12 @@
     ],
     "catalog_ids": [
       142
-    ]
+    ],
+    "available_copy_ids": [
+      142
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 143,
@@ -10841,7 +11520,12 @@
     ],
     "catalog_ids": [
       143
-    ]
+    ],
+    "available_copy_ids": [
+      143
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 144,
@@ -10918,7 +11602,12 @@
     ],
     "catalog_ids": [
       144
-    ]
+    ],
+    "available_copy_ids": [
+      144
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 145,
@@ -10995,7 +11684,12 @@
     ],
     "catalog_ids": [
       145
-    ]
+    ],
+    "available_copy_ids": [
+      145
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 146,
@@ -11072,7 +11766,12 @@
     ],
     "catalog_ids": [
       146
-    ]
+    ],
+    "available_copy_ids": [
+      146
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 147,
@@ -11147,7 +11846,12 @@
     ],
     "catalog_ids": [
       147
-    ]
+    ],
+    "available_copy_ids": [
+      147
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 148,
@@ -11223,7 +11927,12 @@
     ],
     "catalog_ids": [
       148
-    ]
+    ],
+    "available_copy_ids": [
+      148
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 149,
@@ -11304,7 +12013,12 @@
     ],
     "catalog_ids": [
       149
-    ]
+    ],
+    "available_copy_ids": [
+      149
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 153,
@@ -11382,7 +12096,12 @@
     ],
     "catalog_ids": [
       153
-    ]
+    ],
+    "available_copy_ids": [
+      153
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 154,
@@ -11455,7 +12174,12 @@
     ],
     "catalog_ids": [
       154
-    ]
+    ],
+    "available_copy_ids": [
+      154
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 155,
@@ -11534,7 +12258,12 @@
     ],
     "catalog_ids": [
       155
-    ]
+    ],
+    "available_copy_ids": [
+      155
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 156,
@@ -11611,7 +12340,12 @@
     ],
     "catalog_ids": [
       156
-    ]
+    ],
+    "available_copy_ids": [
+      156
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 157,
@@ -11686,7 +12420,12 @@
     ],
     "catalog_ids": [
       157
-    ]
+    ],
+    "available_copy_ids": [
+      157
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 159,
@@ -11765,7 +12504,12 @@
     ],
     "catalog_ids": [
       159
-    ]
+    ],
+    "available_copy_ids": [
+      159
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 160,
@@ -11837,7 +12581,12 @@
     ],
     "catalog_ids": [
       160
-    ]
+    ],
+    "available_copy_ids": [
+      160
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 161,
@@ -11908,7 +12657,12 @@
     ],
     "catalog_ids": [
       161
-    ]
+    ],
+    "available_copy_ids": [
+      161
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 162,
@@ -11987,7 +12741,12 @@
     ],
     "catalog_ids": [
       162
-    ]
+    ],
+    "available_copy_ids": [
+      162
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 163,
@@ -12064,7 +12823,12 @@
     ],
     "catalog_ids": [
       163
-    ]
+    ],
+    "available_copy_ids": [
+      163
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 164,
@@ -12146,7 +12910,12 @@
     ],
     "catalog_ids": [
       164
-    ]
+    ],
+    "available_copy_ids": [
+      164
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 165,
@@ -12225,7 +12994,12 @@
     ],
     "catalog_ids": [
       165
-    ]
+    ],
+    "available_copy_ids": [
+      165
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 166,
@@ -12301,7 +13075,12 @@
     ],
     "catalog_ids": [
       166
-    ]
+    ],
+    "available_copy_ids": [
+      166
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 167,
@@ -12382,7 +13161,12 @@
     ],
     "catalog_ids": [
       167
-    ]
+    ],
+    "available_copy_ids": [
+      167
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 168,
@@ -12461,7 +13245,12 @@
     ],
     "catalog_ids": [
       168
-    ]
+    ],
+    "available_copy_ids": [
+      168
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 169,
@@ -12535,7 +13324,12 @@
     ],
     "catalog_ids": [
       169
-    ]
+    ],
+    "available_copy_ids": [
+      169
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 170,
@@ -12613,7 +13407,12 @@
     ],
     "catalog_ids": [
       170
-    ]
+    ],
+    "available_copy_ids": [
+      170
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 171,
@@ -12693,7 +13492,12 @@
     ],
     "catalog_ids": [
       171
-    ]
+    ],
+    "available_copy_ids": [
+      171
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 172,
@@ -12773,7 +13577,12 @@
     ],
     "catalog_ids": [
       172
-    ]
+    ],
+    "available_copy_ids": [
+      172
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 173,
@@ -12850,7 +13659,12 @@
     ],
     "catalog_ids": [
       173
-    ]
+    ],
+    "available_copy_ids": [
+      173
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 175,
@@ -12921,7 +13735,12 @@
     ],
     "catalog_ids": [
       175
-    ]
+    ],
+    "available_copy_ids": [
+      175
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 176,
@@ -12998,7 +13817,12 @@
     ],
     "catalog_ids": [
       176
-    ]
+    ],
+    "available_copy_ids": [
+      176
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 177,
@@ -13075,7 +13899,12 @@
     ],
     "catalog_ids": [
       177
-    ]
+    ],
+    "available_copy_ids": [
+      177
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 178,
@@ -13152,7 +13981,12 @@
     ],
     "catalog_ids": [
       178
-    ]
+    ],
+    "available_copy_ids": [
+      178
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 179,
@@ -13222,7 +14056,12 @@
     ],
     "catalog_ids": [
       179
-    ]
+    ],
+    "available_copy_ids": [
+      179
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 183,
@@ -13303,7 +14142,12 @@
     ],
     "catalog_ids": [
       183
-    ]
+    ],
+    "available_copy_ids": [
+      183
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 184,
@@ -13379,7 +14223,12 @@
     ],
     "catalog_ids": [
       184
-    ]
+    ],
+    "available_copy_ids": [
+      184
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 185,
@@ -13457,7 +14306,12 @@
     ],
     "catalog_ids": [
       185
-    ]
+    ],
+    "available_copy_ids": [
+      185
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 186,
@@ -13536,7 +14390,12 @@
     ],
     "catalog_ids": [
       186
-    ]
+    ],
+    "available_copy_ids": [
+      186
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 187,
@@ -13613,7 +14472,12 @@
     ],
     "catalog_ids": [
       187
-    ]
+    ],
+    "available_copy_ids": [
+      187
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 188,
@@ -13690,7 +14554,12 @@
     ],
     "catalog_ids": [
       188
-    ]
+    ],
+    "available_copy_ids": [
+      188
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 190,
@@ -13767,7 +14636,12 @@
     ],
     "catalog_ids": [
       190
-    ]
+    ],
+    "available_copy_ids": [
+      190
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 191,
@@ -13844,7 +14718,12 @@
     ],
     "catalog_ids": [
       191
-    ]
+    ],
+    "available_copy_ids": [
+      191
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 192,
@@ -13925,7 +14804,12 @@
     ],
     "catalog_ids": [
       192
-    ]
+    ],
+    "available_copy_ids": [
+      192
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 193,
@@ -14002,7 +14886,12 @@
     ],
     "catalog_ids": [
       193
-    ]
+    ],
+    "available_copy_ids": [
+      193
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 194,
@@ -14082,7 +14971,12 @@
     ],
     "catalog_ids": [
       194
-    ]
+    ],
+    "available_copy_ids": [
+      194
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 195,
@@ -14155,7 +15049,12 @@
     ],
     "catalog_ids": [
       195
-    ]
+    ],
+    "available_copy_ids": [
+      195
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 196,
@@ -14234,7 +15133,12 @@
     ],
     "catalog_ids": [
       196
-    ]
+    ],
+    "available_copy_ids": [
+      196
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 197,
@@ -14313,7 +15217,12 @@
     ],
     "catalog_ids": [
       197
-    ]
+    ],
+    "available_copy_ids": [
+      197
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 198,
@@ -14389,7 +15298,12 @@
     ],
     "catalog_ids": [
       198
-    ]
+    ],
+    "available_copy_ids": [
+      198
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 199,
@@ -14470,7 +15384,12 @@
     ],
     "catalog_ids": [
       199
-    ]
+    ],
+    "available_copy_ids": [
+      199
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 200,
@@ -14548,7 +15467,12 @@
     ],
     "catalog_ids": [
       200
-    ]
+    ],
+    "available_copy_ids": [
+      200
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 201,
@@ -14627,7 +15551,12 @@
     ],
     "catalog_ids": [
       201
-    ]
+    ],
+    "available_copy_ids": [
+      201
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 202,
@@ -14704,7 +15633,12 @@
     ],
     "catalog_ids": [
       202
-    ]
+    ],
+    "available_copy_ids": [
+      202
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 203,
@@ -14782,7 +15716,12 @@
     ],
     "catalog_ids": [
       203
-    ]
+    ],
+    "available_copy_ids": [
+      203
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 204,
@@ -14858,7 +15797,12 @@
     ],
     "catalog_ids": [
       204
-    ]
+    ],
+    "available_copy_ids": [
+      204
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 205,
@@ -14937,7 +15881,12 @@
     ],
     "catalog_ids": [
       205
-    ]
+    ],
+    "available_copy_ids": [
+      205
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 206,
@@ -15014,7 +15963,12 @@
     ],
     "catalog_ids": [
       206
-    ]
+    ],
+    "available_copy_ids": [
+      206
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 207,
@@ -15092,7 +16046,12 @@
     ],
     "catalog_ids": [
       207
-    ]
+    ],
+    "available_copy_ids": [
+      207
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 208,
@@ -15169,7 +16128,12 @@
     ],
     "catalog_ids": [
       208
-    ]
+    ],
+    "available_copy_ids": [
+      208
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 209,
@@ -15246,7 +16210,12 @@
     ],
     "catalog_ids": [
       209
-    ]
+    ],
+    "available_copy_ids": [
+      209
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 210,
@@ -15324,7 +16293,12 @@
     ],
     "catalog_ids": [
       210
-    ]
+    ],
+    "available_copy_ids": [
+      210
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 212,
@@ -15405,7 +16379,12 @@
     ],
     "catalog_ids": [
       212
-    ]
+    ],
+    "available_copy_ids": [
+      212
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 213,
@@ -15481,7 +16460,12 @@
     ],
     "catalog_ids": [
       213
-    ]
+    ],
+    "available_copy_ids": [
+      213
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 214,
@@ -15558,7 +16542,12 @@
     ],
     "catalog_ids": [
       214
-    ]
+    ],
+    "available_copy_ids": [
+      214
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 215,
@@ -15634,7 +16623,12 @@
     ],
     "catalog_ids": [
       215
-    ]
+    ],
+    "available_copy_ids": [
+      215
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 216,
@@ -15714,7 +16708,12 @@
     ],
     "catalog_ids": [
       216
-    ]
+    ],
+    "available_copy_ids": [
+      216
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 218,
@@ -15791,7 +16790,12 @@
     ],
     "catalog_ids": [
       218
-    ]
+    ],
+    "available_copy_ids": [
+      218
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 219,
@@ -15873,7 +16877,12 @@
     ],
     "catalog_ids": [
       219
-    ]
+    ],
+    "available_copy_ids": [
+      219
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 220,
@@ -15955,7 +16964,12 @@
     ],
     "catalog_ids": [
       220
-    ]
+    ],
+    "available_copy_ids": [
+      220
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 221,
@@ -16037,7 +17051,12 @@
     ],
     "catalog_ids": [
       221
-    ]
+    ],
+    "available_copy_ids": [
+      221
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 222,
@@ -16119,7 +17138,12 @@
     ],
     "catalog_ids": [
       222
-    ]
+    ],
+    "available_copy_ids": [
+      222
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 223,
@@ -16201,7 +17225,12 @@
     ],
     "catalog_ids": [
       223
-    ]
+    ],
+    "available_copy_ids": [
+      223
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 224,
@@ -16283,7 +17312,12 @@
     ],
     "catalog_ids": [
       224
-    ]
+    ],
+    "available_copy_ids": [
+      224
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 225,
@@ -16360,7 +17394,12 @@
     ],
     "catalog_ids": [
       225
-    ]
+    ],
+    "available_copy_ids": [
+      225
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 226,
@@ -16439,7 +17478,12 @@
     ],
     "catalog_ids": [
       226
-    ]
+    ],
+    "available_copy_ids": [
+      226
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 227,
@@ -16518,7 +17562,12 @@
     ],
     "catalog_ids": [
       227
-    ]
+    ],
+    "available_copy_ids": [
+      227
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 228,
@@ -16595,7 +17644,12 @@
     ],
     "catalog_ids": [
       228
-    ]
+    ],
+    "available_copy_ids": [
+      228
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 229,
@@ -16677,7 +17731,12 @@
     ],
     "catalog_ids": [
       229
-    ]
+    ],
+    "available_copy_ids": [
+      229
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 230,
@@ -16753,7 +17812,12 @@
     ],
     "catalog_ids": [
       230
-    ]
+    ],
+    "available_copy_ids": [
+      230
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 231,
@@ -16832,7 +17896,12 @@
     ],
     "catalog_ids": [
       231
-    ]
+    ],
+    "available_copy_ids": [
+      231
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 232,
@@ -16911,7 +17980,12 @@
     ],
     "catalog_ids": [
       232
-    ]
+    ],
+    "available_copy_ids": [
+      232
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 233,
@@ -16991,7 +18065,12 @@
     ],
     "catalog_ids": [
       233
-    ]
+    ],
+    "available_copy_ids": [
+      233
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 234,
@@ -17068,7 +18147,12 @@
     ],
     "catalog_ids": [
       234
-    ]
+    ],
+    "available_copy_ids": [
+      234
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 235,
@@ -17145,7 +18229,12 @@
     ],
     "catalog_ids": [
       235
-    ]
+    ],
+    "available_copy_ids": [
+      235
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 236,
@@ -17223,7 +18312,12 @@
     ],
     "catalog_ids": [
       236
-    ]
+    ],
+    "available_copy_ids": [
+      236
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 237,
@@ -17304,7 +18398,12 @@
     ],
     "catalog_ids": [
       237
-    ]
+    ],
+    "available_copy_ids": [
+      237
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 238,
@@ -17381,7 +18480,12 @@
     ],
     "catalog_ids": [
       238
-    ]
+    ],
+    "available_copy_ids": [
+      238
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 239,
@@ -17458,7 +18562,12 @@
     ],
     "catalog_ids": [
       239
-    ]
+    ],
+    "available_copy_ids": [
+      239
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 240,
@@ -17536,7 +18645,12 @@
     ],
     "catalog_ids": [
       240
-    ]
+    ],
+    "available_copy_ids": [
+      240
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 241,
@@ -17618,7 +18732,12 @@
     ],
     "catalog_ids": [
       241
-    ]
+    ],
+    "available_copy_ids": [
+      241
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 242,
@@ -17699,7 +18818,12 @@
     ],
     "catalog_ids": [
       242
-    ]
+    ],
+    "available_copy_ids": [
+      242
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 243,
@@ -17777,7 +18901,12 @@
     ],
     "catalog_ids": [
       243
-    ]
+    ],
+    "available_copy_ids": [
+      243
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 244,
@@ -17855,7 +18984,12 @@
     ],
     "catalog_ids": [
       244
-    ]
+    ],
+    "available_copy_ids": [
+      244
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 245,
@@ -17943,7 +19077,12 @@
     ],
     "catalog_ids": [
       245
-    ]
+    ],
+    "available_copy_ids": [
+      245
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 246,
@@ -18020,7 +19159,12 @@
     ],
     "catalog_ids": [
       246
-    ]
+    ],
+    "available_copy_ids": [
+      246
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 247,
@@ -18101,7 +19245,12 @@
     ],
     "catalog_ids": [
       247
-    ]
+    ],
+    "available_copy_ids": [
+      247
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 248,
@@ -18176,7 +19325,12 @@
     ],
     "catalog_ids": [
       248
-    ]
+    ],
+    "available_copy_ids": [
+      248
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 249,
@@ -18298,7 +19452,13 @@
     "available_formats": [
       "DVD",
       "Blu-ray"
-    ]
+    ],
+    "available_copy_ids": [
+      249,
+      341
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 250,
@@ -18376,7 +19536,12 @@
     ],
     "catalog_ids": [
       250
-    ]
+    ],
+    "available_copy_ids": [
+      250
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 251,
@@ -18447,7 +19612,12 @@
     ],
     "catalog_ids": [
       251
-    ]
+    ],
+    "available_copy_ids": [
+      251
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 252,
@@ -18524,7 +19694,12 @@
     ],
     "catalog_ids": [
       252
-    ]
+    ],
+    "available_copy_ids": [
+      252
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 253,
@@ -18601,7 +19776,12 @@
     ],
     "catalog_ids": [
       253
-    ]
+    ],
+    "available_copy_ids": [
+      253
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 254,
@@ -18682,7 +19862,12 @@
     ],
     "catalog_ids": [
       254
-    ]
+    ],
+    "available_copy_ids": [
+      254
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 255,
@@ -18763,7 +19948,12 @@
     ],
     "catalog_ids": [
       255
-    ]
+    ],
+    "available_copy_ids": [
+      255
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 256,
@@ -18836,7 +20026,12 @@
     ],
     "catalog_ids": [
       256
-    ]
+    ],
+    "available_copy_ids": [
+      256
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 257,
@@ -18907,7 +20102,12 @@
     ],
     "catalog_ids": [
       257
-    ]
+    ],
+    "available_copy_ids": [
+      257
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 258,
@@ -18984,7 +20184,12 @@
     ],
     "catalog_ids": [
       258
-    ]
+    ],
+    "available_copy_ids": [
+      258
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 259,
@@ -19098,7 +20303,13 @@
     "available_formats": [
       "DVD",
       "Blu-ray"
-    ]
+    ],
+    "available_copy_ids": [
+      259,
+      323
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 260,
@@ -19175,7 +20386,12 @@
     ],
     "catalog_ids": [
       260
-    ]
+    ],
+    "available_copy_ids": [
+      260
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 261,
@@ -19251,7 +20467,12 @@
     ],
     "catalog_ids": [
       261
-    ]
+    ],
+    "available_copy_ids": [
+      261
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 262,
@@ -19331,7 +20552,12 @@
     ],
     "catalog_ids": [
       262
-    ]
+    ],
+    "available_copy_ids": [
+      262
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 263,
@@ -19408,7 +20634,12 @@
     ],
     "catalog_ids": [
       263
-    ]
+    ],
+    "available_copy_ids": [
+      263
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 264,
@@ -19485,7 +20716,12 @@
     ],
     "catalog_ids": [
       264
-    ]
+    ],
+    "available_copy_ids": [
+      264
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 265,
@@ -19563,7 +20799,12 @@
     ],
     "catalog_ids": [
       265
-    ]
+    ],
+    "available_copy_ids": [
+      265
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 266,
@@ -19641,7 +20882,12 @@
     ],
     "catalog_ids": [
       266
-    ]
+    ],
+    "available_copy_ids": [
+      266
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 267,
@@ -19712,7 +20958,12 @@
     ],
     "catalog_ids": [
       267
-    ]
+    ],
+    "available_copy_ids": [
+      267
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 268,
@@ -19782,7 +21033,12 @@
     ],
     "catalog_ids": [
       268
-    ]
+    ],
+    "available_copy_ids": [
+      268
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 270,
@@ -19865,7 +21121,12 @@
     ],
     "catalog_ids": [
       270
-    ]
+    ],
+    "available_copy_ids": [
+      270
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 271,
@@ -19943,7 +21204,12 @@
     ],
     "catalog_ids": [
       271
-    ]
+    ],
+    "available_copy_ids": [
+      271
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 272,
@@ -20023,7 +21289,12 @@
     ],
     "catalog_ids": [
       272
-    ]
+    ],
+    "available_copy_ids": [
+      272
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 273,
@@ -20103,7 +21374,12 @@
     ],
     "catalog_ids": [
       273
-    ]
+    ],
+    "available_copy_ids": [
+      273
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 274,
@@ -20184,7 +21460,12 @@
     ],
     "catalog_ids": [
       274
-    ]
+    ],
+    "available_copy_ids": [
+      274
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 275,
@@ -20254,7 +21535,12 @@
     ],
     "catalog_ids": [
       275
-    ]
+    ],
+    "available_copy_ids": [
+      275
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 276,
@@ -20329,7 +21615,12 @@
     ],
     "catalog_ids": [
       276
-    ]
+    ],
+    "available_copy_ids": [
+      276
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 277,
@@ -20406,7 +21697,12 @@
     ],
     "catalog_ids": [
       277
-    ]
+    ],
+    "available_copy_ids": [
+      277
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 278,
@@ -20483,7 +21779,12 @@
     ],
     "catalog_ids": [
       278
-    ]
+    ],
+    "available_copy_ids": [
+      278
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 279,
@@ -20560,7 +21861,12 @@
     ],
     "catalog_ids": [
       279
-    ]
+    ],
+    "available_copy_ids": [
+      279
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 280,
@@ -20638,7 +21944,12 @@
     ],
     "catalog_ids": [
       280
-    ]
+    ],
+    "available_copy_ids": [
+      280
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 281,
@@ -20711,7 +22022,12 @@
     ],
     "catalog_ids": [
       281
-    ]
+    ],
+    "available_copy_ids": [
+      281
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 282,
@@ -20794,7 +22110,12 @@
     ],
     "catalog_ids": [
       282
-    ]
+    ],
+    "available_copy_ids": [
+      282
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 283,
@@ -20876,7 +22197,12 @@
     ],
     "catalog_ids": [
       283
-    ]
+    ],
+    "available_copy_ids": [
+      283
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 284,
@@ -20959,7 +22285,12 @@
     ],
     "catalog_ids": [
       284
-    ]
+    ],
+    "available_copy_ids": [
+      284
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 285,
@@ -21039,7 +22370,12 @@
     ],
     "catalog_ids": [
       285
-    ]
+    ],
+    "available_copy_ids": [
+      285
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 286,
@@ -21122,7 +22458,12 @@
     ],
     "catalog_ids": [
       286
-    ]
+    ],
+    "available_copy_ids": [
+      286
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 287,
@@ -21203,7 +22544,12 @@
     ],
     "catalog_ids": [
       287
-    ]
+    ],
+    "available_copy_ids": [
+      287
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 288,
@@ -21284,7 +22630,12 @@
     ],
     "catalog_ids": [
       288
-    ]
+    ],
+    "available_copy_ids": [
+      288
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 289,
@@ -21370,7 +22721,12 @@
     ],
     "catalog_ids": [
       289
-    ]
+    ],
+    "available_copy_ids": [
+      289
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 290,
@@ -21457,7 +22813,12 @@
     ],
     "catalog_ids": [
       290
-    ]
+    ],
+    "available_copy_ids": [
+      290
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 291,
@@ -21538,7 +22899,12 @@
     ],
     "catalog_ids": [
       291
-    ]
+    ],
+    "available_copy_ids": [
+      291
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 292,
@@ -21620,7 +22986,12 @@
     ],
     "catalog_ids": [
       292
-    ]
+    ],
+    "available_copy_ids": [
+      292
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 293,
@@ -21699,7 +23070,12 @@
     ],
     "catalog_ids": [
       293
-    ]
+    ],
+    "available_copy_ids": [
+      293
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 294,
@@ -21786,7 +23162,12 @@
     ],
     "catalog_ids": [
       294
-    ]
+    ],
+    "available_copy_ids": [
+      294
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 295,
@@ -21870,7 +23251,12 @@
     ],
     "catalog_ids": [
       295
-    ]
+    ],
+    "available_copy_ids": [
+      295
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 296,
@@ -21951,7 +23337,12 @@
     ],
     "catalog_ids": [
       296
-    ]
+    ],
+    "available_copy_ids": [
+      296
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 297,
@@ -22032,7 +23423,12 @@
     ],
     "catalog_ids": [
       297
-    ]
+    ],
+    "available_copy_ids": [
+      297
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 298,
@@ -22116,7 +23512,12 @@
     ],
     "catalog_ids": [
       298
-    ]
+    ],
+    "available_copy_ids": [
+      298
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 299,
@@ -22196,7 +23597,12 @@
     ],
     "catalog_ids": [
       299
-    ]
+    ],
+    "available_copy_ids": [
+      299
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 300,
@@ -22278,7 +23684,12 @@
     ],
     "catalog_ids": [
       300
-    ]
+    ],
+    "available_copy_ids": [
+      300
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 301,
@@ -22357,7 +23768,12 @@
     ],
     "catalog_ids": [
       301
-    ]
+    ],
+    "available_copy_ids": [
+      301
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 302,
@@ -22434,7 +23850,12 @@
     ],
     "catalog_ids": [
       302
-    ]
+    ],
+    "available_copy_ids": [
+      302
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 303,
@@ -22510,7 +23931,12 @@
     ],
     "catalog_ids": [
       303
-    ]
+    ],
+    "available_copy_ids": [
+      303
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 304,
@@ -22590,7 +24016,12 @@
     ],
     "catalog_ids": [
       304
-    ]
+    ],
+    "available_copy_ids": [
+      304
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 305,
@@ -22670,7 +24101,12 @@
     ],
     "catalog_ids": [
       305
-    ]
+    ],
+    "available_copy_ids": [
+      305
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 306,
@@ -22747,7 +24183,12 @@
     ],
     "catalog_ids": [
       306
-    ]
+    ],
+    "available_copy_ids": [
+      306
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 307,
@@ -22824,7 +24265,12 @@
     ],
     "catalog_ids": [
       307
-    ]
+    ],
+    "available_copy_ids": [
+      307
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 308,
@@ -22901,7 +24347,12 @@
     ],
     "catalog_ids": [
       308
-    ]
+    ],
+    "available_copy_ids": [
+      308
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 309,
@@ -22978,7 +24429,12 @@
     ],
     "catalog_ids": [
       309
-    ]
+    ],
+    "available_copy_ids": [
+      309
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 310,
@@ -23054,7 +24510,12 @@
     ],
     "catalog_ids": [
       310
-    ]
+    ],
+    "available_copy_ids": [
+      310
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 311,
@@ -23135,7 +24596,12 @@
     ],
     "catalog_ids": [
       311
-    ]
+    ],
+    "available_copy_ids": [
+      311
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 312,
@@ -23212,7 +24678,12 @@
     ],
     "catalog_ids": [
       312
-    ]
+    ],
+    "available_copy_ids": [
+      312
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 313,
@@ -23290,7 +24761,12 @@
     ],
     "catalog_ids": [
       313
-    ]
+    ],
+    "available_copy_ids": [
+      313
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 314,
@@ -23367,7 +24843,12 @@
     ],
     "catalog_ids": [
       314
-    ]
+    ],
+    "available_copy_ids": [
+      314
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 315,
@@ -23445,7 +24926,12 @@
     ],
     "catalog_ids": [
       315
-    ]
+    ],
+    "available_copy_ids": [
+      315
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 316,
@@ -23520,7 +25006,12 @@
     ],
     "catalog_ids": [
       316
-    ]
+    ],
+    "available_copy_ids": [
+      316
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 317,
@@ -23598,7 +25089,12 @@
     ],
     "catalog_ids": [
       317
-    ]
+    ],
+    "available_copy_ids": [
+      317
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 318,
@@ -23675,7 +25171,12 @@
     ],
     "catalog_ids": [
       318
-    ]
+    ],
+    "available_copy_ids": [
+      318
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 319,
@@ -23753,7 +25254,12 @@
     ],
     "catalog_ids": [
       319
-    ]
+    ],
+    "available_copy_ids": [
+      319
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 320,
@@ -23832,7 +25338,12 @@
     ],
     "catalog_ids": [
       320
-    ]
+    ],
+    "available_copy_ids": [
+      320
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 321,
@@ -23898,7 +25409,12 @@
     ],
     "catalog_ids": [
       321
-    ]
+    ],
+    "available_copy_ids": [
+      321
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 322,
@@ -23961,7 +25477,12 @@
     ],
     "catalog_ids": [
       322
-    ]
+    ],
+    "available_copy_ids": [
+      322
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 324,
@@ -24029,7 +25550,12 @@
     ],
     "catalog_ids": [
       324
-    ]
+    ],
+    "available_copy_ids": [
+      324
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 325,
@@ -24097,7 +25623,12 @@
     ],
     "catalog_ids": [
       325
-    ]
+    ],
+    "available_copy_ids": [
+      325
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 326,
@@ -24160,7 +25691,12 @@
     ],
     "catalog_ids": [
       326
-    ]
+    ],
+    "available_copy_ids": [
+      326
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 327,
@@ -24227,7 +25763,12 @@
     ],
     "catalog_ids": [
       327
-    ]
+    ],
+    "available_copy_ids": [
+      327
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 328,
@@ -24287,7 +25828,12 @@
     ],
     "catalog_ids": [
       328
-    ]
+    ],
+    "available_copy_ids": [
+      328
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 329,
@@ -24354,7 +25900,12 @@
     ],
     "catalog_ids": [
       329
-    ]
+    ],
+    "available_copy_ids": [
+      329
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 330,
@@ -24420,7 +25971,12 @@
     ],
     "catalog_ids": [
       330
-    ]
+    ],
+    "available_copy_ids": [
+      330
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 331,
@@ -24486,7 +26042,12 @@
     ],
     "catalog_ids": [
       331
-    ]
+    ],
+    "available_copy_ids": [
+      331
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 332,
@@ -24551,7 +26112,12 @@
     ],
     "catalog_ids": [
       332
-    ]
+    ],
+    "available_copy_ids": [
+      332
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 333,
@@ -24611,7 +26177,12 @@
     ],
     "catalog_ids": [
       333
-    ]
+    ],
+    "available_copy_ids": [
+      333
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 334,
@@ -24679,7 +26250,12 @@
     ],
     "catalog_ids": [
       334
-    ]
+    ],
+    "available_copy_ids": [
+      334
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 335,
@@ -24746,7 +26322,12 @@
     ],
     "catalog_ids": [
       335
-    ]
+    ],
+    "available_copy_ids": [
+      335
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 336,
@@ -24809,7 +26390,12 @@
     ],
     "catalog_ids": [
       336
-    ]
+    ],
+    "available_copy_ids": [
+      336
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 337,
@@ -24872,7 +26458,12 @@
     ],
     "catalog_ids": [
       337
-    ]
+    ],
+    "available_copy_ids": [
+      337
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 338,
@@ -24936,7 +26527,12 @@
     ],
     "catalog_ids": [
       338
-    ]
+    ],
+    "available_copy_ids": [
+      338
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 339,
@@ -25000,7 +26596,12 @@
     ],
     "catalog_ids": [
       339
-    ]
+    ],
+    "available_copy_ids": [
+      339
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 340,
@@ -25069,7 +26670,12 @@
     ],
     "catalog_ids": [
       340
-    ]
+    ],
+    "available_copy_ids": [
+      340
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 342,
@@ -25133,7 +26739,12 @@
     ],
     "catalog_ids": [
       342
-    ]
+    ],
+    "available_copy_ids": [
+      342
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 343,
@@ -25200,7 +26811,12 @@
     ],
     "catalog_ids": [
       343
-    ]
+    ],
+    "available_copy_ids": [
+      343
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 344,
@@ -25267,7 +26883,12 @@
     ],
     "catalog_ids": [
       344
-    ]
+    ],
+    "available_copy_ids": [
+      344
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 345,
@@ -25336,7 +26957,12 @@
     ],
     "catalog_ids": [
       345
-    ]
+    ],
+    "available_copy_ids": [
+      345
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 346,
@@ -25405,7 +27031,12 @@
     ],
     "catalog_ids": [
       346
-    ]
+    ],
+    "available_copy_ids": [
+      346
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 347,
@@ -25474,7 +27105,12 @@
     ],
     "catalog_ids": [
       347
-    ]
+    ],
+    "available_copy_ids": [
+      347
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 348,
@@ -25543,7 +27179,12 @@
     ],
     "catalog_ids": [
       348
-    ]
+    ],
+    "available_copy_ids": [
+      348
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 349,
@@ -25608,7 +27249,12 @@
     ],
     "catalog_ids": [
       349
-    ]
+    ],
+    "available_copy_ids": [
+      349
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 350,
@@ -25667,7 +27313,12 @@
     ],
     "catalog_ids": [
       350
-    ]
+    ],
+    "available_copy_ids": [
+      350
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 353,
@@ -25736,7 +27387,12 @@
     ],
     "catalog_ids": [
       353
-    ]
+    ],
+    "available_copy_ids": [
+      353
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 354,
@@ -25802,7 +27458,12 @@
     ],
     "catalog_ids": [
       354
-    ]
+    ],
+    "available_copy_ids": [
+      354
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 355,
@@ -25870,7 +27531,12 @@
     ],
     "catalog_ids": [
       355
-    ]
+    ],
+    "available_copy_ids": [
+      355
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 356,
@@ -25938,7 +27604,12 @@
     ],
     "catalog_ids": [
       356
-    ]
+    ],
+    "available_copy_ids": [
+      356
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 357,
@@ -26007,7 +27678,12 @@
     ],
     "catalog_ids": [
       357
-    ]
+    ],
+    "available_copy_ids": [
+      357
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 358,
@@ -26075,7 +27751,12 @@
     ],
     "catalog_ids": [
       358
-    ]
+    ],
+    "available_copy_ids": [
+      358
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 359,
@@ -26144,7 +27825,12 @@
     ],
     "catalog_ids": [
       359
-    ]
+    ],
+    "available_copy_ids": [
+      359
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 360,
@@ -26213,7 +27899,12 @@
     ],
     "catalog_ids": [
       360
-    ]
+    ],
+    "available_copy_ids": [
+      360
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 362,
@@ -26283,7 +27974,12 @@
     ],
     "catalog_ids": [
       362
-    ]
+    ],
+    "available_copy_ids": [
+      362
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 363,
@@ -26351,7 +28047,12 @@
     ],
     "catalog_ids": [
       363
-    ]
+    ],
+    "available_copy_ids": [
+      363
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   },
   {
     "id": 364,
@@ -26421,6 +28122,11 @@
     ],
     "catalog_ids": [
       364
-    ]
+    ],
+    "available_copy_ids": [
+      364
+    ],
+    "checked_out_copies": [],
+    "checkout_status": "Available"
   }
 ]
