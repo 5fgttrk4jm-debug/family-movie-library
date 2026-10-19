@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pokémon Detective Pikachu",
+    "ids": [
+      259,
+      323
+    ],
+    "basis": "DVD case in IMG_5568 and Blu-ray in IMG_5569"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "ids": [
+      249,
+      341
+    ],
+    "basis": "Blu-ray in IMG_5567; DVD in repeated IMG_5579/5580 group"
+  },
+  {
+    "title": "The Expanse: Season 1",
+    "ids": [
+      87,
+      189
+    ],
+    "basis": "DVD in IMG_5588; Blu-ray in IMG_5562"
+  },
+  {
+    "title": "The Muppet Movie",
+    "ids": [
+      111,
+      351
+    ],
+    "basis": "DVD edition code 40547 in IMG_5574; 11068 in IMG_5578"
+  },
+  {
+    "title": "The Penguins of Madagascar",
+    "ids": [
+      129,
+      352
+    ],
+    "basis": "Widescreen blue DVD in IMG_5578; Full Screen green DVD in IMG_5571/5572"
+  }
+]

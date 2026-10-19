@@ -1,0 +1,44 @@
+{
+  "photos_reviewed": 30,
+  "identified_photo_appearances": 366,
+  "confirmed_catalog_entries": 336,
+  "confirmed_video_entries": 335,
+  "other_media_entries": 1,
+  "added_from_photos": 34,
+  "original_entries_not_located": 18,
+  "all_records_including_unconfirmed": 354,
+  "estimated_titles_pre_review": 360,
+  "verified_360_title_inventory": false,
+  "poster_metadata_present": 299,
+  "posters_cached_locally": 299,
+  "poster_references_not_cached": 0,
+  "poster_reference_gaps": 37,
+  "poster_availability_status_counts": {
+    "cached": 299,
+    "no_reference": 37
+  },
+  "match_status_counts": {
+    "Verified work metadata": 246,
+    "Exact API match": 27,
+    "Saved TMDB match": 26,
+    "Needs metadata": 35,
+    "Version unresolved": 2
+  },
+  "format_counts": {
+    "DVD": 251,
+    "Blu-ray + DVD": 24,
+    "Blu-ray": 58,
+    "4K UHD": 2,
+    "CD-ROM": 1
+  },
+  "type_counts": {
+    "Movie": 254,
+    "TV": 63,
+    "Compilation": 16,
+    "Documentary": 2,
+    "Other": 1
+  },
+  "us_reference_ratings_available": 154,
+  "metadata_genres_available": 273,
+  "notes": "Counts are catalog entries: seasons and multi-film sets are not expanded into an invented unique-film total. Longmire has six inner season entries in one shared outer sleeve. Two repeated photo groups add 30 repeated appearances, not additional copies. Disc playback/contents are not tested."
+}
