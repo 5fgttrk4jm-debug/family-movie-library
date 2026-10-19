@@ -16,7 +16,7 @@ All **30 original photographs** were visually reviewed. They contain **366 ident
 
 **299 confirmed entries have sourced poster references.** Saved results were retained; limited API searches of 43 eligible gaps added 27 exact matches. No credential was saved or embedded. Public TMDB work pages supplied additional sourced corrections. 299 confirmed entries have validated local poster files; 0 references are not cached, and 37 entries have no reliable poster reference. All 281 unique referenced images, including unconfirmed records, were downloaded and validated. Work posters can differ from disc packaging; TV artwork is labeled as series art. Entries without artwork use their source photograph.
 
-Ratings are not guessed from genres. Only sourced US work certifications appear in the rating filter; UK labels remain separately identified. Director’s/extended/unrated editions retain an unverified disc rating. Remaining original ratings and broad genre labels are preserved as historical source data, not presented as verified metadata.
+The rating pass revisited all 182 original gaps. Cards now include sourced film certifications, explicitly labeled TV series guidance and verified Not Rated release labels. Main-feature, theatrical and constituent-film references state their scope. UK labels are not converted to US ratings. See `RATING_REVIEW.md` and `rating_review.csv` for every outcome and source.
 
 ## Repeated views and distinct copies
 

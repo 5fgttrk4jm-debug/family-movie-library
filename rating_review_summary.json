@@ -1,0 +1,29 @@
+{
+  "reviewed_entries": 182,
+  "outcomes": {
+    "Sourced rating or release label": 160,
+    "Unresolved": 15,
+    "Explicitly scoped reference": 6,
+    "Not applicable to this media": 1
+  },
+  "previous_ratings_unavailable": 182,
+  "current_rating_labels_available": 314,
+  "current_scoped_references": 6,
+  "current_not_applicable": 1,
+  "current_ratings_unavailable": 15,
+  "confirmed_entries": 336,
+  "ratings_by_label": {
+    "G": 39,
+    "NR": 45,
+    "PG": 73,
+    "PG-13": 82,
+    "TV-14": 23,
+    "Unverified": 22,
+    "R": 18,
+    "TV-PG": 17,
+    "TV-MA": 11,
+    "TV-G": 1,
+    "TV-Y7": 4,
+    "TV-Y": 1
+  }
+}

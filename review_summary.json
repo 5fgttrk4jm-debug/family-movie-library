@@ -38,7 +38,9 @@
     "Documentary": 2,
     "Other": 1
   },
-  "us_reference_ratings_available": 154,
+  "us_reference_ratings_available": 314,
   "metadata_genres_available": 273,
-  "notes": "Counts are catalog entries: seasons and multi-film sets are not expanded into an invented unique-film total. Longmire has six inner season entries in one shared outer sleeve. Two repeated photo groups add 30 repeated appearances, not additional copies. Disc playback/contents are not tested."
+  "notes": "Counts are catalog entries: seasons and multi-film sets are not expanded into an invented unique-film total. Longmire has six inner season entries in one shared outer sleeve. Two repeated photo groups add 30 repeated appearances, not additional copies. Disc playback/contents are not tested.",
+  "ratings_unavailable_on_cards": 15,
+  "scoped_rating_references": 6
 }
